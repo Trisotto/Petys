@@ -1,0 +1,14060 @@
+ID_CLIENT	GENDER	MARITAL_STATUS	QTY_PETS	DISTRICT
+3	F	Married	1	Bronx
+8	F	Married	2	Brooklyn
+9	F	Married	5	Brooklyn
+20	F	Single	2	Manhattan
+24	F	Single	1	Brooklyn
+26	F	Single	1	Brooklyn
+28	F	Single	1	Bronx
+30	F	Single	4	Manhattan
+32	F	Single	2	Brooklyn
+36	F	Single	1	Manhattan
+39	F	Married	4	Bronx
+41	F	Single	1	Manhattan
+42	F	Married	3	Brooklyn
+43	F	Single	2	Bronx
+44	F	Single	1	Brooklyn
+45	F	Single	5	Bronx
+47	F	Married	1	Queens
+48	F	Married	1	Queens
+49	F	Single	4	Bronx
+52	F	Single	3	Brooklyn
+55	F	Married	3	Manhattan
+57	F	Single	3	Brooklyn
+59	F	Married	5	Brooklyn
+60	F	Single	3	Brooklyn
+62	F	Married	1	Bronx
+64	F	Single	4	Manhattan
+71	F	Single	5	Queens
+75	F	Single	3	Bronx
+76	F	Single	1	Manhattan
+77	F	Single	2	Brooklyn
+79	F	Single	2	Bronx
+80	F	Single	1	Manhattan
+81	F	Single	2	Manhattan
+87	F	Single	4	Brooklyn
+91	F	Married	1	Bronx
+93	F	Married	5	Bronx
+96	F	Single	1	Manhattan
+99	F	Single	3	Manhattan
+102	F	Married	2	Queens
+104	F	Married	1	Manhattan
+105	F	Married	3	Manhattan
+109	F	Single	2	Brooklyn
+110	F	Single	3	Brooklyn
+112	F	Married	4	Brooklyn
+114	F	Single	3	Queens
+115	F	Single	3	Bronx
+117	F	Married	3	Bronx
+118	F	Single	2	Manhattan
+119	F	Single	4	Brooklyn
+121	F	Single	5	Brooklyn
+125	F	Married	2	Bronx
+126	F	Single	2	Bronx
+127	F	Single	1	Bronx
+128	F	Single	1	Bronx
+131	F	Single	3	Manhattan
+133	F	Married	1	Brooklyn
+135	F	Married	5	Queens
+136	F	Married	3	Bronx
+137	F	Married	3	Brooklyn
+139	F	Married	1	Manhattan
+140	F	Married	2	Manhattan
+141	F	Married	4	Brooklyn
+144	F	Single	3	Brooklyn
+148	F	Single	2	Bronx
+154	F	Single	1	Bronx
+155	F	Married	1	Brooklyn
+156	F	Single	1	Queens
+158	F	Married	3	Bronx
+159	F	Married	4	Manhattan
+160	F	Married	1	Bronx
+161	F	Married	1	Manhattan
+162	F	Married	3	Brooklyn
+164	F	Single	4	Manhattan
+165	F	Single	2	Manhattan
+168	F	Married	4	Staten Island
+169	F	Married	1	Bronx
+170	F	Single	1	Brooklyn
+175	F	Single	1	Queens
+177	F	Married	1	Bronx
+178	F	Single	1	Bronx
+179	F	Single	1	Brooklyn
+180	F	Single	4	Bronx
+181	F	Single	1	Manhattan
+182	F	Married	1	Bronx
+187	F	Single	1	Bronx
+188	F	Married	4	Bronx
+190	F	Married	1	Bronx
+191	F	Single	4	Bronx
+192	F	Married	4	Manhattan
+193	F	Single	1	Brooklyn
+194	F	Single	1	Brooklyn
+195	F	Single	4	Brooklyn
+197	F	Married	1	Manhattan
+198	F	Married	1	Manhattan
+208	F	Married	2	Bronx
+210	F	Married	1	Brooklyn
+211	F	Married	3	Brooklyn
+213	F	Single	3	Bronx
+216	F	Single	2	Bronx
+218	F	Single	2	Brooklyn
+221	F	Married	2	Bronx
+224	F	Married	3	Queens
+225	F	Single	5	Manhattan
+226	F	Single	2	Manhattan
+227	F	Single	3	Bronx
+228	F	Married	3	Manhattan
+229	F	Married	1	Bronx
+235	F	Married	2	Manhattan
+238	F	Married	1	Manhattan
+240	F	Married	2	Bronx
+242	F	Single	1	Queens
+243	F	Single	1	Brooklyn
+244	F	Married	3	Brooklyn
+248	F	Single	1	Brooklyn
+250	F	Single	1	Manhattan
+257	F	Married	3	Manhattan
+260	F	Married	5	Manhattan
+262	F	Single	4	Brooklyn
+264	F	Single	1	Staten Island
+265	F	Single	4	Manhattan
+268	F	Married	1	Brooklyn
+271	F	Single	2	Brooklyn
+272	F	Single	1	Manhattan
+273	F	Single	1	Brooklyn
+274	F	Single	4	Bronx
+275	F	Married	2	Brooklyn
+280	F	Single	1	Bronx
+281	F	Single	1	Brooklyn
+282	F	Single	3	Manhattan
+283	F	Single	3	Staten Island
+286	F	Single	1	Queens
+287	F	Married	1	Brooklyn
+291	F	Single	1	Brooklyn
+294	F	Single	1	Manhattan
+296	F	Married	5	Brooklyn
+297	F	Married	5	Brooklyn
+298	F	Married	2	Brooklyn
+299	F	Married	1	Brooklyn
+301	F	Married	5	Manhattan
+303	F	Married	1	Staten Island
+304	F	Married	1	Bronx
+305	F	Single	4	Brooklyn
+309	F	Single	1	Queens
+310	F	Single	1	Brooklyn
+312	F	Married	3	Bronx
+317	F	Married	1	Bronx
+319	F	Married	1	Bronx
+321	F	Single	2	Brooklyn
+322	F	Single	1	Manhattan
+323	F	Married	4	Manhattan
+328	F	Single	3	Manhattan
+329	F	Single	2	Bronx
+330	F	Single	1	Brooklyn
+335	F	Single	5	Bronx
+336	F	Married	3	Brooklyn
+337	F	Married	1	Queens
+338	F	Married	3	Staten Island
+339	F	Single	2	Brooklyn
+340	F	Married	2	Queens
+341	F	Married	1	Bronx
+344	F	Single	1	Brooklyn
+345	F	Married	2	Brooklyn
+346	F	Married	1	Bronx
+347	F	Single	4	Staten Island
+349	F	Single	1	Staten Island
+352	F	Married	1	Manhattan
+354	F	Married	2	Queens
+355	F	Single	1	Manhattan
+360	F	Married	4	Manhattan
+361	F	Single	1	Manhattan
+363	F	Married	4	Bronx
+364	F	Married	4	Bronx
+365	F	Single	2	Staten Island
+366	F	Single	2	Manhattan
+369	F	Married	1	Bronx
+370	F	Married	2	Bronx
+372	F	Married	1	Staten Island
+373	F	Single	2	Bronx
+376	F	Single	2	Manhattan
+378	F	Single	1	Manhattan
+381	F	Married	4	Bronx
+382	F	Married	4	Brooklyn
+389	F	Married	1	Brooklyn
+391	F	Single	4	Brooklyn
+392	F	Married	1	Bronx
+394	F	Single	2	Staten Island
+395	F	Married	4	Manhattan
+397	F	Married	2	Brooklyn
+398	F	Single	1	Bronx
+399	F	Married	3	Brooklyn
+400	F	Married	1	Queens
+402	F	Single	1	Staten Island
+405	F	Single	3	Bronx
+406	F	Single	1	Bronx
+409	F	Married	1	Manhattan
+411	F	Married	1	Bronx
+414	F	Married	3	Brooklyn
+415	F	Single	4	Brooklyn
+417	F	Single	1	Bronx
+422	F	Married	2	Bronx
+423	F	Single	5	Brooklyn
+426	F	Married	4	Bronx
+430	F	Single	3	Manhattan
+432	F	Married	4	Bronx
+436	F	Married	1	Brooklyn
+438	F	Married	2	Brooklyn
+439	F	Married	3	Bronx
+440	F	Married	5	Bronx
+441	F	Married	5	Staten Island
+443	F	Single	1	Staten Island
+446	F	Single	2	Bronx
+447	F	Single	1	Brooklyn
+448	F	Married	1	Bronx
+450	F	Single	3	Brooklyn
+451	F	Married	1	Brooklyn
+453	F	Married	3	Manhattan
+454	F	Single	3	Bronx
+457	F	Single	1	Brooklyn
+462	F	Single	2	Queens
+463	F	Single	3	Queens
+464	F	Single	3	Bronx
+465	F	Single	3	Bronx
+466	F	Married	4	Brooklyn
+467	F	Single	1	Bronx
+468	F	Married	2	Staten Island
+471	F	Single	3	Manhattan
+472	F	Married	1	Bronx
+473	F	Married	3	Manhattan
+474	F	Married	1	Brooklyn
+476	F	Single	1	Bronx
+478	F	Married	5	Manhattan
+480	F	Married	3	Queens
+481	F	Married	2	Manhattan
+482	F	Single	4	Manhattan
+484	F	Married	3	Bronx
+486	F	Married	2	Brooklyn
+487	F	Single	4	Brooklyn
+489	F	Married	2	Queens
+491	F	Married	2	Queens
+492	F	Married	1	Staten Island
+493	F	Married	5	Bronx
+494	F	Single	1	Brooklyn
+497	F	Single	4	Queens
+498	F	Single	1	Brooklyn
+499	F	Single	1	Manhattan
+502	F	Single	3	Bronx
+504	F	Single	4	Bronx
+506	F	Single	3	Brooklyn
+510	F	Single	1	Queens
+511	F	Married	4	Manhattan
+518	F	Married	3	Brooklyn
+521	F	Married	1	Manhattan
+524	F	Single	2	Bronx
+526	F	Married	2	Manhattan
+529	F	Single	4	Manhattan
+533	F	Married	1	Bronx
+534	F	Married	3	Queens
+537	F	Married	3	Queens
+538	F	Single	5	Manhattan
+540	F	Single	4	Brooklyn
+541	F	Single	1	Manhattan
+542	F	Married	3	Brooklyn
+543	F	Married	3	Bronx
+545	F	Single	3	Bronx
+546	F	Single	3	Queens
+547	F	Single	1	Manhattan
+551	F	Single	2	Bronx
+552	F	Single	4	Manhattan
+553	F	Married	1	Brooklyn
+554	F	Single	2	Queens
+563	F	Single	4	Bronx
+564	F	Married	3	Manhattan
+565	F	Single	4	Bronx
+566	F	Single	5	Staten Island
+567	F	Single	1	Brooklyn
+568	F	Single	1	Queens
+569	F	Single	1	Queens
+570	F	Single	1	Bronx
+571	F	Single	1	Manhattan
+572	F	Married	3	Staten Island
+573	F	Single	2	Manhattan
+574	F	Single	2	Manhattan
+581	F	Single	1	Manhattan
+587	F	Married	2	Bronx
+588	F	Married	4	Queens
+591	F	Single	3	Manhattan
+593	F	Married	3	Bronx
+594	F	Single	1	Bronx
+595	F	Single	4	Manhattan
+597	F	Single	4	Manhattan
+598	F	Married	1	Brooklyn
+601	F	Single	4	Brooklyn
+602	F	Single	3	Bronx
+603	F	Married	1	Manhattan
+604	F	Single	2	Staten Island
+606	F	Single	4	Brooklyn
+612	F	Married	3	Staten Island
+614	F	Married	2	Bronx
+615	F	Married	4	Queens
+617	F	Single	3	Bronx
+618	F	Married	1	Manhattan
+619	F	Married	2	Bronx
+621	F	Married	2	Manhattan
+622	F	Single	2	Queens
+624	F	Single	3	Bronx
+625	F	Single	1	Bronx
+629	F	Married	4	Manhattan
+630	F	Single	4	Manhattan
+632	F	Married	2	Brooklyn
+633	F	Married	2	Brooklyn
+636	F	Single	1	Bronx
+638	F	Married	3	Manhattan
+639	F	Married	2	Bronx
+644	F	Married	4	Bronx
+645	F	Single	1	Manhattan
+647	F	Married	5	Manhattan
+649	F	Married	3	Queens
+652	F	Single	3	Brooklyn
+654	F	Married	3	Manhattan
+655	F	Married	1	Queens
+658	F	Single	3	Bronx
+662	F	Married	3	Manhattan
+663	F	Single	3	Manhattan
+664	F	Single	2	Bronx
+665	F	Single	4	Brooklyn
+669	F	Single	2	Bronx
+670	F	Single	4	Queens
+673	F	Married	1	Manhattan
+676	F	Single	5	Bronx
+680	F	Married	3	Queens
+681	F	Single	4	Manhattan
+682	F	Single	2	Brooklyn
+683	F	Married	1	Queens
+689	F	Single	4	Manhattan
+690	F	Single	5	Manhattan
+697	F	Married	2	Bronx
+698	F	Married	1	Bronx
+704	F	Married	1	Queens
+711	F	Married	2	Bronx
+717	F	Single	4	Brooklyn
+719	F	Married	1	Bronx
+724	F	Single	2	Brooklyn
+726	F	Single	4	Bronx
+727	F	Married	3	Brooklyn
+728	F	Married	5	Brooklyn
+729	F	Single	3	Manhattan
+731	F	Married	1	Queens
+732	F	Single	5	Brooklyn
+733	F	Single	1	Manhattan
+734	F	Single	3	Brooklyn
+736	F	Single	1	Staten Island
+739	F	Married	4	Queens
+740	F	Single	5	Manhattan
+741	F	Married	2	Manhattan
+742	F	Married	4	Bronx
+745	F	Married	5	Bronx
+746	F	Single	1	Bronx
+747	F	Married	4	Manhattan
+749	F	Single	2	Brooklyn
+750	F	Single	3	Bronx
+751	F	Single	3	Bronx
+753	F	Single	1	Manhattan
+754	F	Single	3	Manhattan
+755	F	Single	3	Bronx
+757	F	Single	4	Bronx
+758	F	Single	4	Staten Island
+759	F	Married	1	Brooklyn
+760	F	Single	1	Manhattan
+766	F	Married	4	Bronx
+767	F	Single	2	Queens
+769	F	Single	4	Manhattan
+770	F	Single	3	Bronx
+771	F	Single	3	Bronx
+774	F	Married	1	Bronx
+779	F	Married	2	Bronx
+780	F	Single	5	Bronx
+781	F	Married	2	Manhattan
+782	F	Married	5	Bronx
+783	F	Single	1	Manhattan
+786	F	Single	1	Bronx
+788	F	Married	5	Bronx
+789	F	Married	4	Manhattan
+790	F	Single	2	Bronx
+792	F	Single	3	Bronx
+796	F	Single	4	Manhattan
+799	F	Married	2	Brooklyn
+803	F	Single	2	Bronx
+804	F	Married	2	Queens
+806	F	Married	2	Bronx
+808	F	Single	1	Bronx
+810	F	Married	3	Brooklyn
+815	F	Married	3	Queens
+816	F	Married	4	Brooklyn
+817	F	Single	2	Bronx
+818	F	Married	2	Bronx
+819	F	Single	2	Bronx
+820	F	Single	5	Manhattan
+822	F	Single	2	Brooklyn
+823	F	Single	3	Manhattan
+824	F	Single	3	Brooklyn
+826	F	Married	3	Queens
+827	F	Single	1	Manhattan
+828	F	Married	1	Bronx
+831	F	Married	2	Bronx
+834	F	Single	2	Manhattan
+837	F	Single	4	Manhattan
+838	F	Single	4	Queens
+839	F	Single	3	Bronx
+841	F	Married	1	Staten Island
+843	F	Single	1	Queens
+847	F	Married	4	Bronx
+850	F	Married	2	Manhattan
+852	F	Single	2	Bronx
+856	F	Married	5	Manhattan
+857	F	Single	4	Bronx
+863	F	Married	5	Bronx
+864	F	Single	3	Manhattan
+866	F	Married	4	Brooklyn
+867	F	Single	1	Brooklyn
+868	F	Single	5	Brooklyn
+869	F	Single	2	Queens
+870	F	Single	3	Manhattan
+872	F	Married	3	Queens
+873	F	Married	4	Manhattan
+874	F	Married	1	Brooklyn
+875	F	Single	4	Brooklyn
+876	F	Married	5	Brooklyn
+878	F	Single	1	Manhattan
+879	F	Married	5	Bronx
+880	M	Single	1	Manhattan
+886	M	Married	4	Bronx
+887	F	Single	5	Staten Island
+893	F	Married	3	Bronx
+895	F	Single	5	Brooklyn
+896	F	Married	5	Brooklyn
+897	M	Single	1	Brooklyn
+898	F	Married	1	Brooklyn
+900	F	Single	1	Manhattan
+901	M	Single	2	Bronx
+904	M	Married	4	Brooklyn
+905	M	Single	4	Manhattan
+906	M	Married	1	Manhattan
+907	F	Married	3	Brooklyn
+908	F	Single	4	Manhattan
+909	F	Single	1	Bronx
+910	M	Single	1	Bronx
+911	M	Single	2	Brooklyn
+913	M	Married	2	Queens
+916	M	Single	3	Bronx
+917	M	Married	2	Bronx
+918	M	Married	1	Manhattan
+919	M	Married	5	Queens
+921	M	Single	5	Queens
+922	M	Single	4	Brooklyn
+924	M	Married	5	Manhattan
+925	M	Single	1	Brooklyn
+927	M	Married	3	Brooklyn
+930	F	Married	2	Bronx
+933	M	Single	2	Brooklyn
+934	F	Single	1	Bronx
+937	F	Married	4	Brooklyn
+938	M	Married	4	Queens
+941	M	Single	1	Bronx
+943	F	Single	2	Brooklyn
+944	F	Married	3	Bronx
+948	M	Single	5	Queens
+950	M	Single	4	Bronx
+952	M	Married	2	Brooklyn
+955	F	Married	3	Bronx
+958	M	Married	4	Manhattan
+959	M	Single	1	Brooklyn
+962	M	Married	2	Bronx
+965	F	Married	2	Queens
+967	F	Single	1	Bronx
+968	F	Married	1	Bronx
+970	F	Single	1	Staten Island
+971	F	Married	3	Queens
+972	M	Single	4	Queens
+974	F	Married	4	Brooklyn
+975	F	Single	1	Brooklyn
+976	F	Married	5	Manhattan
+978	M	Married	3	Queens
+979	F	Single	1	Bronx
+981	M	Single	1	Manhattan
+983	F	Single	2	Manhattan
+985	F	Married	2	Manhattan
+988	F	Married	2	Bronx
+991	F	Married	1	Manhattan
+992	F	Single	3	Bronx
+993	M	Married	3	Bronx
+994	M	Single	5	Bronx
+995	M	Married	1	Bronx
+996	M	Single	2	Bronx
+997	F	Single	4	Manhattan
+1002	F	Married	2	Queens
+1003	M	Married	3	Bronx
+1004	F	Married	3	Bronx
+1005	M	Single	2	Manhattan
+1013	F	Married	2	Queens
+1014	F	Married	2	Queens
+1015	M	Married	4	Bronx
+1017	F	Married	4	Brooklyn
+1022	M	Married	3	Brooklyn
+1023	M	Married	1	Bronx
+1024	F	Married	1	Bronx
+1025	M	Married	2	Brooklyn
+1026	M	Single	1	Queens
+1031	F	Married	2	Brooklyn
+1032	F	Married	2	Queens
+1035	M	Married	1	Bronx
+1036	F	Single	3	Bronx
+1037	M	Single	5	Brooklyn
+1038	F	Married	3	Queens
+1041	M	Single	4	Manhattan
+1042	F	Married	1	Manhattan
+1044	F	Single	1	Manhattan
+1048	M	Single	4	Bronx
+1049	F	Married	4	Manhattan
+1050	F	Single	1	Brooklyn
+1051	F	Single	1	Brooklyn
+1052	F	Married	1	Bronx
+1053	F	Single	1	Bronx
+1055	M	Married	1	Bronx
+1056	F	Married	2	Queens
+1057	F	Married	2	Staten Island
+1058	F	Single	2	Bronx
+1059	M	Single	4	Brooklyn
+1062	F	Married	4	Queens
+1066	M	Married	1	Staten Island
+1067	M	Single	2	Brooklyn
+1068	M	Married	1	Brooklyn
+1070	F	Single	2	Manhattan
+1071	M	Single	1	Bronx
+1073	M	Single	5	Bronx
+1074	M	Single	1	Bronx
+1076	F	Married	4	Staten Island
+1079	F	Married	2	Bronx
+1082	F	Married	3	Bronx
+1083	M	Married	5	Manhattan
+1084	M	Married	2	Manhattan
+1085	F	Single	4	Brooklyn
+1089	M	Single	3	Bronx
+1090	M	Single	1	Bronx
+1091	F	Single	1	Bronx
+1092	M	Married	3	Brooklyn
+1093	F	Single	3	Bronx
+1094	F	Married	3	Bronx
+1097	M	Single	1	Queens
+1101	M	Married	3	Brooklyn
+1102	F	Married	2	Bronx
+1103	F	Married	4	Manhattan
+1107	M	Single	1	Staten Island
+1109	F	Single	5	Brooklyn
+1110	M	Married	2	Bronx
+1111	M	Married	1	Staten Island
+1112	M	Married	4	Manhattan
+1113	M	Married	1	Queens
+1114	M	Married	4	Manhattan
+1115	F	Single	3	Staten Island
+1116	M	Single	4	Brooklyn
+1117	M	Single	5	Queens
+1119	F	Married	2	Brooklyn
+1124	M	Single	3	Manhattan
+1125	F	Married	1	Queens
+1127	M	Single	5	Brooklyn
+1128	F	Single	1	Bronx
+1130	M	Single	5	Bronx
+1131	M	Single	1	Bronx
+1132	F	Married	2	Manhattan
+1133	F	Single	3	Bronx
+1135	F	Married	2	Brooklyn
+1138	M	Married	2	Brooklyn
+1140	M	Married	1	Staten Island
+1141	M	Single	3	Manhattan
+1144	M	Married	1	Brooklyn
+1145	F	Single	1	Bronx
+1146	F	Married	5	Manhattan
+1147	F	Single	3	Bronx
+1152	M	Married	4	Bronx
+1153	M	Single	1	Bronx
+1154	F	Single	5	Bronx
+1157	M	Married	1	Manhattan
+1159	F	Single	2	Manhattan
+1161	M	Single	5	Bronx
+1162	M	Married	2	Brooklyn
+1164	F	Single	1	Queens
+1166	M	Single	1	Bronx
+1167	M	Married	3	Brooklyn
+1168	F	Married	1	Bronx
+1169	M	Married	1	Brooklyn
+1170	F	Single	5	Manhattan
+1171	F	Single	2	Brooklyn
+1172	M	Married	3	Bronx
+1173	M	Single	2	Bronx
+1174	M	Single	5	Queens
+1175	F	Married	4	Bronx
+1177	F	Single	1	Queens
+1178	M	Single	4	Manhattan
+1180	M	Married	5	Brooklyn
+1183	M	Single	3	Queens
+1184	M	Single	5	Staten Island
+1185	M	Married	4	Bronx
+1187	M	Single	2	Bronx
+1189	M	Single	3	Bronx
+1190	F	Single	5	Brooklyn
+1191	M	Single	2	Manhattan
+1192	M	Married	4	Bronx
+1193	F	Single	1	Bronx
+1194	F	Single	1	Manhattan
+1195	F	Single	5	Manhattan
+1196	M	Single	1	Bronx
+1197	M	Single	1	Queens
+1201	M	Married	1	Manhattan
+1202	M	Married	1	Manhattan
+1203	M	Married	2	Bronx
+1204	F	Married	4	Manhattan
+1205	F	Married	1	Bronx
+1207	M	Single	2	Staten Island
+1209	M	Married	3	Manhattan
+1212	M	Married	3	Staten Island
+1214	M	Married	3	Manhattan
+1215	M	Single	1	Bronx
+1216	M	Single	1	Bronx
+1217	F	Single	3	Brooklyn
+1221	F	Married	1	Bronx
+1222	M	Married	3	Manhattan
+1224	M	Married	3	Manhattan
+1228	M	Single	3	Brooklyn
+1232	M	Married	2	Queens
+1234	F	Married	1	Brooklyn
+1235	M	Single	2	Manhattan
+1236	M	Single	3	Brooklyn
+1237	M	Married	2	Bronx
+1240	F	Married	2	Bronx
+1241	M	Single	5	Manhattan
+1244	F	Married	1	Manhattan
+1245	F	Single	2	Bronx
+1249	F	Single	2	Bronx
+1253	M	Single	4	Bronx
+1254	F	Married	1	Bronx
+1256	M	Married	5	Brooklyn
+1259	F	Married	1	Manhattan
+1260	F	Married	4	Queens
+1261	F	Single	3	Manhattan
+1262	M	Single	5	Brooklyn
+1265	F	Married	2	Queens
+1266	F	Single	4	Bronx
+1268	F	Single	2	Manhattan
+1270	F	Married	1	Brooklyn
+1271	M	Single	2	Bronx
+1274	M	Single	2	Brooklyn
+1275	M	Single	4	Manhattan
+1277	F	Married	1	Queens
+1279	F	Single	3	Manhattan
+1281	F	Married	4	Manhattan
+1282	F	Single	3	Manhattan
+1284	F	Single	1	Manhattan
+1285	M	Married	5	Bronx
+1286	M	Married	4	Manhattan
+1289	M	Married	4	Queens
+1293	M	Married	3	Staten Island
+1295	M	Married	3	Queens
+1297	M	Single	4	Manhattan
+1300	M	Married	1	Staten Island
+1304	M	Single	3	Bronx
+1306	M	Married	4	Bronx
+1309	F	Married	1	Manhattan
+1310	F	Married	4	Manhattan
+1311	M	Married	4	Manhattan
+1312	F	Single	2	Manhattan
+1313	F	Married	1	Bronx
+1316	M	Married	3	Bronx
+1317	F	Single	2	Manhattan
+1319	M	Married	1	Manhattan
+1321	M	Married	3	Bronx
+1322	M	Single	5	Bronx
+1325	M	Single	4	Queens
+1328	M	Single	5	Bronx
+1329	F	Single	3	Bronx
+1330	M	Single	4	Bronx
+1331	F	Single	4	Bronx
+1332	F	Married	3	Manhattan
+1334	M	Married	3	Bronx
+1337	M	Single	5	Bronx
+1338	M	Single	5	Manhattan
+1339	F	Single	2	Bronx
+1341	M	Married	3	Manhattan
+1343	M	Married	1	Queens
+1344	M	Single	3	Brooklyn
+1345	F	Married	5	Bronx
+1346	F	Single	4	Bronx
+1347	M	Married	2	Bronx
+1350	M	Married	5	Brooklyn
+1352	M	Single	4	Bronx
+1357	F	Single	5	Manhattan
+1360	M	Married	4	Bronx
+1361	F	Single	1	Manhattan
+1362	M	Single	4	Brooklyn
+1366	F	Single	4	Bronx
+1367	F	Single	3	Brooklyn
+1368	F	Married	1	Brooklyn
+1370	F	Married	2	Bronx
+1371	M	Married	3	Queens
+1374	M	Single	1	Brooklyn
+1376	M	Married	5	Brooklyn
+1377	M	Single	3	Brooklyn
+1378	M	Single	1	Manhattan
+1379	F	Married	2	Brooklyn
+1380	F	Single	1	Manhattan
+1386	F	Married	4	Manhattan
+1387	F	Married	1	Manhattan
+1388	M	Married	1	Bronx
+1389	M	Married	1	Bronx
+1390	F	Single	1	Queens
+1391	M	Single	1	Brooklyn
+1392	M	Married	2	Bronx
+1393	M	Single	5	Queens
+1394	M	Married	1	Brooklyn
+1395	M	Single	1	Brooklyn
+1396	F	Single	5	Queens
+1397	M	Single	1	Manhattan
+1402	F	Married	4	Queens
+1406	F	Single	2	Queens
+1408	F	Single	5	Brooklyn
+1409	M	Married	1	Manhattan
+1410	M	Single	1	Manhattan
+1412	M	Married	2	Manhattan
+1414	F	Single	1	Bronx
+1415	M	Single	1	Manhattan
+1417	F	Single	2	Staten Island
+1418	F	Single	4	Staten Island
+1419	M	Single	1	Brooklyn
+1420	M	Single	2	Queens
+1421	F	Single	4	Manhattan
+1423	F	Single	1	Bronx
+1424	M	Married	3	Brooklyn
+1425	F	Married	3	Queens
+1427	M	Single	4	Brooklyn
+1428	F	Single	5	Manhattan
+1429	F	Single	4	Bronx
+1430	M	Single	2	Manhattan
+1431	M	Single	1	Brooklyn
+1432	M	Single	4	Manhattan
+1434	M	Married	3	Manhattan
+1437	F	Single	1	Brooklyn
+1438	F	Single	3	Manhattan
+1442	F	Married	3	Manhattan
+1443	F	Married	4	Brooklyn
+1444	F	Married	5	Manhattan
+1446	F	Single	3	Manhattan
+1447	M	Married	1	Queens
+1448	F	Married	3	Brooklyn
+1449	F	Single	4	Queens
+1451	M	Married	3	Manhattan
+1455	F	Single	2	Brooklyn
+1457	F	Single	2	Manhattan
+1460	M	Married	1	Manhattan
+1466	M	Single	1	Bronx
+1467	F	Single	3	Bronx
+1468	M	Single	2	Bronx
+1469	F	Married	5	Manhattan
+1470	M	Married	4	Bronx
+1473	M	Single	1	Bronx
+1475	M	Married	3	Brooklyn
+1478	M	Married	4	Queens
+1480	M	Single	3	Brooklyn
+1481	F	Single	2	Bronx
+1484	F	Single	4	Brooklyn
+1485	F	Married	1	Bronx
+1487	F	Single	1	Brooklyn
+1490	M	Married	4	Bronx
+1491	F	Married	1	Manhattan
+1494	F	Married	4	Staten Island
+1495	F	Married	3	Manhattan
+1497	F	Married	3	Bronx
+1498	F	Single	1	Manhattan
+1499	F	Single	1	Bronx
+1501	F	Married	2	Brooklyn
+1502	F	Single	5	Brooklyn
+1503	F	Single	1	Staten Island
+1504	F	Single	3	Manhattan
+1507	M	Married	1	Bronx
+1508	M	Single	1	Staten Island
+1511	M	Married	3	Manhattan
+1512	M	Single	5	Brooklyn
+1519	M	Married	1	Brooklyn
+1520	M	Married	2	Brooklyn
+1523	M	Single	1	Queens
+1524	F	Married	4	Bronx
+1528	F	Married	4	Manhattan
+1529	F	Married	4	Bronx
+1531	F	Married	1	Bronx
+1532	F	Married	4	Bronx
+1533	M	Married	3	Manhattan
+1537	F	Single	3	Bronx
+1538	M	Single	2	Bronx
+1539	M	Married	2	Brooklyn
+1541	M	Married	4	Bronx
+1542	F	Single	3	Queens
+1545	M	Married	1	Bronx
+1547	M	Single	5	Manhattan
+1548	F	Single	2	Bronx
+1549	M	Single	4	Bronx
+1550	F	Single	2	Queens
+1551	F	Married	4	Manhattan
+1553	F	Married	1	Queens
+1554	M	Married	3	Queens
+1556	F	Married	3	Bronx
+1559	F	Single	2	Brooklyn
+1560	F	Single	1	Queens
+1561	F	Married	4	Manhattan
+1563	F	Married	4	Brooklyn
+1564	M	Married	4	Manhattan
+1565	M	Married	5	Manhattan
+1567	M	Married	2	Manhattan
+1568	M	Married	1	Brooklyn
+1571	F	Single	1	Manhattan
+1572	M	Married	4	Manhattan
+1575	M	Married	2	Bronx
+1576	F	Married	4	Bronx
+1577	F	Single	4	Brooklyn
+1578	F	Married	1	Brooklyn
+1580	F	Single	4	Bronx
+1582	M	Married	4	Manhattan
+1583	F	Married	1	Bronx
+1584	F	Married	3	Bronx
+1586	F	Single	2	Staten Island
+1587	M	Married	2	Manhattan
+1588	M	Single	1	Queens
+1589	M	Married	1	Bronx
+1590	F	Married	1	Queens
+1593	F	Single	2	Brooklyn
+1594	M	Married	2	Manhattan
+1596	M	Married	2	Manhattan
+1598	M	Married	1	Manhattan
+1599	F	Single	4	Bronx
+1601	M	Single	1	Bronx
+1602	F	Single	5	Bronx
+1603	F	Married	3	Staten Island
+1605	M	Single	1	Bronx
+1606	M	Married	1	Manhattan
+1607	F	Married	1	Bronx
+1610	F	Single	1	Manhattan
+1611	M	Single	1	Bronx
+1612	M	Married	3	Manhattan
+1614	F	Single	3	Queens
+1615	F	Single	4	Bronx
+1616	M	Single	3	Manhattan
+1617	M	Married	4	Manhattan
+1620	F	Married	1	Brooklyn
+1622	M	Married	1	Manhattan
+1624	M	Single	4	Manhattan
+1625	M	Married	1	Brooklyn
+1626	M	Married	1	Bronx
+1628	M	Married	5	Bronx
+1631	M	Married	3	Manhattan
+1633	M	Single	4	Manhattan
+1634	F	Married	1	Manhattan
+1636	F	Single	2	Manhattan
+1638	M	Single	1	Manhattan
+1639	F	Married	4	Staten Island
+1641	M	Married	2	Queens
+1642	F	Married	4	Bronx
+1643	F	Married	1	Manhattan
+1646	M	Single	2	Bronx
+1647	F	Married	1	Bronx
+1648	F	Married	3	Manhattan
+1650	M	Married	2	Brooklyn
+1654	M	Single	1	Bronx
+1655	M	Single	2	Bronx
+1656	F	Single	4	Bronx
+1658	F	Single	3	Bronx
+1659	F	Married	1	Bronx
+1660	F	Single	4	Bronx
+1662	F	Single	1	Queens
+1663	F	Married	2	Brooklyn
+1665	F	Single	4	Bronx
+1666	F	Single	3	Brooklyn
+1669	F	Married	5	Manhattan
+1674	M	Single	1	Brooklyn
+1675	M	Single	2	Bronx
+1676	M	Married	3	Manhattan
+1681	F	Married	5	Bronx
+1682	F	Single	1	Bronx
+1683	M	Married	3	Brooklyn
+1684	M	Married	3	Bronx
+1686	M	Married	1	Bronx
+1690	M	Married	2	Manhattan
+1692	F	Married	3	Manhattan
+1693	M	Married	3	Manhattan
+1696	M	Single	3	Staten Island
+1701	F	Single	1	Bronx
+1702	M	Single	2	Brooklyn
+1706	F	Single	3	Bronx
+1718	M	Single	4	Bronx
+1719	M	Married	3	Brooklyn
+1720	F	Single	4	Manhattan
+1721	M	Married	4	Bronx
+1722	F	Single	3	Brooklyn
+1726	F	Single	1	Queens
+1728	F	Married	4	Staten Island
+1729	M	Single	1	Manhattan
+1730	F	Married	1	Manhattan
+1731	F	Married	5	Bronx
+1736	F	Single	1	Bronx
+1737	M	Married	5	Manhattan
+1738	M	Single	4	Brooklyn
+1740	F	Married	1	Staten Island
+1741	M	Married	4	Manhattan
+1742	F	Married	2	Brooklyn
+1743	M	Married	3	Bronx
+1744	M	Married	3	Bronx
+1745	M	Married	3	Queens
+1747	F	Single	1	Manhattan
+1748	F	Single	1	Bronx
+1750	F	Single	3	Bronx
+1753	F	Married	3	Brooklyn
+1754	F	Single	5	Manhattan
+1755	F	Married	1	Manhattan
+1758	F	Single	4	Manhattan
+1759	F	Married	1	Brooklyn
+1763	M	Married	4	Manhattan
+1765	M	Single	2	Staten Island
+1767	M	Single	1	Brooklyn
+1769	F	Single	4	Brooklyn
+1770	M	Single	5	Manhattan
+1771	M	Married	4	Staten Island
+1773	M	Married	2	Bronx
+1774	F	Single	1	Staten Island
+1777	M	Single	3	Brooklyn
+1780	F	Single	3	Manhattan
+1781	M	Single	1	Brooklyn
+1782	F	Married	1	Queens
+1783	M	Married	1	Manhattan
+1785	F	Single	5	Manhattan
+1787	F	Married	2	Manhattan
+1788	F	Married	5	Queens
+1791	M	Single	1	Bronx
+1792	M	Single	4	Brooklyn
+1793	F	Single	1	Bronx
+1794	F	Single	4	Bronx
+1795	M	Single	4	Manhattan
+1796	F	Single	2	Staten Island
+1798	M	Single	1	Manhattan
+1799	M	Single	5	Brooklyn
+1802	F	Married	1	Queens
+1805	F	Single	1	Queens
+1807	F	Married	1	Bronx
+1808	M	Single	4	Manhattan
+1810	F	Married	1	Staten Island
+1811	M	Single	4	Manhattan
+1812	M	Single	5	Queens
+1813	F	Single	4	Bronx
+1814	M	Married	2	Brooklyn
+1815	M	Married	5	Brooklyn
+1820	M	Single	4	Bronx
+1821	M	Single	4	Bronx
+1822	M	Married	2	Bronx
+1823	M	Single	2	Queens
+1825	M	Married	5	Queens
+1826	M	Single	1	Brooklyn
+1829	M	Single	3	Manhattan
+1832	F	Single	4	Queens
+1836	F	Married	3	Queens
+1838	M	Single	3	Manhattan
+1839	F	Married	3	Manhattan
+1841	M	Married	1	Bronx
+1843	M	Married	2	Queens
+1844	M	Married	1	Manhattan
+1845	F	Single	2	Queens
+1848	M	Single	1	Manhattan
+1849	F	Single	1	Bronx
+1850	M	Single	1	Manhattan
+1852	F	Single	1	Staten Island
+1853	F	Single	4	Manhattan
+1856	F	Single	1	Manhattan
+1861	F	Married	4	Bronx
+1862	F	Single	3	Bronx
+1864	M	Single	4	Bronx
+1865	F	Single	2	Brooklyn
+1866	F	Married	1	Brooklyn
+1869	F	Single	4	Manhattan
+1871	F	Married	1	Manhattan
+1872	M	Single	4	Bronx
+1874	M	Single	2	Bronx
+1877	F	Married	1	Brooklyn
+1882	M	Single	5	Queens
+1883	M	Married	1	Bronx
+1887	M	Married	5	Manhattan
+1890	M	Married	4	Manhattan
+1891	M	Single	1	Brooklyn
+1893	M	Single	2	Bronx
+1894	F	Single	3	Queens
+1896	F	Married	3	Staten Island
+1897	F	Single	4	Bronx
+1898	M	Single	1	Bronx
+1899	M	Single	3	Brooklyn
+1900	F	Single	3	Brooklyn
+1901	M	Married	2	Bronx
+1904	M	Single	2	Staten Island
+1906	M	Married	1	Brooklyn
+1910	F	Single	1	Brooklyn
+1913	M	Married	3	Bronx
+1915	M	Single	1	Manhattan
+1916	M	Single	3	Bronx
+1917	M	Married	1	Queens
+1918	F	Married	1	Brooklyn
+1920	M	Single	2	Brooklyn
+1921	F	Married	4	Bronx
+1922	M	Single	2	Bronx
+1925	F	Single	4	Staten Island
+1926	F	Married	2	Manhattan
+1928	F	Married	2	Bronx
+1929	F	Single	1	Brooklyn
+1930	F	Single	4	Brooklyn
+1931	M	Married	1	Bronx
+1932	M	Married	2	Bronx
+1934	F	Married	2	Staten Island
+1935	F	Single	4	Brooklyn
+1936	M	Single	4	Brooklyn
+1938	M	Single	3	Manhattan
+1939	F	Married	5	Brooklyn
+1940	F	Married	1	Bronx
+1941	F	Single	5	Bronx
+1942	F	Single	2	Manhattan
+1946	M	Single	4	Brooklyn
+1947	M	Married	1	Brooklyn
+1948	M	Married	1	Queens
+1950	F	Single	3	Manhattan
+1952	F	Married	1	Queens
+1953	F	Single	1	Brooklyn
+1954	F	Married	3	Bronx
+1956	M	Single	1	Bronx
+1957	M	Married	2	Bronx
+1958	F	Single	4	Queens
+1959	M	Single	1	Bronx
+1961	F	Married	5	Staten Island
+1962	M	Single	1	Manhattan
+1965	F	Married	3	Bronx
+1966	F	Single	5	Brooklyn
+1972	F	Single	2	Manhattan
+1973	M	Married	2	Bronx
+1974	F	Married	1	Staten Island
+1975	M	Married	2	Brooklyn
+1976	F	Single	4	Brooklyn
+1977	M	Married	4	Queens
+1978	F	Single	3	Bronx
+1979	M	Single	5	Manhattan
+1980	F	Married	4	Staten Island
+1983	M	Married	5	Bronx
+1984	F	Married	1	Manhattan
+1985	M	Married	2	Staten Island
+1987	F	Married	1	Bronx
+1990	F	Single	2	Brooklyn
+1991	F	Single	1	Bronx
+1995	F	Single	5	Bronx
+1996	F	Married	1	Bronx
+1999	M	Married	2	Manhattan
+2001	F	Married	4	Bronx
+2002	M	Single	3	Bronx
+2011	M	Married	3	Queens
+2015	F	Single	2	Queens
+2019	M	Single	4	Manhattan
+2022	M	Single	3	Staten Island
+2023	F	Married	1	Manhattan
+2024	F	Married	2	Manhattan
+2029	M	Married	1	Brooklyn
+2032	F	Married	3	Queens
+2034	F	Married	5	Manhattan
+2035	F	Married	5	Bronx
+2039	F	Single	1	Manhattan
+2041	F	Single	1	Bronx
+2043	M	Married	4	Manhattan
+2044	M	Single	1	Bronx
+2047	F	Married	3	Manhattan
+2048	M	Single	3	Queens
+2050	F	Married	3	Manhattan
+2051	M	Married	3	Brooklyn
+2052	F	Single	1	Bronx
+2053	M	Single	5	Manhattan
+2054	M	Single	1	Bronx
+2057	F	Single	2	Queens
+2059	F	Married	1	Bronx
+2060	M	Single	1	Staten Island
+2061	M	Married	3	Manhattan
+2063	M	Married	2	Queens
+2065	M	Married	2	Bronx
+2066	F	Married	5	Brooklyn
+2067	F	Single	3	Bronx
+2068	F	Married	3	Bronx
+2070	F	Married	4	Queens
+2071	F	Single	2	Manhattan
+2075	F	Single	1	Bronx
+2076	F	Single	3	Bronx
+2077	M	Married	4	Queens
+2078	M	Married	1	Manhattan
+2082	M	Single	5	Queens
+2084	F	Married	1	Bronx
+2086	M	Married	1	Bronx
+2088	M	Married	1	Bronx
+2090	F	Single	2	Bronx
+2094	F	Married	2	Queens
+2095	M	Married	1	Staten Island
+2096	F	Married	1	Manhattan
+2099	M	Married	1	Brooklyn
+2106	M	Single	5	Bronx
+2107	F	Single	2	Brooklyn
+2108	F	Married	5	Staten Island
+2110	F	Single	3	Manhattan
+2111	M	Single	2	Bronx
+2112	M	Married	2	Bronx
+2114	F	Single	3	Brooklyn
+2115	M	Married	1	Brooklyn
+2118	F	Single	4	Brooklyn
+2123	M	Married	1	Brooklyn
+2124	M	Single	3	Brooklyn
+2127	F	Married	4	Bronx
+2128	M	Single	3	Brooklyn
+2130	M	Married	4	Brooklyn
+2132	M	Married	3	Bronx
+2134	F	Married	4	Manhattan
+2135	F	Married	3	Staten Island
+2139	F	Married	4	Brooklyn
+2141	M	Single	1	Brooklyn
+2143	M	Single	3	Bronx
+2144	M	Married	4	Manhattan
+2147	M	Single	1	Bronx
+2150	F	Single	4	Bronx
+2151	M	Married	2	Bronx
+2153	F	Married	4	Manhattan
+2156	F	Married	3	Brooklyn
+2158	M	Married	3	Manhattan
+2162	M	Married	1	Queens
+2163	M	Single	1	Brooklyn
+2168	F	Married	3	Manhattan
+2169	M	Married	3	Queens
+2171	M	Single	1	Queens
+2175	F	Married	5	Queens
+2176	F	Married	5	Brooklyn
+2177	M	Married	1	Bronx
+2178	M	Married	1	Bronx
+2181	M	Single	5	Queens
+2182	M	Single	3	Bronx
+2183	F	Married	4	Bronx
+2185	F	Married	2	Staten Island
+2187	M	Married	1	Bronx
+2188	M	Married	2	Bronx
+2191	F	Married	5	Brooklyn
+2193	M	Married	3	Bronx
+2194	M	Married	2	Bronx
+2198	F	Single	3	Bronx
+2200	M	Single	1	Brooklyn
+2201	F	Married	2	Manhattan
+2204	M	Single	5	Manhattan
+2206	F	Single	2	Brooklyn
+2208	F	Married	5	Bronx
+2211	F	Single	5	Bronx
+2215	F	Single	1	Manhattan
+2217	F	Single	4	Bronx
+2218	M	Single	4	Bronx
+2219	M	Married	3	Brooklyn
+2220	F	Married	2	Manhattan
+2221	M	Single	1	Manhattan
+2222	M	Married	2	Brooklyn
+2224	F	Married	3	Manhattan
+2227	M	Single	2	Staten Island
+2228	F	Single	2	Bronx
+2229	M	Single	4	Queens
+2232	M	Single	2	Brooklyn
+2234	M	Single	1	Bronx
+2237	F	Single	4	Brooklyn
+2239	M	Married	2	Brooklyn
+2242	M	Single	4	Bronx
+2244	F	Single	5	Bronx
+2245	M	Married	4	Manhattan
+2246	M	Single	3	Bronx
+2248	F	Married	1	Bronx
+2251	M	Married	1	Bronx
+2252	F	Single	1	Bronx
+2254	M	Single	1	Bronx
+2255	M	Single	3	Manhattan
+2257	M	Single	2	Brooklyn
+2258	F	Married	1	Manhattan
+2259	M	Married	3	Bronx
+2260	M	Married	4	Manhattan
+2263	M	Single	1	Manhattan
+2269	M	Single	1	Manhattan
+2270	M	Single	3	Manhattan
+2271	M	Single	4	Bronx
+2272	M	Single	1	Bronx
+2273	F	Single	1	Queens
+2278	M	Married	2	Bronx
+2279	F	Single	1	Bronx
+2280	F	Single	2	Bronx
+2282	M	Married	5	Brooklyn
+2286	M	Single	3	Brooklyn
+2293	F	Single	3	Bronx
+2294	M	Single	2	Manhattan
+2295	M	Married	4	Bronx
+2296	F	Single	4	Brooklyn
+2298	F	Single	4	Manhattan
+2300	F	Single	5	Brooklyn
+2302	M	Single	3	Bronx
+2304	M	Single	1	Bronx
+2309	M	Single	4	Queens
+2310	F	Married	4	Manhattan
+2311	M	Married	5	Bronx
+2313	F	Married	3	Manhattan
+2314	F	Single	1	Bronx
+2316	M	Married	4	Brooklyn
+2318	M	Married	5	Bronx
+2320	F	Married	1	Staten Island
+2323	M	Single	3	Brooklyn
+2324	M	Single	4	Brooklyn
+2327	F	Married	4	Bronx
+2329	M	Married	2	Queens
+2330	M	Married	4	Brooklyn
+2331	F	Single	4	Manhattan
+2334	M	Single	2	Queens
+2335	M	Single	2	Bronx
+2337	M	Married	5	Brooklyn
+2338	M	Single	1	Bronx
+2341	M	Married	5	Queens
+2343	F	Single	4	Bronx
+2344	M	Single	1	Bronx
+2352	F	Married	3	Manhattan
+2354	F	Single	2	Brooklyn
+2355	M	Married	2	Manhattan
+2359	M	Married	2	Manhattan
+2361	M	Single	3	Manhattan
+2362	F	Married	3	Bronx
+2366	F	Married	4	Brooklyn
+2368	F	Single	1	Manhattan
+2371	M	Single	1	Manhattan
+2373	F	Married	4	Bronx
+2374	F	Single	3	Bronx
+2376	M	Single	2	Manhattan
+2377	M	Married	1	Bronx
+2378	F	Married	4	Manhattan
+2379	F	Married	5	Staten Island
+2381	M	Married	3	Brooklyn
+2384	F	Married	5	Manhattan
+2385	F	Single	1	Brooklyn
+2388	F	Single	3	Queens
+2389	M	Married	2	Bronx
+2390	F	Married	3	Bronx
+2391	F	Married	3	Brooklyn
+2393	F	Married	3	Brooklyn
+2394	F	Single	2	Brooklyn
+2396	F	Single	1	Brooklyn
+2397	F	Single	2	Manhattan
+2398	F	Single	4	Bronx
+2400	F	Married	3	Brooklyn
+2402	F	Single	1	Brooklyn
+2404	F	Married	2	Brooklyn
+2405	F	Single	4	Manhattan
+2408	M	Married	1	Staten Island
+2412	M	Single	5	Bronx
+2414	F	Single	5	Staten Island
+2420	F	Married	1	Bronx
+2421	F	Married	1	Brooklyn
+2422	F	Single	1	Bronx
+2423	M	Married	2	Brooklyn
+2426	M	Single	2	Bronx
+2428	M	Single	3	Manhattan
+2429	M	Single	1	Bronx
+2431	F	Single	4	Manhattan
+2432	M	Married	4	Brooklyn
+2433	M	Married	1	Queens
+2434	F	Single	5	Queens
+2435	F	Married	5	Bronx
+2437	F	Married	3	Manhattan
+2438	F	Married	1	Bronx
+2439	F	Single	2	Queens
+2441	M	Married	5	Bronx
+2443	F	Single	4	Bronx
+2444	F	Single	1	Bronx
+2445	M	Married	2	Brooklyn
+2446	M	Single	1	Queens
+2447	M	Single	3	Bronx
+2448	F	Single	1	Manhattan
+2449	M	Single	1	Brooklyn
+2450	F	Married	1	Queens
+2451	M	Single	2	Brooklyn
+2452	F	Single	1	Brooklyn
+2457	F	Single	2	Brooklyn
+2458	M	Single	4	Bronx
+2459	F	Single	4	Bronx
+2460	M	Single	5	Manhattan
+2462	F	Married	3	Brooklyn
+2463	M	Married	4	Brooklyn
+2464	F	Single	1	Brooklyn
+2467	F	Married	4	Queens
+2468	F	Single	4	Bronx
+2471	M	Single	2	Bronx
+2472	M	Married	4	Brooklyn
+2475	F	Single	5	Brooklyn
+2476	F	Single	4	Queens
+2478	F	Single	4	Manhattan
+2479	M	Single	4	Bronx
+2480	M	Married	1	Brooklyn
+2481	F	Single	3	Queens
+2482	F	Married	4	Bronx
+2483	F	Single	4	Manhattan
+2489	M	Married	4	Queens
+2491	M	Married	5	Brooklyn
+2492	M	Single	4	Brooklyn
+2493	F	Single	1	Bronx
+2494	F	Married	1	Brooklyn
+2496	M	Single	2	Manhattan
+2500	F	Married	1	Brooklyn
+2501	F	Single	2	Staten Island
+2502	F	Married	1	Manhattan
+2506	M	Married	3	Bronx
+2507	F	Single	4	Manhattan
+2510	M	Single	1	Manhattan
+2511	M	Married	2	Bronx
+2512	F	Married	2	Manhattan
+2513	M	Single	2	Manhattan
+2516	M	Married	5	Brooklyn
+2518	M	Single	1	Staten Island
+2519	M	Married	1	Queens
+2523	M	Single	3	Brooklyn
+2524	F	Single	3	Bronx
+2525	M	Single	1	Bronx
+2526	F	Single	3	Manhattan
+2527	M	Married	4	Brooklyn
+2528	M	Single	1	Manhattan
+2530	F	Married	3	Bronx
+2531	F	Single	3	Staten Island
+2532	F	Single	4	Queens
+2533	M	Married	1	Brooklyn
+2535	M	Married	2	Manhattan
+2542	M	Married	4	Bronx
+2544	F	Married	4	Staten Island
+2547	F	Married	3	Queens
+2548	M	Single	1	Bronx
+2549	M	Single	3	Brooklyn
+2550	M	Married	3	Manhattan
+2551	F	Married	4	Queens
+2553	M	Married	2	Manhattan
+2554	F	Single	1	Bronx
+2555	M	Married	4	Bronx
+2556	M	Married	2	Manhattan
+2557	F	Single	1	Brooklyn
+2559	F	Married	3	Bronx
+2563	M	Single	2	Bronx
+2564	M	Married	4	Brooklyn
+2566	F	Married	3	Bronx
+2568	M	Married	2	Manhattan
+2570	M	Married	2	Manhattan
+2571	F	Married	2	Brooklyn
+2572	M	Single	5	Bronx
+2575	M	Married	1	Brooklyn
+2577	F	Single	1	Staten Island
+2581	M	Married	1	Bronx
+2582	F	Married	4	Brooklyn
+2584	F	Married	1	Manhattan
+2586	F	Single	1	Bronx
+2587	F	Married	1	Manhattan
+2588	M	Married	3	Queens
+2589	M	Married	4	Brooklyn
+2591	F	Single	1	Brooklyn
+2592	M	Single	1	Bronx
+2594	M	Married	3	Bronx
+2596	M	Married	4	Bronx
+2599	M	Married	2	Bronx
+2600	F	Married	4	Bronx
+2601	F	Married	4	Bronx
+2605	F	Single	2	Manhattan
+2612	M	Married	1	Manhattan
+2613	F	Married	2	Manhattan
+2614	M	Married	3	Bronx
+2618	F	Married	5	Brooklyn
+2619	F	Single	2	Bronx
+2621	F	Married	4	Brooklyn
+2622	F	Single	4	Queens
+2623	M	Married	2	Manhattan
+2625	F	Single	3	Bronx
+2627	M	Single	1	Bronx
+2628	M	Single	3	Brooklyn
+2629	F	Married	4	Bronx
+2632	M	Single	3	Bronx
+2634	F	Married	5	Queens
+2636	F	Single	2	Bronx
+2638	F	Married	3	Bronx
+2641	F	Married	1	Queens
+2646	F	Married	2	Queens
+2647	M	Single	2	Brooklyn
+2648	M	Married	1	Manhattan
+2649	F	Married	3	Queens
+2651	F	Married	5	Brooklyn
+2652	F	Single	1	Brooklyn
+2654	F	Married	3	Bronx
+2656	F	Married	2	Bronx
+2657	F	Married	2	Brooklyn
+2658	M	Married	4	Bronx
+2660	M	Single	5	Staten Island
+2662	F	Single	4	Manhattan
+2663	M	Married	1	Manhattan
+2664	F	Single	3	Bronx
+2665	F	Single	5	Manhattan
+2667	F	Married	1	Bronx
+2668	M	Married	1	Bronx
+2670	F	Single	1	Manhattan
+2672	M	Single	1	Manhattan
+2673	M	Married	5	Manhattan
+2674	M	Married	1	Manhattan
+2675	M	Single	1	Brooklyn
+2677	F	Single	1	Bronx
+2678	M	Married	1	Manhattan
+2680	F	Single	4	Manhattan
+2682	F	Single	3	Queens
+2684	F	Single	4	Bronx
+2686	F	Married	1	Manhattan
+2687	F	Single	5	Manhattan
+2688	F	Married	5	Brooklyn
+2689	M	Single	1	Manhattan
+2690	F	Married	1	Manhattan
+2692	F	Married	1	Manhattan
+2693	F	Married	4	Bronx
+2694	F	Single	2	Manhattan
+2695	F	Married	3	Bronx
+2697	M	Married	1	Queens
+2698	M	Married	2	Bronx
+2699	F	Married	3	Manhattan
+2700	F	Single	4	Manhattan
+2701	M	Married	2	Brooklyn
+2703	M	Single	2	Brooklyn
+2704	F	Single	1	Brooklyn
+2705	F	Married	1	Manhattan
+2706	F	Married	4	Manhattan
+2708	F	Married	5	Brooklyn
+2709	F	Single	4	Bronx
+2711	M	Married	1	Bronx
+2712	M	Married	4	Brooklyn
+2715	F	Single	3	Bronx
+2716	F	Married	4	Bronx
+2718	M	Married	1	Queens
+2723	F	Married	2	Manhattan
+2725	F	Single	2	Manhattan
+2727	F	Single	1	Manhattan
+2728	F	Married	3	Brooklyn
+2732	F	Single	2	Staten Island
+2733	M	Married	1	Brooklyn
+2735	M	Single	3	Manhattan
+2741	M	Single	3	Staten Island
+2742	M	Married	3	Bronx
+2743	F	Single	4	Brooklyn
+2747	M	Single	4	Manhattan
+2749	F	Single	1	Brooklyn
+2750	F	Married	1	Bronx
+2751	F	Married	3	Brooklyn
+2752	F	Single	3	Brooklyn
+2756	F	Married	1	Manhattan
+2757	M	Married	5	Bronx
+2759	M	Married	4	Staten Island
+2760	M	Single	4	Bronx
+2762	M	Single	2	Bronx
+2769	M	Single	1	Manhattan
+2770	F	Single	5	Bronx
+2771	M	Married	2	Bronx
+2775	F	Married	4	Manhattan
+2776	F	Married	1	Staten Island
+2777	F	Single	4	Bronx
+2779	F	Married	1	Brooklyn
+2781	F	Married	3	Manhattan
+2787	F	Married	3	Bronx
+2788	F	Single	3	Bronx
+2790	M	Married	2	Brooklyn
+2791	F	Married	5	Manhattan
+2795	M	Married	3	Bronx
+2796	F	Married	3	Brooklyn
+2797	M	Single	2	Queens
+2799	F	Single	2	Bronx
+2801	M	Single	3	Staten Island
+2802	F	Married	5	Brooklyn
+2808	M	Married	1	Bronx
+2813	F	Married	5	Bronx
+2814	M	Single	4	Queens
+2815	F	Married	2	Staten Island
+2817	F	Single	4	Bronx
+2818	M	Single	2	Bronx
+2821	F	Married	1	Bronx
+2825	F	Married	4	Manhattan
+2826	M	Single	2	Brooklyn
+2828	F	Married	1	Brooklyn
+2829	F	Single	1	Queens
+2830	M	Single	4	Brooklyn
+2832	M	Single	4	Bronx
+2834	M	Married	3	Brooklyn
+2838	M	Single	1	Queens
+2840	M	Single	2	Brooklyn
+2842	F	Married	3	Brooklyn
+2844	F	Married	2	Bronx
+2846	F	Married	1	Manhattan
+2848	F	Single	4	Bronx
+2850	M	Single	4	Manhattan
+2852	M	Married	1	Brooklyn
+2856	F	Married	5	Bronx
+2857	M	Married	1	Bronx
+2858	F	Married	3	Brooklyn
+2861	M	Married	5	Brooklyn
+2862	F	Married	1	Queens
+2863	M	Married	1	Bronx
+2866	F	Single	2	Brooklyn
+2868	M	Married	1	Brooklyn
+2869	F	Single	2	Bronx
+2870	M	Single	3	Brooklyn
+2872	F	Married	4	Staten Island
+2876	F	Married	1	Brooklyn
+2878	F	Married	4	Manhattan
+2879	M	Single	1	Bronx
+2880	F	Married	2	Brooklyn
+2882	M	Single	2	Manhattan
+2883	F	Married	1	Queens
+2885	F	Single	3	Manhattan
+2886	F	Married	3	Manhattan
+2890	F	Married	4	Bronx
+2893	F	Married	1	Manhattan
+2894	M	Married	5	Staten Island
+2896	F	Single	5	Manhattan
+2897	F	Married	1	Bronx
+2901	M	Single	5	Brooklyn
+2903	M	Single	1	Manhattan
+2905	M	Married	1	Manhattan
+2907	F	Single	3	Bronx
+2908	M	Married	4	Manhattan
+2911	M	Single	5	Queens
+2915	M	Married	1	Bronx
+2916	M	Married	5	Bronx
+2918	F	Single	3	Bronx
+2919	M	Married	1	Brooklyn
+2921	F	Single	4	Manhattan
+2924	M	Single	5	Manhattan
+2925	M	Single	1	Manhattan
+2927	M	Married	4	Bronx
+2929	M	Single	4	Manhattan
+2933	F	Single	1	Manhattan
+2936	F	Single	3	Manhattan
+2942	F	Single	3	Bronx
+2946	M	Single	2	Brooklyn
+2947	F	Married	1	Bronx
+2951	F	Married	3	Manhattan
+2952	F	Single	1	Queens
+2954	F	Single	3	Staten Island
+2957	M	Single	3	Bronx
+2958	M	Married	1	Manhattan
+2961	F	Single	4	Bronx
+2963	M	Single	4	Bronx
+2965	F	Married	4	Staten Island
+2966	F	Single	2	Bronx
+2967	M	Single	1	Queens
+2968	M	Single	5	Bronx
+2970	M	Married	3	Manhattan
+2973	M	Single	5	Bronx
+2974	M	Married	1	Queens
+2976	M	Married	4	Bronx
+2977	M	Single	4	Bronx
+2981	F	Married	1	Queens
+2984	F	Married	2	Staten Island
+2986	M	Single	4	Queens
+2988	M	Married	1	Bronx
+2990	M	Married	2	Brooklyn
+2994	M	Married	1	Manhattan
+2996	F	Married	4	Bronx
+2997	M	Married	4	Bronx
+2998	M	Married	4	Brooklyn
+3000	M	Single	1	Bronx
+3001	F	Married	1	Bronx
+3002	M	Single	1	Brooklyn
+3003	F	Single	2	Bronx
+3004	F	Single	1	Brooklyn
+3010	M	Single	3	Brooklyn
+3011	F	Married	2	Bronx
+3012	F	Married	4	Manhattan
+3015	F	Single	1	Bronx
+3016	F	Single	1	Brooklyn
+3018	M	Married	3	Manhattan
+3019	F	Married	4	Manhattan
+3020	F	Married	1	Bronx
+3021	F	Married	3	Manhattan
+3023	M	Married	2	Brooklyn
+3024	F	Single	2	Bronx
+3025	M	Single	2	Queens
+3027	M	Married	3	Manhattan
+3032	F	Married	2	Queens
+3033	M	Single	2	Manhattan
+3034	M	Single	4	Brooklyn
+3035	F	Single	4	Brooklyn
+3037	M	Married	4	Manhattan
+3038	M	Single	2	Staten Island
+3039	M	Single	3	Bronx
+3041	M	Single	5	Manhattan
+3044	F	Single	3	Manhattan
+3045	F	Single	1	Bronx
+3048	M	Single	1	Bronx
+3049	M	Single	3	Manhattan
+3052	M	Single	2	Brooklyn
+3056	F	Single	3	Queens
+3060	M	Single	5	Staten Island
+3065	M	Single	3	Manhattan
+3066	F	Single	5	Manhattan
+3067	F	Single	1	Bronx
+3068	F	Married	4	Manhattan
+3070	M	Married	3	Bronx
+3075	M	Married	3	Queens
+3077	M	Single	5	Queens
+3080	M	Married	4	Queens
+3081	F	Single	2	Manhattan
+3085	M	Married	3	Brooklyn
+3086	M	Single	1	Bronx
+3087	M	Single	2	Brooklyn
+3090	F	Single	4	Brooklyn
+3092	M	Single	1	Bronx
+3097	M	Married	1	Brooklyn
+3098	M	Single	3	Bronx
+3099	M	Married	4	Bronx
+3100	M	Married	3	Brooklyn
+3101	M	Married	3	Manhattan
+3102	M	Single	1	Manhattan
+3104	M	Single	4	Manhattan
+3108	F	Married	1	Queens
+3109	M	Single	4	Manhattan
+3111	M	Married	1	Manhattan
+3113	M	Married	3	Bronx
+3115	M	Married	3	Bronx
+3116	F	Single	2	Brooklyn
+3119	F	Married	1	Queens
+3121	M	Married	4	Brooklyn
+3124	F	Married	4	Manhattan
+3125	M	Single	5	Brooklyn
+3127	F	Single	2	Bronx
+3130	F	Single	5	Bronx
+3131	F	Single	2	Bronx
+3132	F	Single	4	Bronx
+3138	M	Single	1	Queens
+3139	F	Single	5	Manhattan
+3140	M	Married	2	Bronx
+3143	F	Single	2	Bronx
+3146	M	Married	4	Bronx
+3152	M	Married	1	Bronx
+3153	F	Married	1	Bronx
+3157	M	Single	2	Brooklyn
+3158	F	Single	3	Bronx
+3160	F	Married	1	Bronx
+3161	F	Single	3	Bronx
+3162	F	Married	1	Queens
+3163	F	Single	1	Bronx
+3164	F	Married	1	Bronx
+3166	M	Single	1	Manhattan
+3168	M	Married	5	Queens
+3169	M	Single	3	Bronx
+3172	F	Married	1	Bronx
+3174	F	Married	5	Queens
+3177	M	Married	1	Queens
+3178	F	Single	3	Manhattan
+3179	F	Married	5	Manhattan
+3180	F	Married	4	Manhattan
+3185	F	Single	2	Queens
+3186	F	Married	3	Queens
+3187	F	Single	3	Manhattan
+3188	M	Single	2	Brooklyn
+3191	F	Single	1	Bronx
+3192	M	Single	2	Queens
+3193	M	Single	2	Manhattan
+3194	M	Married	1	Bronx
+3195	M	Single	5	Queens
+3196	M	Single	2	Bronx
+3197	F	Single	5	Queens
+3198	M	Married	4	Bronx
+3199	F	Married	4	Manhattan
+3201	F	Single	1	Manhattan
+3202	F	Married	4	Manhattan
+3204	F	Married	1	Manhattan
+3205	M	Married	1	Bronx
+3206	M	Single	4	Brooklyn
+3207	M	Married	5	Bronx
+3208	M	Single	5	Staten Island
+3209	M	Single	4	Brooklyn
+3210	M	Single	2	Manhattan
+3211	F	Single	3	Staten Island
+3213	M	Married	2	Bronx
+3216	F	Single	1	Bronx
+3218	F	Single	2	Manhattan
+3219	M	Single	4	Manhattan
+3222	M	Married	1	Bronx
+3223	M	Married	1	Bronx
+3225	M	Single	1	Manhattan
+3226	M	Single	3	Brooklyn
+3228	M	Single	1	Manhattan
+3229	F	Single	1	Staten Island
+3231	M	Single	3	Bronx
+3233	F	Single	5	Brooklyn
+3234	F	Married	2	Queens
+3236	F	Single	3	Bronx
+3238	M	Married	1	Manhattan
+3239	F	Single	4	Bronx
+3242	F	Single	3	Manhattan
+3243	F	Single	2	Bronx
+3244	M	Single	1	Brooklyn
+3245	F	Single	2	Bronx
+3247	M	Single	3	Staten Island
+3250	F	Married	3	Bronx
+3252	M	Single	1	Manhattan
+3253	M	Single	3	Bronx
+3256	F	Married	4	Brooklyn
+3258	F	Single	3	Brooklyn
+3259	M	Single	1	Queens
+3267	M	Married	2	Queens
+3268	F	Married	5	Bronx
+3269	M	Married	4	Brooklyn
+3271	F	Married	2	Bronx
+3273	F	Married	1	Manhattan
+3277	M	Married	4	Queens
+3278	F	Married	2	Queens
+3279	M	Single	1	Brooklyn
+3280	F	Married	1	Brooklyn
+3282	F	Married	5	Brooklyn
+3283	F	Single	2	Bronx
+3285	M	Single	2	Brooklyn
+3286	M	Single	5	Staten Island
+3287	F	Married	4	Staten Island
+3288	F	Single	2	Manhattan
+3289	M	Married	5	Bronx
+3291	M	Married	2	Brooklyn
+3292	F	Single	2	Brooklyn
+3293	F	Married	2	Manhattan
+3295	F	Married	1	Brooklyn
+3297	M	Married	1	Brooklyn
+3300	F	Single	3	Manhattan
+3301	F	Single	1	Manhattan
+3302	M	Married	2	Bronx
+3305	M	Single	3	Bronx
+3306	F	Married	3	Bronx
+3308	M	Married	1	Bronx
+3310	F	Single	1	Bronx
+3311	F	Married	2	Manhattan
+3313	M	Married	1	Bronx
+3316	M	Married	1	Bronx
+3317	F	Married	3	Manhattan
+3319	M	Single	3	Manhattan
+3321	M	Single	3	Manhattan
+3322	F	Married	3	Bronx
+3324	F	Married	3	Brooklyn
+3325	M	Single	2	Bronx
+3327	F	Single	4	Bronx
+3328	F	Married	4	Bronx
+3329	M	Married	2	Brooklyn
+3330	M	Single	1	Brooklyn
+3334	F	Married	2	Bronx
+3335	F	Married	2	Queens
+3336	F	Single	2	Bronx
+3338	M	Single	4	Brooklyn
+3342	F	Married	2	Brooklyn
+3345	M	Single	3	Brooklyn
+3349	M	Married	1	Brooklyn
+3350	F	Single	4	Manhattan
+3352	F	Married	1	Brooklyn
+3357	M	Married	1	Manhattan
+3359	M	Single	3	Manhattan
+3360	M	Married	1	Bronx
+3361	M	Married	1	Manhattan
+3363	F	Single	3	Queens
+3365	F	Single	5	Queens
+3366	M	Single	1	Queens
+3370	F	Single	3	Brooklyn
+3371	F	Single	1	Brooklyn
+3372	M	Married	1	Queens
+3373	F	Married	5	Bronx
+3377	F	Married	4	Queens
+3386	F	Married	4	Manhattan
+3387	F	Married	1	Manhattan
+3388	F	Married	4	Bronx
+3390	F	Married	2	Manhattan
+3395	F	Married	4	Manhattan
+3396	M	Married	2	Queens
+3397	F	Single	2	Bronx
+3399	F	Single	1	Staten Island
+3401	M	Married	1	Manhattan
+3404	F	Single	2	Manhattan
+3406	F	Married	2	Queens
+3408	F	Single	2	Brooklyn
+3409	M	Married	3	Staten Island
+3410	F	Single	1	Manhattan
+3411	M	Single	4	Brooklyn
+3412	M	Single	5	Manhattan
+3413	F	Married	4	Bronx
+3414	M	Single	1	Brooklyn
+3415	M	Single	5	Bronx
+3416	F	Married	3	Brooklyn
+3417	M	Single	5	Staten Island
+3418	M	Married	3	Manhattan
+3419	F	Single	3	Queens
+3422	M	Single	1	Queens
+3423	F	Married	2	Bronx
+3424	M	Married	1	Queens
+3425	M	Single	4	Manhattan
+3426	F	Married	1	Manhattan
+3434	F	Single	5	Manhattan
+3435	M	Single	3	Manhattan
+3436	F	Married	2	Manhattan
+3437	F	Single	3	Brooklyn
+3438	M	Married	3	Manhattan
+3439	F	Single	2	Staten Island
+3440	F	Married	4	Manhattan
+3441	F	Single	2	Manhattan
+3442	M	Married	2	Manhattan
+3446	F	Single	4	Staten Island
+3448	M	Married	2	Manhattan
+3449	F	Married	2	Brooklyn
+3450	M	Married	1	Queens
+3452	M	Married	3	Manhattan
+3454	F	Married	1	Queens
+3455	F	Single	4	Bronx
+3457	M	Married	1	Manhattan
+3458	F	Single	5	Manhattan
+3462	M	Single	4	Brooklyn
+3463	M	Single	1	Bronx
+3466	M	Married	1	Bronx
+3468	F	Single	1	Queens
+3469	M	Married	4	Manhattan
+3470	M	Married	2	Bronx
+3471	F	Married	4	Manhattan
+3473	M	Single	3	Bronx
+3476	F	Single	4	Manhattan
+3478	M	Single	4	Bronx
+3480	F	Single	2	Bronx
+3485	F	Single	3	Bronx
+3486	M	Single	2	Bronx
+3487	M	Married	3	Queens
+3489	M	Single	4	Queens
+3490	F	Married	1	Bronx
+3491	F	Married	3	Manhattan
+3495	F	Married	4	Manhattan
+3497	M	Single	2	Bronx
+3499	F	Married	1	Bronx
+3500	M	Single	1	Bronx
+3501	F	Married	4	Brooklyn
+3503	F	Married	2	Brooklyn
+3504	F	Married	4	Staten Island
+3508	M	Married	1	Brooklyn
+3512	M	Married	1	Manhattan
+3513	F	Married	1	Bronx
+3516	F	Married	1	Brooklyn
+3517	M	Single	3	Staten Island
+3518	M	Single	3	Queens
+3524	M	Single	1	Bronx
+3525	M	Single	1	Brooklyn
+3526	M	Married	1	Brooklyn
+3527	M	Single	5	Manhattan
+3528	F	Married	4	Bronx
+3529	M	Single	2	Bronx
+3532	F	Married	4	Brooklyn
+3533	F	Married	1	Manhattan
+3537	F	Single	2	Brooklyn
+3538	F	Single	1	Manhattan
+3539	M	Single	2	Bronx
+3541	M	Married	2	Bronx
+3542	M	Married	1	Brooklyn
+3543	M	Single	4	Manhattan
+3548	F	Married	1	Bronx
+3549	F	Married	2	Staten Island
+3551	F	Married	2	Bronx
+3552	F	Single	4	Bronx
+3553	M	Single	3	Brooklyn
+3558	F	Single	1	Manhattan
+3559	M	Married	3	Staten Island
+3560	M	Single	5	Queens
+3561	M	Single	1	Manhattan
+3563	F	Married	1	Staten Island
+3564	F	Single	4	Staten Island
+3567	M	Married	1	Manhattan
+3571	F	Single	3	Brooklyn
+3577	F	Married	4	Manhattan
+3580	M	Single	1	Brooklyn
+3583	F	Single	2	Queens
+3584	M	Single	2	Queens
+3585	F	Married	4	Brooklyn
+3586	F	Single	3	Manhattan
+3587	M	Married	3	Brooklyn
+3588	F	Single	1	Manhattan
+3589	M	Married	5	Bronx
+3592	M	Married	3	Brooklyn
+3593	F	Married	2	Manhattan
+3594	F	Married	1	Manhattan
+3596	M	Married	3	Manhattan
+3598	M	Single	1	Brooklyn
+3599	M	Married	2	Bronx
+3600	F	Single	1	Brooklyn
+3601	F	Married	2	Queens
+3602	F	Single	4	Queens
+3604	M	Single	4	Bronx
+3605	F	Single	3	Staten Island
+3608	F	Married	1	Queens
+3610	M	Married	1	Brooklyn
+3611	F	Married	1	Manhattan
+3612	M	Single	1	Manhattan
+3613	F	Single	1	Queens
+3615	F	Single	1	Bronx
+3616	M	Married	4	Brooklyn
+3620	M	Married	1	Bronx
+3625	F	Single	1	Brooklyn
+3626	F	Single	2	Manhattan
+3627	F	Married	1	Manhattan
+3630	F	Single	1	Bronx
+3633	F	Single	3	Bronx
+3634	M	Single	5	Bronx
+3636	F	Single	4	Staten Island
+3639	F	Married	2	Manhattan
+3640	M	Single	2	Manhattan
+3642	M	Married	2	Manhattan
+3643	F	Single	2	Staten Island
+3644	F	Single	4	Brooklyn
+3645	M	Single	3	Staten Island
+3648	F	Single	2	Queens
+3650	M	Married	2	Bronx
+3652	M	Single	3	Bronx
+3654	F	Married	3	Manhattan
+3655	F	Married	3	Bronx
+3656	M	Single	3	Manhattan
+3658	F	Married	5	Staten Island
+3661	M	Married	1	Brooklyn
+3663	M	Single	2	Bronx
+3664	F	Married	5	Staten Island
+3665	F	Married	1	Staten Island
+3667	F	Single	2	Bronx
+3673	M	Married	1	Staten Island
+3676	M	Married	4	Manhattan
+3679	F	Single	1	Manhattan
+3680	F	Single	3	Bronx
+3681	F	Married	2	Bronx
+3682	M	Married	4	Bronx
+3683	M	Married	1	Bronx
+3688	F	Married	3	Manhattan
+3689	F	Married	4	Queens
+3691	M	Married	3	Bronx
+3692	M	Single	1	Manhattan
+3693	M	Single	1	Manhattan
+3695	M	Married	5	Bronx
+3700	F	Married	4	Bronx
+3701	F	Single	1	Brooklyn
+3702	F	Married	1	Brooklyn
+3703	M	Single	2	Staten Island
+3706	M	Single	2	Bronx
+3709	M	Single	1	Bronx
+3711	M	Single	2	Manhattan
+3713	F	Single	4	Queens
+3714	F	Married	3	Queens
+3716	F	Married	4	Bronx
+3718	F	Married	2	Manhattan
+3719	F	Single	3	Queens
+3721	M	Single	1	Staten Island
+3724	F	Married	1	Queens
+3725	M	Married	4	Queens
+3727	F	Married	4	Staten Island
+3728	M	Married	4	Bronx
+3729	F	Married	4	Brooklyn
+3730	M	Married	3	Brooklyn
+3731	F	Single	5	Bronx
+3735	M	Single	2	Manhattan
+3738	M	Married	4	Brooklyn
+3739	F	Single	4	Staten Island
+3742	M	Married	2	Manhattan
+3744	F	Single	1	Brooklyn
+3746	F	Single	3	Manhattan
+3747	F	Single	4	Queens
+3748	F	Married	4	Bronx
+3749	F	Married	1	Bronx
+3750	M	Single	2	Brooklyn
+3751	F	Married	1	Bronx
+3753	F	Married	4	Brooklyn
+3755	M	Single	3	Manhattan
+3756	F	Married	3	Manhattan
+3757	M	Single	2	Staten Island
+3758	M	Single	3	Manhattan
+3759	F	Single	2	Bronx
+3760	F	Single	4	Brooklyn
+3761	F	Single	4	Queens
+3762	F	Married	4	Queens
+3763	F	Single	4	Manhattan
+3768	M	Married	2	Bronx
+3771	M	Single	5	Brooklyn
+3773	F	Single	1	Bronx
+3776	F	Single	4	Bronx
+3777	M	Single	1	Brooklyn
+3780	M	Married	3	Manhattan
+3782	F	Single	2	Manhattan
+3784	F	Married	1	Brooklyn
+3787	F	Single	5	Manhattan
+3790	M	Married	1	Brooklyn
+3794	F	Married	1	Manhattan
+3795	M	Married	2	Queens
+3796	M	Single	3	Manhattan
+3797	M	Married	5	Manhattan
+3799	F	Single	2	Bronx
+3801	F	Single	2	Manhattan
+3802	F	Single	4	Bronx
+3804	M	Single	4	Manhattan
+3805	M	Single	5	Queens
+3807	F	Single	2	Brooklyn
+3808	F	Married	4	Manhattan
+3809	M	Single	3	Brooklyn
+3810	M	Married	1	Brooklyn
+3816	F	Single	2	Manhattan
+3817	F	Married	4	Bronx
+3819	M	Single	3	Queens
+3821	M	Single	1	Bronx
+3823	M	Single	2	Queens
+3825	M	Single	5	Staten Island
+3826	M	Married	2	Manhattan
+3827	M	Single	2	Bronx
+3828	M	Married	5	Manhattan
+3829	M	Married	4	Brooklyn
+3833	F	Single	1	Queens
+3838	M	Married	5	Bronx
+3840	F	Married	1	Bronx
+3841	M	Single	2	Brooklyn
+3847	F	Married	1	Manhattan
+3848	F	Married	1	Staten Island
+3849	M	Married	4	Bronx
+3852	F	Married	1	Manhattan
+3854	M	Single	1	Bronx
+3855	M	Single	2	Bronx
+3856	F	Married	1	Queens
+3857	F	Married	2	Brooklyn
+3858	F	Single	1	Manhattan
+3859	M	Single	4	Manhattan
+3861	F	Married	4	Staten Island
+3864	M	Single	3	Brooklyn
+3869	M	Married	3	Bronx
+3870	M	Single	1	Queens
+3871	F	Married	1	Brooklyn
+3873	M	Married	4	Manhattan
+3875	F	Married	1	Brooklyn
+3878	M	Married	2	Manhattan
+3879	F	Single	5	Brooklyn
+3880	M	Married	1	Brooklyn
+3881	M	Single	1	Brooklyn
+3882	M	Single	3	Bronx
+3888	M	Married	1	Bronx
+3889	M	Married	4	Manhattan
+3890	M	Married	5	Bronx
+3892	F	Single	4	Manhattan
+3893	M	Married	5	Manhattan
+3897	M	Married	4	Bronx
+3898	F	Single	5	Bronx
+3900	F	Single	4	Manhattan
+3901	M	Married	3	Brooklyn
+3902	F	Single	3	Bronx
+3903	F	Single	1	Brooklyn
+3904	F	Single	2	Brooklyn
+3906	M	Single	2	Bronx
+3909	F	Single	4	Queens
+3911	M	Single	3	Bronx
+3912	M	Single	3	Bronx
+3916	M	Single	4	Queens
+3917	F	Married	1	Bronx
+3918	M	Married	5	Bronx
+3921	F	Single	1	Queens
+3922	M	Married	3	Bronx
+3925	F	Married	1	Manhattan
+3928	M	Single	1	Queens
+3929	F	Married	2	Bronx
+3930	M	Married	1	Bronx
+3932	F	Single	2	Bronx
+3933	F	Married	3	Brooklyn
+3935	F	Married	1	Manhattan
+3936	M	Single	4	Bronx
+3937	F	Single	2	Bronx
+3938	M	Single	4	Bronx
+3939	M	Single	1	Brooklyn
+3941	M	Single	1	Manhattan
+3942	M	Single	3	Bronx
+3945	M	Single	1	Bronx
+3946	F	Married	3	Bronx
+3949	M	Married	5	Queens
+3950	F	Single	5	Bronx
+3951	M	Married	4	Brooklyn
+3952	M	Married	1	Brooklyn
+3953	F	Married	4	Staten Island
+3957	M	Single	4	Queens
+3961	M	Single	3	Brooklyn
+3964	M	Married	3	Brooklyn
+3965	M	Married	1	Manhattan
+3966	M	Married	2	Bronx
+3968	F	Single	1	Manhattan
+3969	M	Single	3	Bronx
+3970	M	Single	2	Brooklyn
+3974	F	Single	2	Brooklyn
+3976	M	Married	2	Bronx
+3977	F	Single	2	Bronx
+3978	F	Married	4	Queens
+3979	M	Single	1	Bronx
+3980	M	Married	2	Bronx
+3981	F	Single	4	Brooklyn
+3982	F	Single	3	Brooklyn
+3985	M	Married	3	Manhattan
+3986	M	Married	2	Manhattan
+3987	M	Married	4	Brooklyn
+3989	F	Married	4	Bronx
+3993	M	Single	1	Manhattan
+3994	F	Married	1	Bronx
+3996	M	Married	2	Brooklyn
+4001	F	Married	1	Queens
+4003	F	Married	4	Queens
+4004	F	Married	3	Bronx
+4005	F	Single	1	Bronx
+4006	M	Married	2	Brooklyn
+4007	F	Married	4	Bronx
+4009	M	Married	3	Manhattan
+4010	F	Single	3	Manhattan
+4011	F	Single	2	Manhattan
+4015	M	Single	3	Bronx
+4016	F	Married	5	Bronx
+4018	F	Single	4	Staten Island
+4019	F	Single	4	Manhattan
+4020	M	Single	2	Queens
+4021	M	Married	3	Manhattan
+4023	F	Single	4	Brooklyn
+4026	F	Married	5	Manhattan
+4027	F	Married	2	Staten Island
+4028	F	Married	1	Brooklyn
+4029	M	Married	3	Bronx
+4030	F	Married	1	Bronx
+4032	F	Single	3	Manhattan
+4033	M	Single	5	Brooklyn
+4039	M	Single	1	Manhattan
+4040	F	Married	1	Queens
+4041	M	Single	3	Manhattan
+4043	F	Single	4	Brooklyn
+4044	M	Single	2	Brooklyn
+4045	M	Single	5	Bronx
+4048	M	Single	4	Staten Island
+4049	F	Single	4	Manhattan
+4051	F	Married	5	Manhattan
+4056	M	Married	3	Manhattan
+4058	M	Married	3	Brooklyn
+4061	M	Single	4	Brooklyn
+4063	M	Married	4	Bronx
+4065	F	Single	1	Manhattan
+4066	F	Married	3	Manhattan
+4067	F	Married	3	Manhattan
+4068	F	Single	4	Brooklyn
+4069	F	Single	1	Bronx
+4070	M	Married	2	Queens
+4071	F	Married	5	Queens
+4072	F	Single	2	Brooklyn
+4075	M	Married	2	Manhattan
+4076	M	Married	1	Staten Island
+4078	F	Single	2	Manhattan
+4079	M	Single	1	Bronx
+4080	F	Married	4	Manhattan
+4081	F	Single	1	Manhattan
+4082	F	Single	3	Manhattan
+4084	M	Married	1	Staten Island
+4085	F	Married	3	Manhattan
+4088	F	Married	4	Manhattan
+4094	F	Single	2	Manhattan
+4096	M	Single	2	Manhattan
+4099	M	Married	3	Bronx
+4100	F	Single	1	Bronx
+4101	M	Single	4	Queens
+4103	M	Married	3	Manhattan
+4104	M	Married	3	Brooklyn
+4105	F	Married	2	Manhattan
+4106	F	Married	1	Manhattan
+4111	F	Married	5	Brooklyn
+4114	F	Married	1	Bronx
+4115	M	Single	4	Bronx
+4116	M	Married	5	Manhattan
+4117	F	Married	4	Staten Island
+4118	M	Single	1	Bronx
+4120	M	Single	3	Bronx
+4121	M	Single	1	Bronx
+4122	F	Single	3	Bronx
+4125	M	Married	3	Manhattan
+4126	M	Married	1	Queens
+4127	M	Married	3	Bronx
+4131	F	Married	3	Bronx
+4133	F	Single	1	Manhattan
+4135	F	Single	1	Manhattan
+4137	M	Single	2	Bronx
+4138	M	Married	4	Bronx
+4143	F	Single	2	Manhattan
+4147	M	Single	2	Brooklyn
+4149	F	Married	2	Manhattan
+4150	M	Married	3	Queens
+4151	M	Single	4	Brooklyn
+4152	F	Single	4	Queens
+4153	M	Married	4	Bronx
+4154	F	Single	4	Staten Island
+4157	M	Single	3	Bronx
+4162	M	Single	2	Bronx
+4163	M	Single	1	Staten Island
+4165	F	Single	4	Manhattan
+4166	F	Single	3	Bronx
+4169	M	Married	1	Brooklyn
+4170	F	Single	5	Brooklyn
+4174	F	Single	4	Queens
+4175	F	Married	5	Manhattan
+4176	M	Married	3	Manhattan
+4179	M	Married	1	Manhattan
+4180	F	Single	3	Bronx
+4185	F	Married	2	Manhattan
+4186	F	Single	1	Bronx
+4187	F	Married	5	Queens
+4188	F	Single	1	Brooklyn
+4191	F	Married	1	Bronx
+4193	M	Single	3	Manhattan
+4195	F	Single	1	Brooklyn
+4197	M	Married	3	Bronx
+4198	F	Married	5	Queens
+4202	F	Married	4	Queens
+4204	M	Married	5	Bronx
+4205	M	Married	1	Bronx
+4208	M	Single	1	Queens
+4209	M	Single	4	Staten Island
+4210	F	Single	5	Staten Island
+4211	F	Single	5	Manhattan
+4215	M	Married	3	Bronx
+4216	F	Married	5	Brooklyn
+4217	F	Married	5	Staten Island
+4218	F	Married	4	Manhattan
+4219	F	Single	2	Manhattan
+4220	F	Married	5	Manhattan
+4221	M	Single	1	Bronx
+4223	F	Single	4	Brooklyn
+4224	F	Married	4	Brooklyn
+4225	M	Single	1	Manhattan
+4226	F	Married	5	Manhattan
+4228	M	Married	4	Bronx
+4230	F	Married	2	Manhattan
+4231	F	Single	3	Bronx
+4232	F	Single	2	Bronx
+4234	F	Single	4	Manhattan
+4235	M	Single	1	Queens
+4239	F	Single	4	Bronx
+4240	M	Married	3	Manhattan
+4241	M	Single	2	Staten Island
+4243	M	Single	3	Manhattan
+4244	F	Single	4	Brooklyn
+4246	F	Single	4	Bronx
+4247	F	Married	3	Manhattan
+4249	F	Married	3	Manhattan
+4250	F	Married	1	Queens
+4252	M	Single	1	Bronx
+4253	F	Single	2	Bronx
+4255	M	Married	1	Manhattan
+4256	F	Married	2	Manhattan
+4257	F	Single	2	Manhattan
+4258	M	Married	4	Bronx
+4259	M	Single	1	Bronx
+4260	M	Single	5	Queens
+4261	M	Single	2	Bronx
+4263	M	Married	4	Manhattan
+4268	M	Married	1	Manhattan
+4271	M	Married	1	Brooklyn
+4273	M	Married	5	Manhattan
+4274	M	Married	1	Manhattan
+4277	M	Single	1	Queens
+4279	F	Married	1	Brooklyn
+4282	F	Married	3	Bronx
+4283	M	Single	5	Bronx
+4284	F	Married	4	Queens
+4285	F	Single	1	Brooklyn
+4287	F	Single	4	Bronx
+4288	F	Married	4	Manhattan
+4291	M	Married	4	Bronx
+4292	M	Married	1	Bronx
+4295	M	Single	5	Manhattan
+4296	F	Married	4	Manhattan
+4300	F	Married	4	Brooklyn
+4301	F	Married	1	Manhattan
+4303	F	Single	1	Brooklyn
+4307	F	Single	1	Brooklyn
+4311	M	Married	5	Staten Island
+4315	M	Single	2	Bronx
+4317	F	Married	2	Brooklyn
+4319	M	Single	3	Queens
+4320	M	Married	5	Brooklyn
+4321	M	Married	5	Bronx
+4323	F	Single	2	Staten Island
+4324	F	Married	3	Bronx
+4325	F	Single	1	Manhattan
+4327	F	Single	1	Bronx
+4330	M	Married	4	Bronx
+4334	M	Single	2	Manhattan
+4337	M	Single	5	Brooklyn
+4340	F	Single	2	Bronx
+4342	M	Married	4	Bronx
+4343	F	Married	1	Brooklyn
+4344	M	Single	1	Bronx
+4346	M	Single	1	Brooklyn
+4349	M	Single	3	Bronx
+4350	F	Married	2	Queens
+4351	M	Single	5	Queens
+4352	F	Married	1	Bronx
+4355	F	Married	1	Queens
+4357	F	Single	2	Bronx
+4359	M	Single	4	Staten Island
+4360	M	Married	4	Brooklyn
+4361	F	Married	2	Brooklyn
+4362	F	Married	1	Queens
+4364	M	Single	4	Bronx
+4367	F	Married	1	Bronx
+4368	M	Single	3	Bronx
+4370	M	Single	2	Manhattan
+4372	F	Single	1	Bronx
+4373	M	Single	1	Manhattan
+4374	F	Single	3	Queens
+4375	M	Single	1	Bronx
+4376	M	Married	4	Manhattan
+4377	F	Married	1	Brooklyn
+4379	M	Single	2	Brooklyn
+4384	F	Single	3	Brooklyn
+4385	F	Married	3	Bronx
+4386	M	Single	5	Manhattan
+4391	F	Married	3	Manhattan
+4392	M	Married	1	Bronx
+4394	F	Married	2	Staten Island
+4396	F	Married	3	Bronx
+4397	M	Single	2	Manhattan
+4399	F	Single	2	Brooklyn
+4401	M	Single	1	Manhattan
+4402	F	Single	1	Manhattan
+4404	M	Single	1	Manhattan
+4405	F	Single	1	Bronx
+4407	M	Single	3	Brooklyn
+4408	F	Single	3	Brooklyn
+4409	M	Single	3	Brooklyn
+4410	F	Married	4	Bronx
+4411	M	Single	1	Staten Island
+4412	M	Single	3	Staten Island
+4413	M	Married	3	Bronx
+4417	M	Married	2	Manhattan
+4419	M	Single	1	Manhattan
+4420	M	Married	3	Manhattan
+4422	F	Married	3	Bronx
+4423	M	Single	3	Bronx
+4425	M	Married	1	Bronx
+4426	F	Married	5	Brooklyn
+4429	M	Single	4	Queens
+4431	F	Single	4	Bronx
+4434	F	Married	1	Bronx
+4436	F	Married	1	Manhattan
+4437	M	Single	2	Queens
+4438	F	Single	3	Brooklyn
+4440	F	Single	1	Bronx
+4443	F	Single	1	Manhattan
+4444	F	Married	1	Manhattan
+4445	F	Single	2	Bronx
+4447	M	Single	4	Brooklyn
+4451	M	Married	4	Bronx
+4453	F	Single	1	Manhattan
+4454	M	Single	2	Bronx
+4455	F	Single	4	Brooklyn
+4457	M	Single	2	Staten Island
+4459	F	Married	1	Bronx
+4460	M	Single	1	Manhattan
+4461	M	Married	1	Manhattan
+4462	F	Married	1	Staten Island
+4463	M	Single	5	Manhattan
+4465	M	Single	5	Bronx
+4466	M	Married	1	Bronx
+4467	M	Single	1	Manhattan
+4470	F	Single	2	Brooklyn
+4471	M	Married	3	Manhattan
+4475	F	Single	2	Queens
+4476	F	Single	5	Manhattan
+4477	M	Married	2	Brooklyn
+4479	M	Married	1	Bronx
+4483	F	Single	1	Staten Island
+4484	M	Married	3	Bronx
+4485	F	Single	3	Queens
+4486	F	Single	1	Brooklyn
+4487	F	Single	2	Staten Island
+4488	F	Married	1	Brooklyn
+4490	F	Single	4	Bronx
+4491	M	Married	1	Manhattan
+4494	F	Single	2	Staten Island
+4495	F	Single	5	Brooklyn
+4497	M	Single	3	Bronx
+4498	F	Married	2	Bronx
+4499	M	Married	4	Bronx
+4501	F	Married	4	Brooklyn
+4503	M	Single	1	Bronx
+4504	M	Married	4	Queens
+4507	F	Married	4	Bronx
+4508	M	Married	1	Bronx
+4510	F	Single	2	Brooklyn
+4514	M	Single	4	Manhattan
+4515	M	Single	1	Bronx
+4516	M	Single	1	Staten Island
+4518	F	Single	4	Bronx
+4520	F	Single	4	Brooklyn
+4522	M	Single	1	Bronx
+4524	M	Married	1	Manhattan
+4525	F	Single	5	Brooklyn
+4527	M	Married	1	Manhattan
+4528	M	Married	2	Bronx
+4531	M	Married	1	Queens
+4534	F	Single	2	Brooklyn
+4537	M	Married	4	Bronx
+4538	F	Single	3	Brooklyn
+4540	F	Single	4	Staten Island
+4541	F	Married	1	Manhattan
+4543	F	Married	4	Bronx
+4544	F	Married	4	Bronx
+4545	M	Married	1	Bronx
+4547	M	Single	4	Bronx
+4548	M	Single	2	Brooklyn
+4552	M	Married	2	Bronx
+4553	F	Single	1	Bronx
+4555	M	Single	1	Manhattan
+4556	M	Single	2	Bronx
+4557	M	Married	5	Staten Island
+4558	F	Married	3	Bronx
+4561	M	Single	2	Brooklyn
+4562	F	Married	1	Manhattan
+4564	M	Single	4	Bronx
+4566	M	Married	1	Manhattan
+4567	M	Married	5	Queens
+4568	F	Single	2	Brooklyn
+4570	F	Married	5	Staten Island
+4571	F	Married	5	Queens
+4573	M	Single	5	Bronx
+4576	M	Single	1	Brooklyn
+4579	F	Married	2	Manhattan
+4582	M	Single	2	Brooklyn
+4583	F	Married	5	Bronx
+4584	F	Married	1	Manhattan
+4586	M	Single	3	Brooklyn
+4587	F	Married	5	Staten Island
+4589	F	Single	3	Bronx
+4592	M	Married	1	Brooklyn
+4595	F	Single	5	Manhattan
+4597	F	Single	2	Bronx
+4598	F	Married	2	Brooklyn
+4599	M	Single	3	Brooklyn
+4600	F	Single	3	Staten Island
+4606	F	Married	1	Manhattan
+4607	M	Married	1	Queens
+4608	F	Single	1	Manhattan
+4609	M	Single	2	Queens
+4610	M	Single	1	Queens
+4614	F	Single	2	Manhattan
+4615	F	Married	2	Bronx
+4616	F	Single	1	Bronx
+4617	M	Married	4	Staten Island
+4618	M	Married	3	Manhattan
+4619	F	Single	4	Bronx
+4620	F	Married	1	Manhattan
+4621	M	Single	3	Manhattan
+4622	M	Single	1	Staten Island
+4623	M	Married	3	Bronx
+4626	F	Single	1	Brooklyn
+4627	M	Single	4	Bronx
+4628	M	Married	1	Manhattan
+4630	M	Married	2	Bronx
+4633	M	Married	1	Bronx
+4634	M	Married	4	Manhattan
+4635	M	Married	4	Manhattan
+4637	M	Married	4	Brooklyn
+4642	M	Married	5	Bronx
+4643	F	Single	2	Staten Island
+4644	M	Single	3	Manhattan
+4646	F	Married	3	Brooklyn
+4647	M	Single	1	Brooklyn
+4649	M	Single	3	Bronx
+4651	M	Married	3	Staten Island
+4652	F	Married	3	Brooklyn
+4653	M	Married	3	Brooklyn
+4655	F	Married	4	Brooklyn
+4657	F	Single	2	Bronx
+4658	F	Single	2	Bronx
+4659	F	Married	3	Bronx
+4660	M	Single	2	Staten Island
+4661	F	Married	3	Brooklyn
+4662	M	Single	1	Staten Island
+4663	F	Single	2	Bronx
+4664	M	Single	2	Bronx
+4666	F	Married	3	Bronx
+4667	M	Married	5	Bronx
+4670	M	Single	1	Bronx
+4671	F	Single	4	Manhattan
+4676	F	Married	1	Manhattan
+4677	M	Single	1	Manhattan
+4678	M	Single	1	Bronx
+4680	F	Single	5	Brooklyn
+4681	M	Single	1	Staten Island
+4682	M	Married	4	Bronx
+4686	F	Single	2	Bronx
+4687	M	Single	3	Manhattan
+4689	M	Married	3	Queens
+4690	M	Married	4	Bronx
+4691	F	Single	2	Bronx
+4692	M	Single	3	Bronx
+4693	M	Single	2	Manhattan
+4695	F	Single	3	Bronx
+4697	F	Single	3	Bronx
+4698	F	Single	2	Queens
+4699	M	Married	3	Bronx
+4700	M	Single	4	Bronx
+4707	F	Married	2	Manhattan
+4709	M	Married	4	Staten Island
+4711	F	Married	3	Manhattan
+4712	M	Single	5	Bronx
+4714	F	Single	3	Brooklyn
+4718	M	Single	1	Brooklyn
+4719	F	Married	1	Queens
+4720	M	Single	2	Brooklyn
+4722	M	Single	1	Bronx
+4724	M	Single	2	Bronx
+4726	M	Married	3	Manhattan
+4727	F	Married	4	Manhattan
+4730	F	Single	4	Staten Island
+4731	F	Single	3	Manhattan
+4732	M	Married	1	Queens
+4736	M	Married	3	Bronx
+4738	F	Single	3	Brooklyn
+4739	M	Married	2	Bronx
+4742	M	Single	3	Queens
+4743	F	Married	4	Bronx
+4745	F	Married	2	Brooklyn
+4747	M	Single	1	Brooklyn
+4748	M	Married	2	Brooklyn
+4750	F	Single	5	Manhattan
+4753	M	Single	1	Brooklyn
+4756	M	Married	3	Brooklyn
+4761	F	Married	2	Brooklyn
+4763	F	Married	5	Manhattan
+4766	F	Married	2	Brooklyn
+4767	M	Single	3	Manhattan
+4768	F	Single	3	Brooklyn
+4771	M	Single	2	Manhattan
+4774	F	Married	5	Manhattan
+4775	M	Single	2	Bronx
+4776	M	Married	4	Brooklyn
+4778	M	Married	1	Manhattan
+4779	M	Single	4	Bronx
+4780	F	Married	3	Manhattan
+4783	M	Married	3	Bronx
+4784	F	Married	5	Manhattan
+4785	F	Single	3	Brooklyn
+4789	F	Married	1	Brooklyn
+4791	M	Married	2	Manhattan
+4792	F	Married	4	Manhattan
+4796	F	Married	4	Brooklyn
+4797	M	Married	2	Brooklyn
+4798	F	Single	1	Brooklyn
+4803	M	Single	2	Queens
+4804	F	Married	4	Bronx
+4807	F	Married	3	Queens
+4808	M	Single	3	Manhattan
+4810	F	Single	5	Queens
+4813	F	Married	1	Bronx
+4815	F	Married	1	Bronx
+4819	F	Single	1	Brooklyn
+4821	M	Married	1	Brooklyn
+4822	F	Married	3	Staten Island
+4823	F	Single	3	Queens
+4824	M	Single	5	Manhattan
+4825	F	Married	3	Brooklyn
+4826	F	Single	5	Queens
+4828	M	Married	4	Bronx
+4829	M	Single	1	Manhattan
+4831	F	Single	1	Brooklyn
+4832	F	Married	2	Bronx
+4836	M	Single	5	Manhattan
+4838	F	Single	4	Bronx
+4841	F	Married	5	Bronx
+4843	M	Single	4	Manhattan
+4844	F	Single	3	Manhattan
+4846	M	Single	3	Bronx
+4847	F	Single	3	Manhattan
+4848	F	Married	4	Bronx
+4850	F	Married	4	Bronx
+4851	F	Married	4	Staten Island
+4853	M	Single	1	Manhattan
+4855	F	Married	1	Bronx
+4856	M	Married	1	Bronx
+4858	M	Single	1	Bronx
+4861	M	Single	2	Bronx
+4864	F	Married	5	Manhattan
+4868	F	Married	3	Manhattan
+4870	M	Single	3	Brooklyn
+4871	F	Single	2	Brooklyn
+4873	M	Single	1	Bronx
+4875	M	Married	4	Bronx
+4876	F	Single	2	Bronx
+4877	M	Married	4	Bronx
+4878	F	Single	2	Queens
+4879	M	Married	3	Manhattan
+4881	M	Married	3	Bronx
+4882	F	Single	1	Staten Island
+4884	M	Single	4	Bronx
+4888	M	Single	3	Brooklyn
+4890	M	Single	1	Bronx
+4891	F	Single	1	Bronx
+4892	M	Single	5	Bronx
+4898	M	Married	1	Manhattan
+4900	M	Married	4	Bronx
+4901	F	Single	3	Bronx
+4903	M	Married	2	Manhattan
+4906	M	Single	1	Manhattan
+4907	M	Single	4	Queens
+4909	M	Married	2	Bronx
+4912	F	Single	3	Brooklyn
+4913	M	Single	1	Brooklyn
+4914	F	Single	1	Manhattan
+4915	M	Single	2	Manhattan
+4916	M	Single	1	Bronx
+4917	F	Single	4	Staten Island
+4921	F	Married	1	Brooklyn
+4925	F	Single	1	Manhattan
+4928	M	Single	4	Bronx
+4929	F	Married	1	Brooklyn
+4932	F	Single	1	Queens
+4936	M	Single	2	Brooklyn
+4937	M	Married	1	Brooklyn
+4938	F	Single	4	Bronx
+4940	F	Single	2	Staten Island
+4941	M	Single	3	Brooklyn
+4942	F	Married	2	Manhattan
+4943	F	Married	4	Manhattan
+4946	F	Married	1	Manhattan
+4947	M	Married	4	Queens
+4948	M	Married	5	Bronx
+4951	M	Single	5	Bronx
+4953	M	Single	5	Manhattan
+4954	F	Married	4	Manhattan
+4956	M	Married	4	Queens
+4958	M	Single	1	Queens
+4960	M	Married	1	Brooklyn
+4961	M	Single	4	Bronx
+4962	F	Married	1	Manhattan
+4964	F	Married	2	Staten Island
+4965	F	Single	4	Queens
+4972	M	Married	5	Brooklyn
+4973	M	Single	1	Bronx
+4977	M	Married	1	Brooklyn
+4978	M	Married	1	Brooklyn
+4979	M	Married	1	Staten Island
+4981	F	Single	1	Staten Island
+4983	M	Single	2	Queens
+4984	F	Single	3	Queens
+4985	M	Single	3	Queens
+4987	F	Single	3	Bronx
+4995	M	Single	2	Bronx
+4998	M	Single	3	Manhattan
+5000	F	Single	1	Manhattan
+5001	M	Single	5	Brooklyn
+5002	M	Married	2	Queens
+5005	M	Married	2	Staten Island
+5007	M	Married	3	Brooklyn
+5008	F	Single	1	Queens
+5009	M	Single	1	Bronx
+5013	M	Married	2	Brooklyn
+5014	M	Single	5	Brooklyn
+5015	F	Married	1	Staten Island
+5016	M	Married	5	Bronx
+5017	M	Single	1	Queens
+5018	M	Married	3	Bronx
+5019	F	Married	4	Queens
+5020	M	Married	4	Brooklyn
+5022	M	Single	2	Bronx
+5023	F	Single	3	Bronx
+5024	M	Married	3	Bronx
+5025	M	Married	3	Manhattan
+5026	M	Single	5	Bronx
+5029	M	Married	3	Brooklyn
+5031	M	Married	2	Brooklyn
+5032	M	Single	4	Bronx
+5036	M	Single	1	Queens
+5037	M	Single	1	Manhattan
+5038	M	Single	2	Bronx
+5040	M	Married	3	Bronx
+5045	F	Married	1	Staten Island
+5046	F	Single	1	Staten Island
+5050	F	Single	3	Bronx
+5052	F	Single	5	Staten Island
+5053	M	Married	2	Queens
+5054	F	Married	2	Brooklyn
+5055	M	Single	5	Brooklyn
+5056	F	Married	5	Bronx
+5057	M	Married	1	Staten Island
+5060	M	Married	3	Bronx
+5062	M	Married	4	Bronx
+5063	M	Married	3	Manhattan
+5065	F	Single	1	Queens
+5067	M	Single	2	Bronx
+5068	M	Single	3	Staten Island
+5069	M	Single	1	Brooklyn
+5070	F	Single	3	Bronx
+5071	F	Married	1	Queens
+5073	F	Married	1	Staten Island
+5077	M	Married	1	Brooklyn
+5078	F	Single	4	Queens
+5079	F	Married	3	Brooklyn
+5081	F	Single	3	Brooklyn
+5083	F	Married	1	Brooklyn
+5084	M	Married	5	Brooklyn
+5086	F	Single	3	Bronx
+5088	F	Married	2	Bronx
+5089	F	Single	2	Brooklyn
+5090	M	Single	4	Queens
+5092	F	Single	3	Bronx
+5094	M	Single	1	Staten Island
+5095	F	Married	4	Brooklyn
+5096	M	Single	1	Bronx
+5099	F	Married	1	Queens
+5101	F	Single	4	Bronx
+5102	F	Single	1	Brooklyn
+5103	M	Single	5	Manhattan
+5106	M	Single	1	Manhattan
+5107	M	Married	1	Brooklyn
+5108	F	Married	3	Brooklyn
+5109	M	Single	1	Bronx
+5110	F	Single	2	Staten Island
+5113	M	Married	3	Brooklyn
+5114	F	Married	3	Manhattan
+5115	M	Single	1	Staten Island
+5116	F	Married	3	Bronx
+5118	F	Single	2	Manhattan
+5119	M	Married	1	Bronx
+5124	M	Single	3	Queens
+5125	F	Single	2	Bronx
+5126	F	Single	2	Manhattan
+5129	F	Single	2	Brooklyn
+5130	F	Married	1	Manhattan
+5133	F	Married	1	Bronx
+5134	F	Single	4	Manhattan
+5136	M	Married	3	Brooklyn
+5140	F	Single	1	Queens
+5143	M	Single	1	Bronx
+5144	M	Single	4	Brooklyn
+5147	F	Single	1	Bronx
+5148	F	Single	1	Manhattan
+5150	F	Married	4	Manhattan
+5151	M	Single	4	Brooklyn
+5153	F	Single	2	Manhattan
+5155	M	Married	4	Brooklyn
+5158	M	Single	3	Manhattan
+5159	M	Married	1	Brooklyn
+5162	M	Married	5	Staten Island
+5163	M	Married	3	Manhattan
+5166	M	Married	4	Bronx
+5167	F	Single	3	Manhattan
+5170	F	Married	2	Bronx
+5171	M	Single	3	Brooklyn
+5172	M	Single	2	Queens
+5174	M	Married	4	Manhattan
+5181	M	Single	3	Queens
+5182	F	Single	3	Bronx
+5183	M	Single	3	Bronx
+5185	F	Married	5	Manhattan
+5188	F	Married	5	Staten Island
+5192	M	Married	3	Brooklyn
+5195	M	Married	1	Bronx
+5196	F	Married	3	Bronx
+5199	F	Married	4	Manhattan
+5203	M	Married	5	Brooklyn
+5204	F	Married	1	Queens
+5206	M	Single	1	Bronx
+5207	M	Single	1	Brooklyn
+5208	M	Married	4	Brooklyn
+5210	F	Single	1	Bronx
+5214	F	Single	3	Bronx
+5215	M	Single	4	Staten Island
+5216	F	Married	2	Manhattan
+5219	M	Single	4	Bronx
+5221	F	Married	1	Brooklyn
+5222	M	Married	2	Bronx
+5223	M	Married	1	Queens
+5226	M	Married	1	Bronx
+5230	M	Married	3	Bronx
+5231	F	Married	2	Brooklyn
+5233	F	Married	2	Brooklyn
+5235	F	Single	3	Brooklyn
+5237	F	Single	3	Staten Island
+5238	M	Single	3	Bronx
+5240	F	Single	1	Bronx
+5241	F	Single	5	Bronx
+5242	F	Married	4	Brooklyn
+5244	F	Single	5	Bronx
+5249	F	Single	4	Brooklyn
+5250	F	Married	3	Brooklyn
+5252	F	Married	4	Brooklyn
+5256	M	Married	3	Bronx
+5258	M	Married	1	Queens
+5261	F	Married	1	Brooklyn
+5264	F	Single	1	Bronx
+5265	M	Single	1	Brooklyn
+5271	M	Single	1	Bronx
+5276	F	Single	4	Bronx
+5277	M	Married	5	Queens
+5279	M	Married	3	Brooklyn
+5280	F	Single	5	Bronx
+5281	M	Single	5	Brooklyn
+5282	F	Single	2	Staten Island
+5283	F	Single	3	Brooklyn
+5284	F	Married	3	Queens
+5289	F	Married	5	Bronx
+5290	M	Single	1	Brooklyn
+5293	F	Single	2	Brooklyn
+5294	F	Single	4	Queens
+5295	M	Single	3	Manhattan
+5297	M	Married	1	Bronx
+5298	M	Single	2	Brooklyn
+5301	F	Married	2	Brooklyn
+5303	M	Married	3	Bronx
+5305	M	Single	4	Manhattan
+5307	F	Married	3	Brooklyn
+5310	M	Single	4	Staten Island
+5311	M	Married	2	Brooklyn
+5313	F	Married	3	Manhattan
+5314	M	Single	3	Manhattan
+5315	M	Married	2	Queens
+5317	M	Single	3	Bronx
+5318	M	Single	3	Queens
+5320	M	Married	2	Manhattan
+5321	F	Married	1	Queens
+5324	M	Single	2	Brooklyn
+5329	M	Single	1	Bronx
+5331	F	Married	2	Manhattan
+5333	M	Single	2	Brooklyn
+5335	M	Single	5	Bronx
+5339	M	Married	2	Manhattan
+5340	F	Married	2	Manhattan
+5341	F	Married	2	Bronx
+5342	F	Married	1	Bronx
+5343	F	Single	4	Brooklyn
+5345	F	Married	1	Bronx
+5346	F	Married	2	Manhattan
+5347	F	Single	3	Brooklyn
+5348	F	Single	3	Manhattan
+5349	F	Married	1	Bronx
+5350	M	Single	2	Staten Island
+5351	F	Single	5	Queens
+5353	M	Single	3	Queens
+5355	M	Single	2	Bronx
+5358	F	Married	1	Manhattan
+5360	M	Single	2	Manhattan
+5362	F	Single	2	Manhattan
+5363	M	Single	3	Queens
+5365	F	Single	2	Manhattan
+5366	F	Single	2	Bronx
+5368	F	Married	4	Manhattan
+5374	M	Married	3	Manhattan
+5376	M	Single	1	Manhattan
+5379	F	Single	1	Bronx
+5381	F	Married	3	Brooklyn
+5387	F	Single	1	Bronx
+5388	M	Married	4	Manhattan
+5389	F	Single	1	Bronx
+5393	F	Single	1	Brooklyn
+5394	M	Married	4	Brooklyn
+5396	M	Single	3	Manhattan
+5397	M	Single	2	Staten Island
+5398	F	Married	5	Bronx
+5400	F	Single	1	Bronx
+5401	F	Single	4	Brooklyn
+5405	F	Married	1	Manhattan
+5406	F	Single	4	Queens
+5407	M	Married	4	Manhattan
+5409	F	Single	2	Brooklyn
+5410	F	Married	2	Bronx
+5412	M	Single	1	Manhattan
+5418	F	Married	3	Queens
+5419	F	Single	1	Bronx
+5423	F	Single	4	Manhattan
+5424	F	Single	4	Queens
+5427	F	Single	3	Brooklyn
+5428	M	Married	2	Bronx
+5429	F	Married	3	Manhattan
+5430	M	Single	4	Queens
+5431	F	Married	2	Bronx
+5432	M	Married	3	Manhattan
+5433	M	Married	2	Bronx
+5435	M	Married	5	Bronx
+5436	M	Single	2	Bronx
+5438	M	Married	1	Manhattan
+5448	F	Married	5	Brooklyn
+5449	F	Single	3	Bronx
+5450	F	Married	4	Manhattan
+5452	F	Single	2	Bronx
+5453	M	Single	3	Staten Island
+5456	F	Single	2	Staten Island
+5457	M	Single	3	Brooklyn
+5461	F	Married	5	Staten Island
+5462	M	Married	1	Manhattan
+5464	M	Single	4	Brooklyn
+5465	M	Single	1	Brooklyn
+5466	M	Single	4	Brooklyn
+5471	M	Single	4	Brooklyn
+5473	F	Single	1	Manhattan
+5476	M	Married	4	Bronx
+5478	M	Single	3	Manhattan
+5481	F	Married	4	Brooklyn
+5486	F	Married	3	Manhattan
+5488	F	Single	4	Brooklyn
+5489	F	Single	2	Bronx
+5493	F	Married	3	Brooklyn
+5494	M	Single	3	Brooklyn
+5498	M	Single	1	Manhattan
+5499	M	Married	4	Manhattan
+5500	M	Single	1	Manhattan
+5501	F	Single	4	Bronx
+5502	M	Married	3	Bronx
+5503	M	Married	3	Bronx
+5508	F	Married	4	Brooklyn
+5509	M	Married	5	Staten Island
+5512	F	Single	5	Brooklyn
+5514	M	Single	2	Brooklyn
+5518	M	Married	5	Bronx
+5519	M	Married	2	Brooklyn
+5526	M	Married	4	Bronx
+5528	F	Single	2	Manhattan
+5530	F	Married	4	Bronx
+5531	F	Married	4	Bronx
+5532	M	Married	1	Brooklyn
+5533	F	Single	1	Bronx
+5535	M	Married	3	Manhattan
+5536	F	Single	1	Queens
+5537	F	Single	1	Manhattan
+5538	F	Single	2	Brooklyn
+5539	F	Married	4	Bronx
+5541	F	Married	1	Bronx
+5542	M	Single	2	Manhattan
+5543	F	Single	5	Manhattan
+5545	M	Single	3	Bronx
+5547	M	Single	2	Bronx
+5548	F	Single	3	Brooklyn
+5549	F	Married	3	Staten Island
+5553	F	Single	3	Brooklyn
+5555	F	Married	4	Staten Island
+5556	M	Single	1	Bronx
+5557	M	Single	4	Queens
+5558	M	Married	3	Brooklyn
+5559	F	Married	4	Brooklyn
+5560	M	Married	1	Bronx
+5566	M	Single	4	Brooklyn
+5567	M	Single	2	Staten Island
+5568	M	Married	2	Queens
+5571	M	Single	2	Queens
+5572	F	Single	5	Manhattan
+5574	M	Married	3	Manhattan
+5576	M	Single	3	Brooklyn
+5577	F	Married	1	Brooklyn
+5578	F	Single	5	Queens
+5580	M	Married	3	Bronx
+5581	F	Single	1	Manhattan
+5584	F	Single	1	Bronx
+5585	F	Single	1	Bronx
+5587	F	Single	1	Bronx
+5588	F	Married	2	Queens
+5589	M	Single	1	Brooklyn
+5590	M	Married	5	Bronx
+5592	F	Single	1	Manhattan
+5593	M	Single	4	Bronx
+5594	F	Single	1	Queens
+5596	F	Single	1	Brooklyn
+5597	F	Single	2	Manhattan
+5598	F	Married	4	Manhattan
+5602	M	Married	1	Brooklyn
+5605	M	Married	4	Queens
+5606	F	Single	1	Queens
+5608	F	Single	2	Brooklyn
+5610	M	Single	4	Bronx
+5611	M	Married	2	Manhattan
+5612	M	Single	2	Bronx
+5614	F	Single	2	Bronx
+5615	M	Single	1	Bronx
+5616	F	Single	3	Bronx
+5617	F	Single	1	Queens
+5618	F	Married	3	Queens
+5623	F	Married	4	Bronx
+5624	F	Single	4	Queens
+5625	F	Single	4	Manhattan
+5626	F	Married	4	Brooklyn
+5627	M	Single	1	Brooklyn
+5628	F	Married	3	Staten Island
+5630	F	Single	2	Brooklyn
+5631	M	Single	5	Manhattan
+5633	F	Single	4	Bronx
+5636	F	Married	1	Bronx
+5639	M	Single	4	Manhattan
+5642	M	Single	4	Brooklyn
+5643	M	Single	4	Bronx
+5644	F	Married	2	Bronx
+5645	M	Married	4	Bronx
+5647	M	Single	3	Bronx
+5649	M	Married	3	Staten Island
+5650	M	Single	3	Staten Island
+5652	F	Single	2	Queens
+5654	F	Single	4	Queens
+5655	F	Single	2	Bronx
+5656	F	Single	1	Manhattan
+5657	F	Married	3	Queens
+5659	F	Married	1	Brooklyn
+5660	M	Single	5	Brooklyn
+5663	F	Married	1	Bronx
+5664	M	Married	4	Manhattan
+5665	F	Married	4	Brooklyn
+5666	M	Single	4	Queens
+5667	F	Married	1	Manhattan
+5669	M	Single	5	Staten Island
+5672	M	Married	1	Queens
+5673	M	Married	1	Manhattan
+5674	F	Single	3	Brooklyn
+5676	M	Married	1	Brooklyn
+5681	M	Single	1	Manhattan
+5682	F	Single	2	Manhattan
+5685	F	Single	2	Bronx
+5686	M	Married	3	Manhattan
+5687	M	Single	4	Brooklyn
+5690	F	Married	4	Bronx
+5691	F	Married	1	Brooklyn
+5693	M	Single	3	Queens
+5694	F	Married	2	Manhattan
+5696	F	Single	1	Bronx
+5700	M	Married	3	Manhattan
+5702	F	Married	3	Manhattan
+5707	F	Married	5	Queens
+5709	M	Single	3	Staten Island
+5711	F	Single	4	Brooklyn
+5712	F	Married	2	Queens
+5714	M	Married	2	Bronx
+5715	M	Single	1	Manhattan
+5716	F	Married	1	Queens
+5717	F	Single	1	Bronx
+5718	F	Married	2	Brooklyn
+5720	M	Single	5	Staten Island
+5722	M	Married	5	Queens
+5723	F	Married	3	Bronx
+5724	M	Married	4	Manhattan
+5726	M	Single	1	Bronx
+5727	F	Single	2	Queens
+5728	M	Married	1	Staten Island
+5731	F	Married	3	Bronx
+5733	M	Married	2	Manhattan
+5734	M	Married	3	Bronx
+5735	M	Single	1	Brooklyn
+5738	M	Married	1	Manhattan
+5739	M	Married	3	Manhattan
+5740	F	Single	3	Manhattan
+5742	F	Single	4	Manhattan
+5744	F	Married	1	Manhattan
+5745	F	Married	3	Bronx
+5746	F	Single	4	Bronx
+5748	M	Married	3	Bronx
+5754	M	Single	2	Brooklyn
+5755	M	Single	1	Staten Island
+5757	M	Single	1	Manhattan
+5760	F	Married	5	Bronx
+5765	M	Married	2	Brooklyn
+5766	M	Married	5	Manhattan
+5767	F	Married	3	Brooklyn
+5768	F	Married	2	Manhattan
+5769	M	Single	1	Brooklyn
+5773	M	Single	4	Brooklyn
+5774	F	Married	2	Manhattan
+5777	M	Married	1	Bronx
+5778	F	Single	1	Brooklyn
+5781	M	Married	2	Manhattan
+5782	M	Single	5	Bronx
+5786	M	Married	4	Bronx
+5787	F	Single	4	Queens
+5789	M	Married	1	Manhattan
+5790	M	Married	2	Bronx
+5791	M	Single	3	Manhattan
+5792	M	Single	5	Bronx
+5799	F	Single	4	Bronx
+5801	M	Single	2	Manhattan
+5802	F	Single	3	Bronx
+5803	F	Single	3	Queens
+5804	M	Single	2	Staten Island
+5805	M	Single	1	Manhattan
+5806	M	Single	2	Brooklyn
+5809	M	Married	1	Bronx
+5810	M	Single	2	Bronx
+5813	M	Single	4	Manhattan
+5814	M	Single	4	Bronx
+5819	F	Married	2	Bronx
+5820	M	Single	1	Bronx
+5821	F	Married	4	Bronx
+5822	M	Single	5	Staten Island
+5823	F	Married	3	Bronx
+5824	M	Married	3	Bronx
+5826	F	Married	4	Bronx
+5827	M	Married	3	Manhattan
+5828	F	Married	1	Staten Island
+5829	M	Married	5	Staten Island
+5830	M	Single	4	Brooklyn
+5831	M	Single	3	Manhattan
+5833	F	Single	2	Queens
+5834	F	Single	1	Manhattan
+5835	M	Single	2	Manhattan
+5838	F	Married	3	Queens
+5839	F	Single	5	Brooklyn
+5840	F	Married	2	Brooklyn
+5844	M	Single	4	Bronx
+5847	M	Single	5	Staten Island
+5848	F	Single	2	Brooklyn
+5851	F	Married	1	Brooklyn
+5852	M	Married	1	Queens
+5855	F	Single	2	Bronx
+5857	M	Married	4	Manhattan
+5858	M	Single	1	Manhattan
+5859	M	Married	1	Bronx
+5863	M	Married	3	Queens
+5865	M	Single	1	Bronx
+5867	M	Single	3	Manhattan
+5868	F	Single	2	Bronx
+5869	M	Single	1	Bronx
+5871	F	Married	2	Bronx
+5872	F	Married	4	Queens
+5875	M	Single	2	Manhattan
+5876	M	Single	1	Brooklyn
+5877	M	Single	3	Bronx
+5881	F	Single	4	Brooklyn
+5882	F	Single	4	Manhattan
+5887	F	Single	3	Bronx
+5890	F	Single	3	Manhattan
+5891	M	Married	3	Queens
+5894	M	Single	4	Manhattan
+5895	M	Single	1	Bronx
+5896	F	Single	5	Bronx
+5898	M	Single	2	Manhattan
+5899	F	Married	2	Bronx
+5900	M	Married	5	Manhattan
+5902	M	Married	1	Staten Island
+5903	M	Single	1	Bronx
+5905	F	Married	1	Bronx
+5906	M	Married	3	Bronx
+5908	F	Single	2	Manhattan
+5909	M	Single	1	Bronx
+5910	F	Married	4	Bronx
+5912	F	Married	1	Manhattan
+5913	F	Married	5	Bronx
+5914	F	Single	2	Manhattan
+5916	F	Married	2	Staten Island
+5918	F	Married	1	Brooklyn
+5920	F	Single	3	Bronx
+5921	F	Married	3	Queens
+5923	M	Single	1	Queens
+5924	M	Married	5	Bronx
+5925	M	Married	3	Bronx
+5926	F	Single	5	Queens
+5927	M	Married	2	Queens
+5929	F	Married	4	Bronx
+5933	M	Married	1	Queens
+5935	M	Married	1	Brooklyn
+5938	M	Married	5	Brooklyn
+5941	M	Single	5	Bronx
+5942	F	Married	1	Bronx
+5944	M	Single	2	Manhattan
+5948	M	Married	2	Bronx
+5950	M	Single	3	Staten Island
+5951	M	Married	2	Brooklyn
+5952	M	Single	2	Bronx
+5953	F	Married	3	Bronx
+5954	M	Single	2	Brooklyn
+5956	M	Single	4	Staten Island
+5957	F	Single	4	Manhattan
+5958	F	Single	3	Bronx
+5959	M	Married	3	Brooklyn
+5960	M	Single	3	Brooklyn
+5962	F	Married	5	Bronx
+5965	M	Single	3	Brooklyn
+5967	M	Single	2	Manhattan
+5968	F	Married	1	Brooklyn
+5970	M	Married	4	Bronx
+5971	F	Single	2	Bronx
+5973	M	Married	2	Manhattan
+5974	F	Single	4	Brooklyn
+5975	F	Single	3	Queens
+5976	M	Single	5	Queens
+5977	M	Single	1	Bronx
+5978	M	Married	5	Bronx
+5981	M	Married	1	Queens
+5982	M	Single	2	Bronx
+5984	M	Single	1	Bronx
+5985	M	Single	4	Brooklyn
+5986	M	Married	4	Brooklyn
+5989	M	Married	2	Bronx
+5990	F	Married	4	Bronx
+5991	M	Married	1	Manhattan
+5992	F	Single	3	Bronx
+5994	M	Married	1	Brooklyn
+5999	F	Married	2	Queens
+6001	F	Married	2	Bronx
+6002	F	Married	3	Bronx
+6003	F	Single	1	Bronx
+6004	F	Single	4	Staten Island
+6006	F	Single	5	Brooklyn
+6008	M	Single	3	Bronx
+6009	M	Single	2	Manhattan
+6010	M	Single	1	Brooklyn
+6012	M	Married	3	Bronx
+6013	M	Married	1	Staten Island
+6014	F	Married	1	Bronx
+6018	F	Single	3	Manhattan
+6019	F	Single	1	Brooklyn
+6021	F	Single	4	Bronx
+6024	F	Married	2	Brooklyn
+6025	F	Single	1	Staten Island
+6027	M	Married	1	Queens
+6030	F	Single	2	Brooklyn
+6032	M	Married	3	Brooklyn
+6033	M	Single	3	Brooklyn
+6034	M	Single	3	Brooklyn
+6038	F	Single	3	Bronx
+6041	F	Single	2	Queens
+6042	M	Married	4	Brooklyn
+6044	M	Single	5	Manhattan
+6047	M	Single	3	Bronx
+6048	M	Single	5	Queens
+6051	F	Single	3	Manhattan
+6052	F	Married	4	Brooklyn
+6055	F	Married	1	Brooklyn
+6056	F	Single	2	Bronx
+6057	F	Married	4	Manhattan
+6061	M	Married	1	Bronx
+6065	F	Married	1	Bronx
+6066	M	Married	2	Brooklyn
+6069	F	Single	4	Bronx
+6071	F	Married	1	Brooklyn
+6072	M	Married	2	Bronx
+6074	M	Married	1	Staten Island
+6075	F	Married	3	Brooklyn
+6076	M	Married	2	Queens
+6077	F	Married	4	Manhattan
+6079	F	Married	3	Bronx
+6080	M	Married	3	Queens
+6081	M	Married	4	Queens
+6082	F	Married	4	Bronx
+6083	M	Married	3	Manhattan
+6084	F	Married	1	Manhattan
+6086	M	Married	4	Brooklyn
+6087	M	Married	4	Bronx
+6092	F	Married	1	Manhattan
+6093	M	Married	3	Queens
+6094	M	Married	1	Queens
+6095	M	Married	2	Bronx
+6096	M	Married	2	Brooklyn
+6097	M	Married	2	Queens
+6098	F	Single	1	Manhattan
+6099	M	Single	3	Brooklyn
+6100	M	Married	4	Manhattan
+6101	F	Single	3	Bronx
+6105	M	Single	1	Queens
+6106	M	Married	4	Bronx
+6107	F	Married	5	Manhattan
+6111	M	Single	4	Queens
+6113	F	Single	1	Manhattan
+6114	F	Single	2	Manhattan
+6120	M	Married	1	Manhattan
+6123	F	Married	1	Bronx
+6126	M	Single	3	Manhattan
+6127	F	Married	2	Brooklyn
+6129	F	Married	1	Bronx
+6130	M	Married	2	Bronx
+6132	M	Married	1	Manhattan
+6133	F	Married	2	Manhattan
+6134	F	Single	2	Bronx
+6135	M	Single	3	Brooklyn
+6136	F	Single	3	Bronx
+6138	F	Married	5	Bronx
+6141	M	Single	3	Brooklyn
+6142	M	Married	3	Manhattan
+6145	F	Single	5	Bronx
+6148	F	Married	2	Manhattan
+6151	F	Married	1	Queens
+6152	F	Married	1	Queens
+6153	F	Single	4	Manhattan
+6155	F	Single	3	Bronx
+6157	F	Single	2	Staten Island
+6159	M	Single	1	Queens
+6161	F	Single	1	Bronx
+6162	M	Married	4	Bronx
+6163	F	Single	2	Bronx
+6167	M	Single	1	Manhattan
+6168	M	Married	4	Bronx
+6169	M	Single	2	Bronx
+6171	M	Single	4	Bronx
+6172	M	Married	3	Bronx
+6174	F	Single	1	Bronx
+6175	F	Married	5	Brooklyn
+6180	M	Single	5	Bronx
+6181	M	Married	4	Manhattan
+6182	F	Married	5	Bronx
+6184	M	Single	2	Brooklyn
+6186	M	Married	4	Bronx
+6187	M	Single	3	Queens
+6190	F	Married	2	Manhattan
+6193	M	Married	5	Brooklyn
+6194	M	Married	5	Manhattan
+6196	F	Single	4	Manhattan
+6203	F	Single	2	Manhattan
+6204	F	Married	5	Bronx
+6205	M	Married	4	Queens
+6207	M	Married	1	Bronx
+6208	F	Married	1	Bronx
+6209	M	Married	3	Brooklyn
+6214	F	Single	4	Manhattan
+6216	M	Married	3	Queens
+6217	F	Married	2	Brooklyn
+6218	F	Married	1	Manhattan
+6219	F	Single	3	Manhattan
+6220	F	Single	1	Manhattan
+6222	M	Single	1	Brooklyn
+6223	M	Married	2	Brooklyn
+6224	F	Married	1	Brooklyn
+6227	F	Married	3	Manhattan
+6228	M	Single	3	Manhattan
+6230	F	Single	4	Brooklyn
+6232	F	Married	1	Bronx
+6233	F	Single	3	Manhattan
+6236	F	Married	1	Brooklyn
+6237	F	Single	3	Bronx
+6239	F	Married	1	Brooklyn
+6240	M	Single	4	Queens
+6245	M	Married	3	Queens
+6248	F	Married	3	Manhattan
+6251	M	Single	4	Brooklyn
+6253	F	Married	4	Bronx
+6254	F	Single	3	Bronx
+6256	M	Married	1	Brooklyn
+6259	F	Single	5	Brooklyn
+6260	F	Single	4	Manhattan
+6261	M	Married	5	Bronx
+6262	F	Married	4	Manhattan
+6263	F	Single	1	Queens
+6265	F	Single	2	Queens
+6266	M	Single	1	Bronx
+6271	M	Single	1	Brooklyn
+6272	F	Single	1	Brooklyn
+6273	M	Single	2	Manhattan
+6274	M	Single	1	Manhattan
+6283	F	Single	4	Bronx
+6284	F	Married	5	Bronx
+6287	M	Single	3	Brooklyn
+6288	F	Single	1	Bronx
+6289	M	Single	1	Brooklyn
+6291	F	Single	1	Manhattan
+6297	F	Single	2	Bronx
+6299	F	Married	5	Bronx
+6301	F	Married	1	Bronx
+6304	F	Married	1	Brooklyn
+6305	F	Single	1	Queens
+6306	F	Single	2	Bronx
+6307	F	Married	4	Manhattan
+6309	M	Married	3	Staten Island
+6311	M	Single	2	Manhattan
+6313	F	Married	1	Bronx
+6315	F	Single	5	Staten Island
+6317	F	Married	4	Brooklyn
+6318	F	Single	1	Bronx
+6319	M	Single	1	Staten Island
+6320	M	Married	2	Manhattan
+6321	M	Single	5	Staten Island
+6324	F	Single	3	Queens
+6328	F	Married	4	Bronx
+6334	F	Married	1	Queens
+6339	F	Single	1	Queens
+6341	F	Single	2	Manhattan
+6344	F	Single	1	Queens
+6346	M	Single	3	Queens
+6347	F	Married	5	Bronx
+6348	M	Married	2	Manhattan
+6350	F	Married	2	Bronx
+6352	M	Single	3	Bronx
+6353	M	Married	3	Manhattan
+6354	M	Married	2	Brooklyn
+6355	M	Married	4	Bronx
+6358	F	Single	3	Queens
+6359	F	Single	2	Bronx
+6361	F	Married	2	Brooklyn
+6362	F	Single	4	Staten Island
+6367	F	Single	1	Manhattan
+6369	F	Single	2	Queens
+6372	M	Married	1	Bronx
+6375	M	Single	2	Brooklyn
+6382	F	Married	1	Brooklyn
+6383	M	Single	4	Staten Island
+6387	F	Single	5	Brooklyn
+6388	F	Single	2	Manhattan
+6394	M	Married	3	Brooklyn
+6395	M	Married	1	Bronx
+6398	F	Single	1	Manhattan
+6399	F	Single	3	Bronx
+6400	M	Married	3	Brooklyn
+6402	F	Single	3	Brooklyn
+6406	M	Married	2	Manhattan
+6408	F	Single	1	Manhattan
+6414	M	Married	1	Manhattan
+6415	M	Single	2	Queens
+6417	M	Single	2	Bronx
+6421	F	Married	3	Bronx
+6423	F	Single	4	Bronx
+6424	F	Single	5	Brooklyn
+6425	M	Married	3	Staten Island
+6428	M	Single	4	Staten Island
+6429	M	Single	5	Brooklyn
+6432	F	Single	1	Manhattan
+6433	F	Single	1	Bronx
+6434	F	Married	5	Staten Island
+6439	F	Single	3	Bronx
+6440	M	Single	1	Brooklyn
+6442	F	Married	2	Brooklyn
+6444	M	Single	5	Brooklyn
+6446	F	Single	5	Brooklyn
+6452	F	Married	3	Manhattan
+6454	F	Single	1	Bronx
+6457	F	Single	2	Bronx
+6459	M	Married	4	Manhattan
+6460	M	Married	2	Manhattan
+6461	F	Married	1	Brooklyn
+6462	M	Single	1	Bronx
+6464	M	Single	3	Brooklyn
+6465	F	Single	4	Brooklyn
+6466	F	Married	3	Bronx
+6468	F	Married	5	Staten Island
+6469	M	Single	1	Brooklyn
+6471	F	Married	1	Bronx
+6472	F	Single	1	Bronx
+6478	M	Single	1	Bronx
+6480	F	Married	1	Manhattan
+6484	M	Single	3	Staten Island
+6488	F	Single	1	Bronx
+6490	M	Single	4	Bronx
+6494	M	Single	1	Brooklyn
+6495	F	Single	2	Staten Island
+6496	M	Married	5	Manhattan
+6499	F	Married	3	Bronx
+6501	F	Single	5	Manhattan
+6504	M	Single	1	Staten Island
+6505	M	Single	2	Bronx
+6507	F	Single	1	Staten Island
+6508	M	Married	1	Queens
+6510	F	Married	1	Bronx
+6511	M	Married	5	Bronx
+6516	M	Single	2	Bronx
+6518	M	Married	3	Brooklyn
+6520	F	Married	1	Staten Island
+6522	F	Single	2	Bronx
+6523	M	Single	1	Manhattan
+6524	M	Single	3	Bronx
+6525	M	Married	1	Queens
+6527	F	Single	5	Manhattan
+6528	F	Married	5	Bronx
+6529	M	Married	1	Bronx
+6530	M	Single	1	Bronx
+6531	F	Single	1	Bronx
+6533	F	Single	4	Brooklyn
+6534	F	Married	2	Manhattan
+6536	F	Single	2	Queens
+6537	F	Single	1	Bronx
+6541	F	Single	1	Queens
+6542	M	Married	4	Bronx
+6544	F	Single	1	Bronx
+6547	F	Married	2	Bronx
+6551	F	Single	4	Manhattan
+6553	M	Single	4	Manhattan
+6554	F	Married	1	Bronx
+6557	M	Single	1	Manhattan
+6558	F	Single	2	Brooklyn
+6559	M	Single	3	Manhattan
+6560	F	Single	5	Bronx
+6563	F	Single	4	Queens
+6564	F	Married	3	Bronx
+6565	F	Single	1	Bronx
+6566	M	Married	1	Brooklyn
+6567	F	Single	4	Bronx
+6569	M	Married	2	Brooklyn
+6570	F	Single	3	Manhattan
+6571	F	Single	1	Manhattan
+6572	M	Single	1	Manhattan
+6573	F	Married	5	Manhattan
+6574	F	Married	1	Bronx
+6581	F	Single	2	Staten Island
+6582	F	Married	2	Brooklyn
+6584	F	Married	4	Bronx
+6587	M	Married	5	Brooklyn
+6589	F	Single	1	Bronx
+6590	F	Married	1	Bronx
+6592	F	Single	4	Bronx
+6593	M	Single	2	Brooklyn
+6595	F	Married	1	Staten Island
+6597	F	Married	2	Queens
+6598	F	Single	2	Manhattan
+6600	F	Married	1	Brooklyn
+6603	F	Married	5	Brooklyn
+6604	F	Single	1	Queens
+6607	M	Single	2	Bronx
+6608	M	Single	2	Brooklyn
+6609	M	Single	2	Bronx
+6615	F	Married	2	Brooklyn
+6616	M	Single	4	Manhattan
+6617	F	Married	2	Bronx
+6618	F	Married	4	Brooklyn
+6621	M	Married	5	Bronx
+6628	F	Single	2	Brooklyn
+6629	F	Single	4	Staten Island
+6630	F	Single	1	Manhattan
+6631	M	Married	3	Queens
+6632	M	Single	1	Brooklyn
+6634	F	Single	2	Bronx
+6635	F	Married	1	Manhattan
+6640	M	Single	1	Manhattan
+6641	M	Single	1	Manhattan
+6642	M	Married	2	Manhattan
+6644	M	Single	1	Staten Island
+6645	F	Single	2	Manhattan
+6646	F	Single	2	Bronx
+6647	M	Single	3	Bronx
+6651	M	Single	1	Manhattan
+6652	F	Married	3	Manhattan
+6654	F	Single	1	Manhattan
+6655	F	Single	4	Manhattan
+6659	F	Married	5	Bronx
+6665	M	Married	5	Bronx
+6666	M	Single	3	Bronx
+6669	M	Married	4	Manhattan
+6670	M	Single	2	Brooklyn
+6675	M	Married	5	Staten Island
+6677	F	Married	4	Brooklyn
+6679	M	Single	1	Brooklyn
+6681	M	Married	3	Bronx
+6683	F	Married	5	Bronx
+6684	M	Single	4	Staten Island
+6685	M	Married	1	Queens
+6687	M	Single	3	Bronx
+6689	M	Single	1	Brooklyn
+6690	F	Married	2	Bronx
+6692	M	Single	4	Manhattan
+6693	F	Married	2	Brooklyn
+6695	M	Married	1	Staten Island
+6696	F	Married	3	Brooklyn
+6698	M	Married	1	Bronx
+6702	F	Married	1	Brooklyn
+6703	M	Single	5	Manhattan
+6708	F	Married	4	Manhattan
+6709	M	Single	1	Manhattan
+6710	F	Married	1	Bronx
+6712	M	Married	3	Manhattan
+6713	M	Married	2	Bronx
+6714	F	Single	3	Queens
+6715	M	Single	5	Bronx
+6717	F	Single	1	Brooklyn
+6720	M	Married	3	Bronx
+6722	M	Single	1	Brooklyn
+6726	F	Single	3	Queens
+6729	M	Married	1	Bronx
+6730	M	Married	2	Bronx
+6732	F	Married	1	Brooklyn
+6733	F	Single	1	Bronx
+6736	F	Single	1	Bronx
+6739	F	Single	2	Manhattan
+6741	F	Married	5	Manhattan
+6744	M	Married	4	Bronx
+6746	M	Married	4	Brooklyn
+6749	M	Single	4	Brooklyn
+6750	M	Married	1	Brooklyn
+6751	F	Married	2	Staten Island
+6754	M	Married	1	Brooklyn
+6757	M	Married	1	Brooklyn
+6759	M	Single	1	Staten Island
+6760	F	Married	2	Bronx
+6761	F	Single	4	Manhattan
+6762	M	Married	1	Brooklyn
+6766	M	Single	2	Manhattan
+6769	F	Single	2	Brooklyn
+6771	F	Married	3	Bronx
+6772	M	Single	2	Manhattan
+6774	M	Married	3	Queens
+6775	F	Single	4	Bronx
+6779	M	Single	1	Brooklyn
+6780	M	Married	3	Queens
+6782	M	Single	5	Brooklyn
+6785	F	Single	1	Brooklyn
+6787	M	Single	3	Brooklyn
+6788	F	Married	1	Brooklyn
+6791	M	Single	1	Queens
+6792	M	Married	4	Bronx
+6793	F	Married	3	Bronx
+6799	M	Single	2	Bronx
+6800	F	Married	1	Manhattan
+6804	M	Single	2	Brooklyn
+6805	M	Married	1	Brooklyn
+6806	M	Single	4	Brooklyn
+6807	F	Married	4	Bronx
+6808	F	Married	3	Bronx
+6810	M	Married	2	Queens
+6812	F	Single	3	Queens
+6814	M	Married	1	Staten Island
+6816	M	Married	3	Manhattan
+6818	M	Single	5	Brooklyn
+6821	M	Married	3	Brooklyn
+6822	F	Single	5	Manhattan
+6824	M	Married	4	Manhattan
+6825	M	Married	3	Queens
+6829	M	Single	1	Manhattan
+6832	M	Single	2	Manhattan
+6835	M	Married	2	Manhattan
+6836	M	Single	1	Bronx
+6837	F	Single	2	Brooklyn
+6838	F	Single	2	Bronx
+6841	M	Married	5	Manhattan
+6842	F	Married	4	Manhattan
+6843	M	Married	3	Bronx
+6844	M	Single	2	Manhattan
+6845	F	Married	4	Bronx
+6846	M	Married	4	Bronx
+6847	M	Married	2	Brooklyn
+6849	F	Single	3	Bronx
+6850	M	Married	4	Bronx
+6851	M	Single	2	Bronx
+6854	M	Single	3	Bronx
+6855	M	Married	3	Brooklyn
+6861	M	Single	5	Manhattan
+6863	M	Single	2	Queens
+6864	F	Married	1	Bronx
+6865	M	Single	1	Manhattan
+6866	F	Married	5	Bronx
+6870	M	Married	5	Bronx
+6876	M	Married	5	Queens
+6877	M	Married	1	Manhattan
+6880	F	Single	3	Bronx
+6882	M	Single	1	Brooklyn
+6886	F	Single	5	Brooklyn
+6888	M	Single	4	Queens
+6890	F	Married	1	Staten Island
+6892	F	Single	4	Brooklyn
+6893	F	Married	3	Bronx
+6895	F	Married	4	Queens
+6896	M	Married	1	Brooklyn
+6897	F	Married	2	Brooklyn
+6902	F	Married	1	Bronx
+6904	M	Married	2	Bronx
+6905	M	Married	1	Brooklyn
+6909	M	Single	2	Brooklyn
+6910	F	Single	2	Queens
+6912	F	Married	5	Manhattan
+6914	M	Single	1	Brooklyn
+6915	F	Married	1	Brooklyn
+6916	M	Single	4	Brooklyn
+6922	F	Single	4	Bronx
+6923	M	Single	5	Brooklyn
+6924	F	Single	2	Manhattan
+6925	M	Single	4	Manhattan
+6927	M	Single	3	Brooklyn
+6929	M	Single	3	Manhattan
+6930	M	Married	3	Manhattan
+6931	F	Married	1	Brooklyn
+6932	F	Single	2	Bronx
+6933	M	Single	1	Bronx
+6934	F	Single	4	Manhattan
+6936	F	Single	1	Bronx
+6937	F	Single	4	Manhattan
+6938	F	Single	1	Queens
+6940	M	Married	4	Bronx
+6941	M	Single	4	Bronx
+6944	M	Married	1	Queens
+6945	M	Single	5	Bronx
+6947	F	Married	2	Manhattan
+6948	M	Single	4	Manhattan
+6949	M	Married	3	Bronx
+6950	F	Single	4	Queens
+6951	M	Married	2	Bronx
+6956	F	Married	4	Bronx
+6957	F	Single	2	Manhattan
+6958	M	Single	4	Brooklyn
+6960	F	Married	3	Bronx
+6961	M	Single	1	Brooklyn
+6962	F	Single	2	Brooklyn
+6964	M	Single	1	Brooklyn
+6966	M	Married	3	Manhattan
+6968	M	Married	2	Queens
+6970	M	Married	2	Brooklyn
+6971	M	Married	4	Brooklyn
+6972	M	Married	2	Manhattan
+6974	M	Single	1	Staten Island
+6975	M	Single	3	Brooklyn
+6977	M	Married	1	Manhattan
+6982	M	Married	1	Bronx
+6992	M	Single	3	Queens
+6995	M	Single	4	Manhattan
+6997	F	Married	4	Bronx
+6998	M	Married	1	Queens
+6999	M	Single	5	Manhattan
+7000	F	Single	3	Brooklyn
+7001	M	Married	5	Manhattan
+7002	M	Married	3	Manhattan
+7003	F	Single	4	Bronx
+7006	M	Married	1	Bronx
+7011	M	Married	4	Brooklyn
+7012	M	Married	3	Bronx
+7013	F	Single	1	Brooklyn
+7014	M	Married	2	Manhattan
+7015	M	Single	5	Queens
+7016	F	Single	1	Manhattan
+7018	M	Single	5	Bronx
+7031	F	Married	4	Manhattan
+7032	M	Married	1	Staten Island
+7033	F	Married	1	Bronx
+7035	F	Married	3	Bronx
+7039	M	Married	2	Brooklyn
+7046	F	Single	2	Bronx
+7051	F	Married	4	Manhattan
+7052	F	Married	1	Queens
+7055	M	Married	3	Manhattan
+7056	F	Married	1	Manhattan
+7059	M	Single	2	Bronx
+7060	M	Married	3	Bronx
+7061	M	Single	2	Queens
+7063	F	Married	4	Manhattan
+7065	F	Married	4	Bronx
+7066	F	Married	1	Staten Island
+7068	F	Single	2	Manhattan
+7069	F	Married	3	Manhattan
+7072	F	Single	2	Manhattan
+7074	F	Single	1	Brooklyn
+7075	F	Married	3	Bronx
+7076	F	Single	3	Bronx
+7079	F	Single	4	Manhattan
+7081	M	Married	2	Bronx
+7085	F	Single	3	Manhattan
+7087	M	Single	4	Brooklyn
+7095	M	Married	3	Manhattan
+7097	M	Single	4	Brooklyn
+7099	M	Married	5	Bronx
+7101	F	Married	1	Bronx
+7103	F	Single	3	Bronx
+7104	F	Married	4	Brooklyn
+7105	M	Married	1	Manhattan
+7106	F	Married	1	Manhattan
+7107	M	Married	4	Brooklyn
+7109	M	Single	3	Manhattan
+7110	M	Single	3	Queens
+7112	M	Single	2	Manhattan
+7113	F	Single	1	Brooklyn
+7116	M	Married	2	Brooklyn
+7117	M	Married	4	Bronx
+7120	M	Single	4	Bronx
+7121	F	Single	4	Queens
+7123	F	Single	5	Manhattan
+7124	F	Single	1	Bronx
+7127	M	Single	5	Bronx
+7128	F	Married	2	Queens
+7129	M	Married	5	Bronx
+7131	M	Single	2	Manhattan
+7132	F	Married	1	Bronx
+7133	F	Married	2	Staten Island
+7134	F	Married	5	Manhattan
+7139	M	Married	5	Bronx
+7140	M	Single	1	Manhattan
+7141	M	Married	3	Bronx
+7146	F	Married	2	Queens
+7147	F	Single	1	Staten Island
+7148	M	Married	5	Bronx
+7149	F	Single	4	Bronx
+7151	M	Single	4	Manhattan
+7152	M	Married	1	Manhattan
+7153	M	Single	3	Manhattan
+7154	F	Married	5	Manhattan
+7155	F	Married	5	Brooklyn
+7158	M	Single	4	Queens
+7164	M	Married	2	Brooklyn
+7166	M	Single	1	Brooklyn
+7169	F	Single	4	Queens
+7171	M	Single	3	Queens
+7173	M	Single	5	Staten Island
+7175	M	Single	4	Brooklyn
+7176	M	Married	4	Queens
+7178	F	Married	1	Manhattan
+7180	M	Single	4	Manhattan
+7181	F	Married	1	Bronx
+7182	F	Single	1	Bronx
+7185	M	Single	2	Manhattan
+7189	F	Single	4	Bronx
+7190	M	Single	2	Queens
+7193	M	Single	1	Bronx
+7195	F	Single	1	Brooklyn
+7201	F	Single	1	Bronx
+7202	F	Married	2	Manhattan
+7203	M	Single	4	Bronx
+7204	M	Married	1	Manhattan
+7206	F	Single	1	Bronx
+7207	M	Married	3	Bronx
+7209	F	Married	1	Manhattan
+7213	F	Single	4	Queens
+7215	F	Single	3	Manhattan
+7216	F	Married	4	Queens
+7218	F	Married	2	Bronx
+7220	M	Married	2	Manhattan
+7221	F	Single	2	Brooklyn
+7223	F	Married	2	Bronx
+7224	M	Married	2	Bronx
+7227	M	Single	4	Brooklyn
+7231	M	Single	3	Queens
+7232	M	Married	3	Manhattan
+7234	F	Married	4	Manhattan
+7236	F	Single	5	Manhattan
+7237	M	Single	1	Brooklyn
+7238	M	Single	5	Queens
+7239	M	Single	4	Manhattan
+7240	M	Single	4	Queens
+7241	M	Married	4	Bronx
+7242	M	Married	3	Manhattan
+7243	F	Single	3	Bronx
+7245	F	Married	1	Brooklyn
+7246	M	Married	1	Bronx
+7247	M	Single	2	Manhattan
+7250	M	Married	4	Bronx
+7252	F	Married	1	Bronx
+7255	M	Married	1	Manhattan
+7257	M	Single	1	Bronx
+7261	M	Single	1	Manhattan
+7262	F	Single	2	Bronx
+7263	M	Single	3	Manhattan
+7266	F	Married	2	Manhattan
+7267	F	Married	4	Brooklyn
+7268	F	Single	3	Bronx
+7269	F	Married	5	Bronx
+7274	F	Single	4	Bronx
+7275	F	Married	1	Bronx
+7276	M	Single	1	Queens
+7279	F	Married	3	Queens
+7281	F	Married	2	Bronx
+7282	F	Single	3	Bronx
+7283	F	Married	3	Bronx
+7286	M	Single	3	Brooklyn
+7287	F	Single	2	Manhattan
+7292	F	Single	4	Bronx
+7293	M	Single	1	Staten Island
+7297	F	Single	4	Manhattan
+7298	F	Married	3	Manhattan
+7300	F	Married	4	Bronx
+7301	M	Married	5	Manhattan
+7304	M	Married	2	Queens
+7305	F	Single	2	Manhattan
+7306	F	Single	4	Bronx
+7307	M	Married	1	Brooklyn
+7308	M	Married	2	Brooklyn
+7310	M	Married	5	Manhattan
+7312	F	Single	1	Manhattan
+7315	F	Single	1	Brooklyn
+7319	M	Married	4	Bronx
+7321	M	Married	4	Queens
+7322	F	Single	2	Brooklyn
+7323	M	Single	2	Manhattan
+7324	F	Single	3	Brooklyn
+7328	F	Single	1	Queens
+7331	F	Married	4	Manhattan
+7332	F	Single	3	Brooklyn
+7336	M	Single	1	Staten Island
+7337	M	Single	2	Queens
+7338	F	Married	3	Manhattan
+7341	M	Single	5	Manhattan
+7342	M	Married	1	Brooklyn
+7343	F	Single	2	Bronx
+7348	M	Married	5	Manhattan
+7352	F	Single	4	Bronx
+7354	F	Married	3	Manhattan
+7355	M	Single	1	Bronx
+7356	F	Married	4	Brooklyn
+7357	M	Single	1	Manhattan
+7359	F	Married	4	Bronx
+7361	F	Single	2	Manhattan
+7362	M	Single	2	Manhattan
+7364	M	Single	3	Brooklyn
+7365	F	Single	2	Bronx
+7366	F	Married	2	Manhattan
+7368	F	Single	1	Manhattan
+7370	M	Single	3	Queens
+7373	M	Married	3	Bronx
+7376	M	Single	2	Queens
+7377	M	Married	2	Manhattan
+7379	M	Single	1	Brooklyn
+7382	F	Married	3	Staten Island
+7384	M	Single	5	Manhattan
+7387	F	Married	5	Manhattan
+7391	M	Married	4	Bronx
+7392	M	Single	1	Brooklyn
+7393	F	Single	1	Manhattan
+7401	M	Married	2	Manhattan
+7403	F	Single	1	Queens
+7406	F	Married	1	Manhattan
+7407	M	Married	5	Brooklyn
+7408	M	Married	2	Brooklyn
+7409	M	Married	3	Brooklyn
+7410	M	Married	1	Bronx
+7412	F	Married	3	Brooklyn
+7413	F	Single	3	Manhattan
+7416	F	Single	4	Bronx
+7418	F	Single	4	Brooklyn
+7420	F	Single	3	Staten Island
+7424	F	Single	5	Queens
+7425	M	Single	1	Brooklyn
+7432	F	Married	2	Bronx
+7433	M	Single	1	Manhattan
+7434	M	Single	4	Manhattan
+7437	M	Single	4	Brooklyn
+7438	F	Single	2	Staten Island
+7439	M	Single	3	Bronx
+7441	M	Married	3	Manhattan
+7444	M	Single	5	Bronx
+7445	F	Single	4	Bronx
+7446	M	Married	1	Bronx
+7447	M	Single	4	Brooklyn
+7448	M	Married	3	Brooklyn
+7449	M	Married	2	Manhattan
+7450	M	Single	4	Staten Island
+7451	F	Single	4	Queens
+7452	M	Single	4	Brooklyn
+7453	M	Married	4	Manhattan
+7454	M	Married	2	Brooklyn
+7455	M	Single	2	Bronx
+7456	M	Single	1	Staten Island
+7457	M	Single	1	Bronx
+7459	F	Married	3	Brooklyn
+7460	F	Married	3	Brooklyn
+7461	F	Single	1	Staten Island
+7462	F	Married	4	Staten Island
+7465	F	Single	4	Bronx
+7469	F	Married	2	Bronx
+7470	M	Single	4	Bronx
+7471	M	Married	1	Brooklyn
+7472	M	Married	1	Manhattan
+7474	M	Single	4	Brooklyn
+7476	F	Single	3	Brooklyn
+7477	M	Married	4	Bronx
+7478	F	Married	1	Brooklyn
+7479	F	Married	1	Bronx
+7480	F	Single	3	Staten Island
+7481	M	Single	3	Bronx
+7484	M	Single	3	Manhattan
+7485	M	Married	2	Queens
+7486	M	Married	1	Manhattan
+7487	F	Single	4	Brooklyn
+7489	M	Married	3	Manhattan
+7490	M	Single	2	Manhattan
+7493	F	Married	3	Manhattan
+7494	F	Married	3	Bronx
+7496	M	Single	2	Bronx
+7501	F	Single	1	Manhattan
+7502	M	Single	1	Manhattan
+7505	M	Single	4	Bronx
+7510	M	Single	2	Bronx
+7511	M	Single	1	Brooklyn
+7512	M	Married	4	Brooklyn
+7514	M	Married	4	Bronx
+7517	M	Married	4	Brooklyn
+7519	F	Married	2	Manhattan
+7521	M	Married	3	Bronx
+7522	M	Married	3	Bronx
+7523	M	Married	5	Bronx
+7525	M	Married	2	Staten Island
+7526	M	Single	3	Bronx
+7529	F	Married	4	Bronx
+7530	M	Married	1	Manhattan
+7534	M	Single	3	Bronx
+7535	F	Single	2	Bronx
+7536	F	Single	4	Bronx
+7541	M	Married	5	Manhattan
+7546	M	Married	1	Bronx
+7547	M	Single	5	Manhattan
+7548	M	Married	2	Bronx
+7550	M	Married	4	Brooklyn
+7552	M	Married	3	Queens
+7555	M	Married	2	Manhattan
+7556	F	Single	5	Bronx
+7558	M	Single	4	Bronx
+7559	M	Married	1	Brooklyn
+7560	M	Single	4	Bronx
+7562	M	Single	1	Bronx
+7563	F	Single	3	Queens
+7565	F	Married	1	Bronx
+7566	M	Married	4	Brooklyn
+7567	M	Married	2	Manhattan
+7569	F	Married	1	Bronx
+7570	M	Married	4	Bronx
+7571	F	Married	1	Bronx
+7573	M	Married	1	Manhattan
+7576	F	Married	1	Bronx
+7580	F	Single	2	Bronx
+7584	F	Married	2	Brooklyn
+7586	M	Married	4	Staten Island
+7587	M	Single	1	Brooklyn
+7588	M	Single	1	Queens
+7589	F	Single	5	Bronx
+7590	M	Married	1	Manhattan
+7591	F	Married	4	Bronx
+7593	F	Single	3	Queens
+7594	M	Single	4	Manhattan
+7595	M	Married	2	Manhattan
+7596	M	Single	2	Manhattan
+7598	M	Single	2	Queens
+7599	F	Single	1	Brooklyn
+7601	F	Married	3	Manhattan
+7602	F	Single	4	Brooklyn
+7605	M	Married	4	Brooklyn
+7606	M	Single	4	Manhattan
+7607	F	Married	5	Bronx
+7609	F	Single	1	Manhattan
+7610	M	Single	1	Brooklyn
+7611	F	Married	2	Bronx
+7612	F	Single	1	Brooklyn
+7613	M	Married	4	Staten Island
+7614	M	Married	3	Queens
+7615	M	Single	1	Brooklyn
+7617	F	Married	3	Manhattan
+7618	M	Married	3	Manhattan
+7619	F	Single	5	Brooklyn
+7620	M	Single	2	Brooklyn
+7621	F	Single	2	Bronx
+7622	F	Single	1	Manhattan
+7624	F	Single	1	Manhattan
+7626	M	Married	3	Brooklyn
+7627	F	Married	4	Queens
+7628	M	Single	3	Brooklyn
+7630	F	Married	3	Brooklyn
+7632	M	Married	4	Bronx
+7633	F	Single	4	Manhattan
+7634	M	Single	3	Queens
+7636	F	Married	1	Bronx
+7638	F	Married	2	Bronx
+7639	M	Married	2	Bronx
+7641	F	Married	2	Bronx
+7642	M	Married	4	Bronx
+7643	M	Single	4	Manhattan
+7646	M	Married	5	Bronx
+7652	M	Married	1	Brooklyn
+7654	F	Single	4	Bronx
+7655	M	Married	3	Bronx
+7656	M	Married	5	Staten Island
+7657	M	Single	1	Manhattan
+7658	F	Married	2	Queens
+7659	F	Single	1	Brooklyn
+7660	F	Single	4	Brooklyn
+7662	M	Married	5	Manhattan
+7663	F	Single	4	Brooklyn
+7664	M	Single	1	Manhattan
+7666	M	Single	2	Brooklyn
+7670	F	Single	2	Bronx
+7672	F	Married	3	Bronx
+7674	F	Married	3	Brooklyn
+7675	M	Single	5	Queens
+7678	F	Single	1	Queens
+7683	F	Married	1	Staten Island
+7684	M	Married	3	Brooklyn
+7685	F	Single	2	Brooklyn
+7689	M	Single	4	Bronx
+7693	M	Married	4	Brooklyn
+7694	F	Single	2	Bronx
+7695	F	Single	4	Brooklyn
+7696	M	Single	2	Queens
+7698	F	Married	1	Staten Island
+7700	M	Married	1	Queens
+7701	F	Married	4	Bronx
+7702	M	Single	2	Manhattan
+7703	M	Single	5	Brooklyn
+7704	M	Married	3	Manhattan
+7705	M	Single	1	Bronx
+7708	M	Married	3	Brooklyn
+7711	M	Married	3	Brooklyn
+7713	F	Single	1	Bronx
+7714	F	Married	2	Bronx
+7715	M	Married	4	Bronx
+7717	F	Married	2	Manhattan
+7718	M	Married	3	Brooklyn
+7720	F	Married	3	Bronx
+7721	M	Single	3	Bronx
+7723	F	Married	2	Bronx
+7724	M	Married	1	Bronx
+7725	M	Married	1	Staten Island
+7726	F	Single	1	Brooklyn
+7727	M	Single	1	Manhattan
+7728	M	Married	1	Queens
+7729	M	Single	4	Manhattan
+7731	F	Married	5	Brooklyn
+7733	M	Single	5	Bronx
+7734	F	Single	1	Queens
+7743	F	Single	1	Manhattan
+7745	M	Married	2	Queens
+7746	M	Married	1	Queens
+7747	F	Married	5	Brooklyn
+7750	F	Married	2	Bronx
+7751	F	Married	2	Queens
+7752	F	Single	2	Bronx
+7753	M	Married	5	Brooklyn
+7757	M	Married	2	Brooklyn
+7758	F	Married	2	Queens
+7764	F	Married	1	Brooklyn
+7767	M	Single	1	Manhattan
+7768	F	Married	3	Bronx
+7769	M	Single	1	Manhattan
+7770	M	Single	4	Brooklyn
+7775	M	Single	4	Bronx
+7776	F	Married	2	Brooklyn
+7779	M	Married	4	Brooklyn
+7780	M	Single	3	Bronx
+7781	M	Single	2	Bronx
+7782	F	Single	3	Manhattan
+7786	M	Single	1	Staten Island
+7787	M	Single	3	Queens
+7788	F	Single	3	Queens
+7789	F	Single	1	Bronx
+7791	M	Single	5	Bronx
+7792	M	Single	1	Bronx
+7793	M	Married	4	Manhattan
+7794	M	Married	5	Queens
+7797	M	Single	5	Bronx
+7800	F	Married	4	Manhattan
+7801	M	Married	3	Bronx
+7806	F	Married	1	Bronx
+7807	F	Married	4	Bronx
+7808	F	Married	4	Bronx
+7810	F	Single	5	Manhattan
+7811	M	Single	4	Manhattan
+7812	F	Single	1	Brooklyn
+7813	M	Married	2	Bronx
+7814	M	Married	5	Manhattan
+7816	M	Married	4	Brooklyn
+7818	F	Married	4	Manhattan
+7821	M	Married	4	Bronx
+7822	F	Single	2	Manhattan
+7823	F	Married	5	Bronx
+7828	M	Married	3	Manhattan
+7830	M	Single	5	Bronx
+7831	F	Married	4	Bronx
+7832	F	Single	3	Bronx
+7835	F	Married	4	Bronx
+7836	M	Single	5	Manhattan
+7839	M	Married	3	Brooklyn
+7841	M	Married	5	Bronx
+7842	F	Single	2	Bronx
+7843	F	Single	4	Staten Island
+7845	F	Married	5	Bronx
+7848	M	Single	1	Brooklyn
+7849	M	Married	2	Manhattan
+7851	M	Single	4	Brooklyn
+7852	F	Married	3	Manhattan
+7855	F	Single	3	Manhattan
+7856	F	Married	4	Brooklyn
+7857	F	Single	3	Bronx
+7859	F	Single	4	Bronx
+7860	M	Married	2	Queens
+7861	M	Married	4	Bronx
+7862	M	Married	4	Manhattan
+7863	F	Married	5	Brooklyn
+7865	F	Married	1	Staten Island
+7868	F	Married	4	Manhattan
+7869	M	Single	1	Brooklyn
+7870	F	Single	1	Bronx
+7872	F	Single	4	Brooklyn
+7873	M	Single	1	Manhattan
+7874	F	Married	1	Queens
+7880	F	Single	5	Brooklyn
+7881	M	Married	3	Manhattan
+7882	M	Married	2	Bronx
+7884	F	Married	1	Manhattan
+7886	M	Single	1	Brooklyn
+7887	M	Single	2	Manhattan
+7888	F	Single	2	Queens
+7890	F	Married	1	Manhattan
+7893	M	Married	2	Manhattan
+7896	F	Married	2	Queens
+7897	M	Single	5	Bronx
+7902	M	Married	1	Manhattan
+7904	M	Single	4	Bronx
+7905	M	Married	4	Bronx
+7906	M	Married	1	Bronx
+7909	F	Married	4	Manhattan
+7910	F	Single	1	Bronx
+7913	M	Single	1	Bronx
+7914	F	Married	2	Manhattan
+7915	F	Married	1	Bronx
+7917	F	Single	4	Queens
+7920	M	Single	3	Bronx
+7921	F	Single	1	Staten Island
+7924	M	Married	1	Bronx
+7927	M	Married	3	Bronx
+7929	M	Married	4	Queens
+7930	F	Married	5	Manhattan
+7934	M	Single	3	Brooklyn
+7936	M	Married	1	Brooklyn
+7938	M	Single	1	Manhattan
+7939	M	Single	3	Brooklyn
+7940	F	Married	1	Bronx
+7942	M	Single	5	Manhattan
+7945	F	Single	2	Brooklyn
+7946	F	Married	1	Queens
+7950	F	Single	4	Staten Island
+7951	F	Single	1	Bronx
+7952	M	Married	4	Bronx
+7954	M	Single	2	Brooklyn
+7956	F	Single	2	Staten Island
+7958	M	Married	1	Queens
+7960	F	Married	2	Brooklyn
+7961	F	Married	1	Staten Island
+7963	M	Single	3	Manhattan
+7964	F	Married	2	Manhattan
+7965	F	Married	3	Bronx
+7967	F	Single	4	Bronx
+7968	F	Married	2	Bronx
+7969	F	Single	2	Queens
+7970	F	Single	2	Brooklyn
+7971	M	Married	4	Manhattan
+7972	F	Married	1	Brooklyn
+7976	M	Married	1	Queens
+7977	F	Married	1	Manhattan
+7978	M	Married	4	Manhattan
+7980	M	Married	1	Manhattan
+7981	M	Single	1	Staten Island
+7983	M	Married	1	Bronx
+7986	M	Married	1	Manhattan
+7989	F	Married	2	Bronx
+7990	M	Single	4	Brooklyn
+7993	F	Single	5	Brooklyn
+7994	M	Married	1	Queens
+7996	F	Single	1	Bronx
+7997	F	Single	5	Bronx
+8000	M	Married	2	Bronx
+8001	F	Married	4	Brooklyn
+8002	F	Single	3	Brooklyn
+8003	M	Single	1	Manhattan
+8008	M	Single	3	Brooklyn
+8009	F	Single	1	Bronx
+8012	M	Married	3	Manhattan
+8014	F	Single	1	Manhattan
+8015	M	Married	2	Bronx
+8020	M	Single	3	Staten Island
+8022	F	Married	4	Bronx
+8029	M	Single	1	Brooklyn
+8034	M	Single	4	Manhattan
+8039	M	Married	2	Queens
+8040	F	Single	4	Manhattan
+8041	F	Married	5	Manhattan
+8042	M	Single	1	Brooklyn
+8044	F	Married	3	Queens
+8046	M	Married	3	Bronx
+8048	F	Married	4	Bronx
+8054	F	Married	1	Bronx
+8055	M	Married	1	Staten Island
+8056	F	Single	3	Manhattan
+8059	M	Single	1	Bronx
+8060	M	Single	4	Staten Island
+8061	M	Single	1	Brooklyn
+8062	F	Married	1	Manhattan
+8063	F	Single	5	Manhattan
+8068	F	Single	4	Manhattan
+8069	M	Single	5	Queens
+8070	M	Single	3	Brooklyn
+8072	M	Single	2	Bronx
+8074	F	Married	4	Bronx
+8077	F	Single	4	Queens
+8079	F	Single	5	Staten Island
+8080	M	Single	3	Manhattan
+8083	F	Married	1	Manhattan
+8087	F	Married	2	Brooklyn
+8089	F	Single	2	Bronx
+8091	F	Single	4	Bronx
+8094	F	Single	2	Bronx
+8097	F	Married	1	Queens
+8098	F	Single	3	Bronx
+8101	M	Single	2	Brooklyn
+8105	F	Married	4	Brooklyn
+8106	M	Single	4	Queens
+8107	M	Married	3	Bronx
+8108	F	Married	2	Bronx
+8110	M	Single	3	Bronx
+8111	F	Married	2	Bronx
+8113	F	Single	2	Manhattan
+8114	M	Married	2	Manhattan
+8115	M	Married	5	Brooklyn
+8116	F	Single	2	Bronx
+8117	M	Single	5	Manhattan
+8118	M	Single	4	Queens
+8119	F	Married	1	Brooklyn
+8121	F	Single	2	Queens
+8123	F	Single	3	Manhattan
+8124	M	Single	2	Bronx
+8125	F	Single	4	Bronx
+8129	F	Single	3	Brooklyn
+8130	M	Single	4	Brooklyn
+8134	F	Married	2	Manhattan
+8137	M	Married	5	Bronx
+8138	M	Married	4	Manhattan
+8139	M	Single	1	Manhattan
+8140	F	Married	1	Bronx
+8141	M	Single	4	Staten Island
+8145	M	Married	3	Brooklyn
+8146	F	Married	1	Manhattan
+8147	M	Married	3	Staten Island
+8148	M	Single	4	Brooklyn
+8151	M	Single	1	Bronx
+8153	F	Married	3	Manhattan
+8154	F	Single	5	Bronx
+8158	M	Single	3	Manhattan
+8159	M	Single	4	Bronx
+8161	F	Married	1	Manhattan
+8163	F	Married	3	Brooklyn
+8164	F	Single	4	Bronx
+8165	F	Married	1	Bronx
+8166	M	Single	2	Queens
+8169	F	Married	3	Manhattan
+8171	F	Single	1	Manhattan
+8172	M	Married	1	Bronx
+8173	F	Single	4	Bronx
+8175	M	Married	5	Bronx
+8176	M	Single	1	Queens
+8179	F	Single	3	Manhattan
+8180	M	Single	1	Queens
+8181	F	Married	3	Bronx
+8182	M	Married	2	Brooklyn
+8183	M	Married	4	Staten Island
+8184	F	Married	4	Brooklyn
+8185	F	Single	4	Staten Island
+8187	M	Single	1	Manhattan
+8188	F	Married	3	Manhattan
+8189	M	Single	2	Bronx
+8190	F	Married	2	Bronx
+8191	M	Married	5	Queens
+8195	F	Single	1	Bronx
+8196	F	Married	1	Manhattan
+8198	F	Married	4	Manhattan
+8199	M	Married	3	Bronx
+8202	F	Single	1	Manhattan
+8203	M	Single	1	Queens
+8204	M	Single	3	Brooklyn
+8206	M	Single	4	Queens
+8207	F	Married	1	Bronx
+8211	F	Single	1	Manhattan
+8212	F	Single	2	Brooklyn
+8215	M	Married	4	Manhattan
+8217	M	Single	1	Bronx
+8218	F	Single	3	Staten Island
+8220	F	Single	2	Manhattan
+8224	F	Married	3	Brooklyn
+8226	M	Single	4	Bronx
+8228	F	Single	1	Queens
+8229	M	Single	1	Bronx
+8230	M	Single	1	Manhattan
+8231	F	Married	4	Queens
+8235	F	Single	1	Staten Island
+8236	M	Married	1	Brooklyn
+8237	F	Single	4	Queens
+8239	M	Single	1	Brooklyn
+8240	M	Single	1	Bronx
+8241	F	Married	4	Bronx
+8242	M	Married	4	Bronx
+8245	M	Single	1	Queens
+8247	M	Single	3	Brooklyn
+8248	M	Single	3	Brooklyn
+8252	M	Single	3	Bronx
+8253	M	Married	1	Manhattan
+8254	M	Married	1	Bronx
+8255	M	Single	1	Manhattan
+8259	F	Married	1	Bronx
+8260	M	Single	3	Bronx
+8263	M	Single	4	Manhattan
+8266	F	Single	1	Brooklyn
+8267	M	Single	1	Brooklyn
+8269	F	Single	4	Bronx
+8270	F	Single	1	Bronx
+8271	M	Married	2	Manhattan
+8272	F	Married	1	Brooklyn
+8274	F	Single	4	Bronx
+8275	F	Married	3	Manhattan
+8277	M	Married	3	Staten Island
+8279	F	Single	3	Manhattan
+8281	F	Married	3	Bronx
+8282	F	Married	2	Staten Island
+8283	M	Married	1	Bronx
+8284	F	Single	1	Staten Island
+8285	F	Single	2	Brooklyn
+8287	M	Married	5	Queens
+8288	F	Single	3	Bronx
+8289	M	Single	4	Bronx
+8290	M	Single	1	Bronx
+8291	F	Married	2	Bronx
+8293	F	Married	4	Brooklyn
+8294	F	Single	1	Queens
+8296	M	Married	5	Bronx
+8298	M	Single	2	Bronx
+8301	F	Married	4	Manhattan
+8302	F	Single	4	Bronx
+8304	F	Married	5	Bronx
+8308	F	Single	1	Bronx
+8310	F	Married	1	Bronx
+8311	M	Single	2	Queens
+8312	F	Married	3	Bronx
+8314	M	Single	2	Bronx
+8315	M	Single	1	Queens
+8317	M	Married	1	Brooklyn
+8318	F	Married	1	Manhattan
+8321	M	Single	1	Manhattan
+8322	F	Single	5	Manhattan
+8323	M	Single	3	Bronx
+8324	F	Single	1	Manhattan
+8325	M	Married	3	Bronx
+8326	F	Married	1	Brooklyn
+8329	M	Single	5	Bronx
+8333	M	Single	2	Queens
+8336	M	Married	4	Bronx
+8337	F	Married	4	Brooklyn
+8338	M	Single	2	Brooklyn
+8340	F	Married	1	Bronx
+8341	F	Single	4	Queens
+8342	F	Married	2	Manhattan
+8344	F	Married	1	Staten Island
+8345	F	Single	3	Brooklyn
+8350	F	Single	3	Brooklyn
+8351	M	Single	4	Manhattan
+8352	F	Single	1	Brooklyn
+8354	F	Single	2	Manhattan
+8355	F	Married	4	Manhattan
+8356	F	Single	3	Bronx
+8359	F	Single	5	Bronx
+8362	F	Single	1	Staten Island
+8363	F	Married	5	Manhattan
+8364	F	Married	4	Queens
+8367	M	Married	4	Bronx
+8370	F	Married	2	Manhattan
+8371	M	Married	3	Brooklyn
+8373	F	Single	3	Bronx
+8374	F	Married	2	Manhattan
+8375	M	Single	3	Brooklyn
+8376	F	Married	5	Brooklyn
+8380	M	Single	2	Brooklyn
+8381	F	Single	5	Brooklyn
+8388	F	Married	5	Queens
+8390	M	Married	4	Manhattan
+8391	M	Single	3	Queens
+8394	F	Married	1	Bronx
+8397	F	Single	3	Queens
+8400	F	Married	2	Brooklyn
+8403	M	Married	3	Manhattan
+8404	M	Married	3	Manhattan
+8405	F	Single	3	Queens
+8406	M	Single	1	Bronx
+8407	M	Single	1	Bronx
+8410	M	Single	3	Bronx
+8411	M	Single	3	Bronx
+8414	M	Married	1	Bronx
+8415	M	Single	4	Manhattan
+8417	F	Married	1	Staten Island
+8418	F	Single	3	Staten Island
+8421	M	Single	2	Brooklyn
+8423	F	Married	1	Manhattan
+8427	M	Married	3	Manhattan
+8428	M	Single	2	Brooklyn
+8429	M	Single	1	Brooklyn
+8430	F	Married	2	Brooklyn
+8434	F	Single	3	Queens
+8435	F	Married	3	Bronx
+8438	M	Single	3	Brooklyn
+8439	F	Married	4	Bronx
+8441	F	Married	4	Staten Island
+8442	F	Single	4	Bronx
+8448	M	Single	1	Manhattan
+8451	M	Single	2	Manhattan
+8452	M	Married	4	Manhattan
+8454	F	Single	3	Bronx
+8457	M	Married	1	Brooklyn
+8462	F	Single	3	Brooklyn
+8463	M	Married	1	Queens
+8466	M	Married	3	Bronx
+8467	F	Married	2	Bronx
+8469	M	Single	2	Brooklyn
+8470	F	Married	4	Brooklyn
+8471	F	Married	2	Manhattan
+8472	F	Single	1	Bronx
+8473	F	Single	4	Bronx
+8474	F	Married	1	Queens
+8477	M	Single	5	Manhattan
+8478	M	Married	2	Bronx
+8480	M	Single	1	Staten Island
+8482	F	Single	1	Manhattan
+8483	F	Married	3	Bronx
+8486	M	Single	2	Brooklyn
+8487	F	Single	5	Bronx
+8488	M	Single	1	Brooklyn
+8490	M	Single	3	Manhattan
+8491	M	Married	2	Queens
+8492	M	Single	1	Staten Island
+8497	F	Married	2	Queens
+8498	F	Single	2	Queens
+8499	M	Single	2	Manhattan
+8500	M	Single	1	Bronx
+8503	M	Married	4	Bronx
+8504	F	Single	5	Bronx
+8510	F	Married	3	Brooklyn
+8511	F	Married	1	Manhattan
+8517	F	Single	4	Manhattan
+8518	F	Single	3	Manhattan
+8522	F	Married	5	Manhattan
+8524	F	Married	3	Bronx
+8528	M	Married	3	Manhattan
+8529	M	Married	4	Manhattan
+8530	F	Single	1	Brooklyn
+8533	F	Single	1	Brooklyn
+8534	F	Single	2	Queens
+8536	M	Single	1	Manhattan
+8541	F	Married	1	Bronx
+8542	F	Single	3	Manhattan
+8544	F	Single	3	Queens
+8546	M	Married	4	Bronx
+8548	M	Single	2	Queens
+8550	M	Single	1	Manhattan
+8551	F	Married	4	Bronx
+8554	F	Single	4	Manhattan
+8555	F	Married	1	Manhattan
+8556	M	Married	1	Manhattan
+8557	M	Single	1	Bronx
+8558	M	Single	2	Manhattan
+8560	F	Single	3	Manhattan
+8561	M	Single	1	Bronx
+8562	M	Single	1	Bronx
+8563	M	Single	2	Bronx
+8564	F	Married	1	Queens
+8568	F	Single	4	Brooklyn
+8569	M	Married	3	Brooklyn
+8570	M	Single	2	Manhattan
+8571	M	Single	1	Manhattan
+8573	M	Married	1	Brooklyn
+8574	F	Married	1	Bronx
+8576	F	Single	2	Manhattan
+8577	F	Married	4	Queens
+8578	F	Married	3	Queens
+8585	F	Married	1	Queens
+8587	F	Single	4	Staten Island
+8592	F	Married	2	Brooklyn
+8593	M	Married	2	Brooklyn
+8594	F	Married	1	Brooklyn
+8596	F	Single	1	Queens
+8597	M	Married	5	Bronx
+8599	F	Single	2	Bronx
+8601	F	Single	2	Bronx
+8602	F	Single	4	Manhattan
+8606	F	Married	2	Bronx
+8607	M	Single	3	Queens
+8615	M	Married	2	Brooklyn
+8617	F	Married	1	Bronx
+8618	M	Married	1	Manhattan
+8619	M	Married	4	Bronx
+8621	F	Married	3	Brooklyn
+8622	F	Married	5	Bronx
+8623	M	Single	4	Manhattan
+8624	M	Single	1	Brooklyn
+8625	F	Single	4	Staten Island
+8626	F	Single	4	Staten Island
+8627	F	Single	4	Brooklyn
+8629	F	Married	2	Manhattan
+8630	F	Single	2	Manhattan
+8634	F	Married	3	Bronx
+8638	F	Married	1	Brooklyn
+8639	F	Married	4	Brooklyn
+8640	F	Married	4	Bronx
+8644	M	Married	2	Bronx
+8645	F	Married	1	Bronx
+8647	F	Single	1	Manhattan
+8649	M	Married	4	Queens
+8652	F	Married	1	Brooklyn
+8653	M	Single	3	Manhattan
+8657	M	Single	2	Bronx
+8658	F	Single	1	Brooklyn
+8659	M	Married	3	Bronx
+8663	M	Single	5	Bronx
+8665	M	Single	1	Bronx
+8667	M	Married	3	Bronx
+8668	F	Married	3	Bronx
+8669	M	Married	4	Queens
+8670	M	Married	1	Brooklyn
+8682	F	Married	2	Bronx
+8683	F	Single	3	Queens
+8684	F	Single	2	Brooklyn
+8685	M	Married	1	Queens
+8687	F	Single	2	Queens
+8688	F	Married	4	Brooklyn
+8689	F	Single	1	Staten Island
+8691	M	Single	3	Queens
+8692	M	Single	2	Bronx
+8697	F	Single	5	Manhattan
+8698	F	Single	5	Brooklyn
+8699	F	Married	2	Brooklyn
+8700	F	Single	5	Brooklyn
+8701	M	Married	3	Bronx
+8704	F	Single	3	Queens
+8708	F	Married	1	Brooklyn
+8709	M	Married	1	Bronx
+8710	M	Married	5	Brooklyn
+8713	F	Single	2	Brooklyn
+8717	F	Married	1	Bronx
+8718	M	Single	4	Bronx
+8723	M	Married	3	Brooklyn
+8724	M	Single	4	Bronx
+8728	M	Married	2	Brooklyn
+8729	M	Married	4	Brooklyn
+8730	F	Married	1	Bronx
+8731	F	Married	1	Manhattan
+8734	F	Single	4	Bronx
+8737	F	Married	2	Manhattan
+8739	M	Married	1	Bronx
+8742	M	Single	1	Manhattan
+8745	M	Married	1	Bronx
+8746	F	Single	3	Queens
+8747	F	Single	1	Bronx
+8749	M	Single	2	Bronx
+8751	F	Married	3	Brooklyn
+8752	F	Single	3	Queens
+8753	M	Single	1	Brooklyn
+8754	F	Single	2	Brooklyn
+8756	M	Married	1	Queens
+8757	F	Married	2	Brooklyn
+8758	M	Married	3	Bronx
+8760	F	Single	4	Manhattan
+8761	M	Single	4	Queens
+8765	M	Single	2	Bronx
+8766	F	Married	2	Bronx
+8767	F	Single	1	Queens
+8768	F	Single	1	Manhattan
+8769	M	Married	3	Queens
+8770	M	Single	2	Staten Island
+8773	F	Married	3	Queens
+8775	F	Married	2	Brooklyn
+8777	M	Married	1	Bronx
+8778	F	Single	4	Bronx
+8782	F	Single	2	Bronx
+8784	F	Single	2	Manhattan
+8786	M	Married	2	Manhattan
+8787	M	Single	1	Bronx
+8793	M	Single	1	Bronx
+8794	M	Single	4	Bronx
+8797	M	Married	5	Manhattan
+8803	F	Married	3	Staten Island
+8809	F	Married	4	Bronx
+8810	M	Married	1	Bronx
+8813	F	Married	3	Brooklyn
+8814	M	Married	2	Bronx
+8815	F	Married	2	Brooklyn
+8816	F	Married	4	Bronx
+8817	F	Single	2	Brooklyn
+8818	M	Single	2	Bronx
+8821	F	Married	2	Queens
+8823	M	Single	2	Brooklyn
+8824	F	Single	3	Bronx
+8825	M	Single	3	Brooklyn
+8827	M	Single	1	Brooklyn
+8830	F	Single	1	Staten Island
+8834	M	Married	2	Brooklyn
+8837	F	Single	4	Manhattan
+8839	F	Married	3	Manhattan
+8840	F	Single	1	Bronx
+8841	M	Married	1	Bronx
+8843	M	Single	1	Bronx
+8844	F	Single	1	Bronx
+8846	M	Single	1	Queens
+8849	M	Single	2	Manhattan
+8850	F	Married	1	Manhattan
+8851	M	Married	3	Bronx
+8853	F	Married	4	Bronx
+8854	F	Married	2	Staten Island
+8857	M	Married	1	Brooklyn
+8858	M	Married	3	Brooklyn
+8859	F	Single	4	Bronx
+8860	M	Married	4	Bronx
+8862	M	Single	1	Manhattan
+8864	M	Married	4	Bronx
+8865	M	Single	4	Queens
+8867	F	Married	3	Brooklyn
+8870	M	Single	1	Brooklyn
+8872	F	Single	2	Manhattan
+8873	F	Single	3	Queens
+8875	M	Single	2	Brooklyn
+8877	M	Single	2	Brooklyn
+8878	M	Married	3	Staten Island
+8884	M	Single	1	Bronx
+8887	F	Married	5	Bronx
+8890	M	Single	1	Brooklyn
+8891	F	Single	2	Manhattan
+8892	M	Single	1	Bronx
+8893	M	Single	4	Bronx
+8897	M	Single	5	Manhattan
+8898	F	Married	1	Manhattan
+8901	M	Married	1	Bronx
+8902	M	Married	1	Manhattan
+8904	F	Single	1	Brooklyn
+8907	F	Married	5	Manhattan
+8908	F	Single	1	Staten Island
+8911	M	Married	2	Manhattan
+8912	F	Single	2	Brooklyn
+8914	F	Married	1	Bronx
+8915	M	Single	2	Manhattan
+8916	M	Single	3	Manhattan
+8919	M	Single	4	Bronx
+8921	M	Single	4	Bronx
+8923	F	Married	4	Manhattan
+8926	M	Single	2	Bronx
+8927	M	Single	3	Brooklyn
+8928	M	Married	1	Brooklyn
+8929	M	Married	5	Brooklyn
+8930	M	Married	1	Bronx
+8932	M	Single	1	Brooklyn
+8933	M	Single	4	Brooklyn
+8935	M	Married	3	Bronx
+8937	M	Married	1	Bronx
+8942	M	Married	2	Brooklyn
+8943	F	Single	2	Queens
+8944	F	Single	3	Staten Island
+8945	F	Single	1	Queens
+8946	M	Single	2	Queens
+8947	M	Single	2	Manhattan
+8952	M	Single	3	Queens
+8953	M	Single	3	Manhattan
+8954	F	Single	3	Bronx
+8960	M	Married	2	Manhattan
+8963	M	Married	2	Bronx
+8964	M	Married	4	Brooklyn
+8966	F	Single	3	Manhattan
+8968	M	Single	3	Manhattan
+8969	F	Single	2	Bronx
+8970	F	Single	1	Staten Island
+8973	F	Single	1	Queens
+8975	F	Married	5	Bronx
+8976	F	Married	1	Bronx
+8984	F	Married	2	Brooklyn
+8989	F	Married	2	Brooklyn
+8991	F	Single	5	Brooklyn
+8992	F	Single	3	Bronx
+8993	F	Married	3	Manhattan
+8994	M	Married	5	Bronx
+8995	F	Married	1	Queens
+8998	F	Married	1	Bronx
+9004	M	Single	1	Queens
+9005	M	Married	1	Manhattan
+9006	F	Married	1	Bronx
+9010	M	Married	5	Brooklyn
+9013	M	Married	5	Manhattan
+9014	F	Single	1	Bronx
+9016	M	Married	2	Queens
+9017	F	Married	2	Bronx
+9018	M	Married	2	Staten Island
+9019	M	Married	4	Brooklyn
+9020	M	Married	4	Bronx
+9021	M	Single	3	Bronx
+9025	F	Married	3	Bronx
+9026	M	Single	2	Bronx
+9027	M	Single	1	Bronx
+9029	M	Single	1	Manhattan
+9030	M	Single	1	Bronx
+9032	F	Single	1	Bronx
+9033	F	Married	3	Brooklyn
+9037	F	Married	1	Queens
+9038	M	Single	1	Brooklyn
+9039	M	Married	1	Bronx
+9040	F	Single	5	Manhattan
+9042	M	Married	4	Queens
+9044	M	Married	3	Bronx
+9047	F	Single	3	Bronx
+9048	F	Single	3	Staten Island
+9049	M	Single	1	Queens
+9050	M	Single	4	Manhattan
+9055	F	Married	1	Brooklyn
+9057	M	Married	2	Manhattan
+9058	M	Single	4	Manhattan
+9059	M	Married	1	Brooklyn
+9061	M	Single	2	Bronx
+9062	F	Single	4	Manhattan
+9063	M	Married	1	Queens
+9064	F	Married	3	Bronx
+9065	F	Married	4	Bronx
+9067	F	Single	1	Brooklyn
+9068	M	Single	1	Bronx
+9069	M	Single	1	Brooklyn
+9074	M	Single	1	Manhattan
+9075	M	Single	1	Bronx
+9076	F	Single	4	Brooklyn
+9078	F	Married	5	Staten Island
+9080	M	Single	2	Manhattan
+9081	M	Married	2	Bronx
+9085	M	Single	1	Bronx
+9086	F	Married	1	Brooklyn
+9087	F	Single	5	Bronx
+9088	F	Single	5	Bronx
+9092	M	Married	1	Bronx
+9093	M	Single	2	Brooklyn
+9095	F	Single	3	Brooklyn
+9097	F	Single	1	Manhattan
+9098	F	Married	4	Manhattan
+9099	M	Single	1	Manhattan
+9101	M	Single	4	Bronx
+9102	F	Married	2	Manhattan
+9103	F	Single	1	Brooklyn
+9106	M	Married	3	Manhattan
+9108	F	Married	1	Brooklyn
+9110	F	Married	3	Bronx
+9111	F	Single	2	Bronx
+9112	M	Married	1	Bronx
+9115	F	Married	4	Manhattan
+9116	M	Single	5	Manhattan
+9119	M	Married	3	Brooklyn
+9123	M	Single	1	Manhattan
+9125	M	Single	3	Bronx
+9129	F	Single	1	Bronx
+9130	M	Married	4	Manhattan
+9134	M	Married	5	Queens
+9139	F	Single	5	Staten Island
+9141	M	Married	4	Brooklyn
+9142	M	Single	4	Brooklyn
+9143	F	Married	5	Brooklyn
+9144	M	Single	1	Bronx
+9145	F	Married	1	Bronx
+9149	M	Single	1	Queens
+9150	F	Married	1	Queens
+9157	F	Married	1	Brooklyn
+9159	F	Married	1	Bronx
+9160	F	Single	1	Brooklyn
+9162	M	Married	3	Bronx
+9163	F	Married	5	Bronx
+9166	M	Married	1	Brooklyn
+9167	F	Single	5	Manhattan
+9169	F	Married	5	Queens
+9171	F	Married	1	Bronx
+9175	F	Single	2	Manhattan
+9176	M	Single	4	Queens
+9178	M	Single	4	Staten Island
+9179	F	Married	4	Brooklyn
+9180	M	Single	4	Brooklyn
+9182	M	Single	2	Bronx
+9184	M	Single	1	Manhattan
+9187	M	Married	4	Bronx
+9189	M	Single	2	Brooklyn
+9190	M	Married	3	Bronx
+9191	M	Single	1	Queens
+9195	M	Married	3	Manhattan
+9197	M	Married	1	Queens
+9198	M	Married	2	Brooklyn
+9199	F	Single	2	Staten Island
+9200	F	Single	4	Manhattan
+9205	M	Married	4	Staten Island
+9206	M	Single	3	Bronx
+9208	F	Single	5	Bronx
+9209	F	Married	4	Bronx
+9213	M	Single	3	Manhattan
+9217	F	Single	5	Brooklyn
+9223	M	Married	4	Manhattan
+9224	M	Single	4	Bronx
+9225	F	Married	2	Manhattan
+9226	F	Married	1	Brooklyn
+9227	F	Single	1	Brooklyn
+9228	F	Single	2	Bronx
+9230	F	Single	3	Bronx
+9231	F	Married	4	Manhattan
+9233	M	Married	4	Manhattan
+9234	F	Single	1	Manhattan
+9235	M	Married	4	Brooklyn
+9236	M	Single	1	Bronx
+9237	F	Single	4	Manhattan
+9238	M	Single	2	Queens
+9239	M	Married	1	Bronx
+9241	M	Single	1	Brooklyn
+9242	M	Married	4	Bronx
+9243	M	Single	4	Brooklyn
+9244	M	Married	3	Brooklyn
+9247	M	Single	4	Bronx
+9248	F	Single	2	Bronx
+9249	F	Married	2	Brooklyn
+9251	M	Married	4	Manhattan
+9252	M	Single	3	Brooklyn
+9253	F	Married	2	Staten Island
+9254	F	Married	4	Bronx
+9256	F	Married	3	Bronx
+9262	M	Married	3	Brooklyn
+9263	F	Married	2	Manhattan
+9264	F	Married	4	Manhattan
+9268	M	Married	2	Brooklyn
+9269	F	Married	2	Brooklyn
+9270	M	Married	4	Manhattan
+9271	M	Married	5	Bronx
+9272	F	Single	5	Bronx
+9275	F	Single	2	Bronx
+9276	F	Single	4	Bronx
+9280	F	Single	1	Brooklyn
+9281	M	Single	2	Manhattan
+9283	M	Married	2	Brooklyn
+9285	M	Married	1	Bronx
+9286	M	Single	5	Bronx
+9288	M	Married	4	Manhattan
+9291	M	Single	3	Queens
+9292	M	Married	5	Queens
+9294	M	Single	1	Brooklyn
+9297	F	Married	1	Bronx
+9300	M	Single	3	Bronx
+9301	F	Married	5	Queens
+9302	M	Married	1	Staten Island
+9304	M	Single	4	Brooklyn
+9306	M	Married	4	Manhattan
+9307	M	Married	3	Manhattan
+9308	M	Married	4	Manhattan
+9309	M	Married	4	Bronx
+9310	M	Married	1	Bronx
+9311	F	Single	3	Brooklyn
+9312	M	Single	1	Staten Island
+9313	M	Married	4	Brooklyn
+9315	F	Married	3	Bronx
+9317	F	Single	5	Bronx
+9318	M	Married	1	Manhattan
+9319	F	Married	4	Brooklyn
+9321	M	Married	2	Staten Island
+9323	F	Married	1	Bronx
+9324	M	Single	1	Manhattan
+9325	M	Married	1	Manhattan
+9326	F	Single	1	Staten Island
+9327	M	Married	5	Bronx
+9328	M	Single	1	Brooklyn
+9331	M	Single	2	Manhattan
+9335	M	Married	2	Manhattan
+9337	M	Single	4	Bronx
+9340	F	Single	4	Manhattan
+9342	F	Married	1	Queens
+9343	F	Married	5	Manhattan
+9345	M	Single	2	Bronx
+9349	F	Single	4	Queens
+9350	M	Single	3	Brooklyn
+9351	F	Single	4	Staten Island
+9352	M	Single	2	Brooklyn
+9353	F	Single	2	Bronx
+9354	F	Married	4	Queens
+9355	M	Single	1	Bronx
+9357	F	Married	1	Brooklyn
+9359	F	Married	1	Brooklyn
+9362	M	Married	3	Bronx
+9364	F	Married	1	Bronx
+9366	M	Married	1	Bronx
+9368	F	Married	3	Bronx
+9370	F	Single	2	Manhattan
+9373	M	Single	3	Bronx
+9374	M	Married	5	Queens
+9376	M	Single	3	Staten Island
+9378	M	Single	4	Staten Island
+9379	M	Single	1	Bronx
+9381	M	Married	3	Manhattan
+9383	F	Single	4	Manhattan
+9386	F	Married	3	Bronx
+9387	F	Married	2	Bronx
+9390	M	Married	1	Bronx
+9391	F	Single	1	Manhattan
+9393	M	Single	4	Manhattan
+9394	F	Single	4	Manhattan
+9395	F	Single	5	Brooklyn
+9396	F	Single	2	Bronx
+9397	M	Married	5	Manhattan
+9398	M	Married	4	Queens
+9401	M	Single	4	Bronx
+9402	F	Married	3	Brooklyn
+9403	M	Married	1	Bronx
+9404	F	Single	4	Bronx
+9405	M	Single	2	Bronx
+9412	M	Single	3	Bronx
+9413	F	Married	2	Queens
+9414	F	Married	2	Brooklyn
+9415	F	Married	1	Bronx
+9416	F	Married	1	Brooklyn
+9417	M	Single	5	Bronx
+9419	M	Single	1	Manhattan
+9420	F	Married	1	Bronx
+9421	M	Single	3	Staten Island
+9422	F	Married	4	Brooklyn
+9425	F	Married	5	Queens
+9426	M	Single	3	Brooklyn
+9432	F	Single	1	Queens
+9433	F	Single	4	Manhattan
+9435	F	Single	1	Brooklyn
+9437	F	Married	1	Bronx
+9438	F	Married	4	Brooklyn
+9439	M	Married	1	Staten Island
+9440	F	Single	2	Manhattan
+9443	M	Single	4	Brooklyn
+9444	M	Single	5	Brooklyn
+9447	M	Single	1	Bronx
+9448	F	Married	3	Bronx
+9449	M	Single	2	Brooklyn
+9450	F	Single	2	Brooklyn
+9451	F	Married	1	Bronx
+9455	M	Married	5	Bronx
+9456	M	Single	1	Queens
+9457	M	Married	3	Staten Island
+9459	F	Single	4	Manhattan
+9460	M	Married	1	Brooklyn
+9461	M	Single	4	Bronx
+9462	M	Married	3	Queens
+9464	F	Single	5	Brooklyn
+9467	M	Single	4	Manhattan
+9469	F	Single	1	Bronx
+9471	F	Married	3	Brooklyn
+9473	F	Married	5	Bronx
+9476	F	Single	1	Brooklyn
+9478	M	Married	5	Staten Island
+9479	M	Married	4	Brooklyn
+9480	M	Married	4	Brooklyn
+9481	F	Single	2	Manhattan
+9484	M	Single	4	Brooklyn
+9487	M	Married	3	Bronx
+9488	F	Married	2	Manhattan
+9491	M	Married	4	Bronx
+9492	M	Married	5	Brooklyn
+9494	M	Married	2	Bronx
+9495	M	Single	1	Bronx
+9498	M	Single	4	Queens
+9499	M	Married	4	Brooklyn
+9500	M	Married	3	Bronx
+9501	M	Single	4	Bronx
+9504	F	Single	2	Bronx
+9505	F	Single	3	Bronx
+9507	M	Single	1	Bronx
+9509	M	Married	4	Bronx
+9510	F	Single	5	Manhattan
+9512	F	Married	4	Queens
+9513	F	Married	4	Bronx
+9514	F	Single	1	Staten Island
+9516	F	Single	4	Bronx
+9517	F	Married	3	Staten Island
+9522	M	Married	4	Brooklyn
+9524	F	Married	3	Manhattan
+9525	M	Single	4	Queens
+9527	F	Single	1	Bronx
+9528	M	Married	1	Bronx
+9533	F	Married	5	Manhattan
+9535	F	Married	5	Manhattan
+9536	F	Married	5	Manhattan
+9540	M	Single	1	Brooklyn
+9542	M	Single	1	Staten Island
+9543	F	Single	1	Bronx
+9546	M	Single	3	Brooklyn
+9549	F	Married	1	Brooklyn
+9550	M	Single	1	Brooklyn
+9551	M	Married	2	Manhattan
+9552	M	Single	4	Bronx
+9554	M	Married	3	Bronx
+9555	F	Married	1	Bronx
+9556	F	Single	2	Bronx
+9558	F	Married	3	Brooklyn
+9559	F	Married	2	Queens
+9561	F	Single	2	Brooklyn
+9564	M	Single	5	Bronx
+9567	M	Married	3	Bronx
+9569	M	Single	5	Bronx
+9571	M	Single	1	Manhattan
+9573	M	Married	3	Queens
+9574	F	Married	4	Queens
+9578	M	Married	2	Bronx
+9581	F	Single	4	Manhattan
+9583	F	Single	3	Bronx
+9584	F	Single	4	Bronx
+9585	F	Single	3	Queens
+9586	F	Single	3	Queens
+9588	M	Married	2	Bronx
+9592	M	Single	2	Queens
+9593	F	Single	1	Manhattan
+9595	M	Married	4	Queens
+9596	M	Married	1	Brooklyn
+9598	M	Single	3	Brooklyn
+9599	F	Single	4	Manhattan
+9601	M	Single	1	Manhattan
+9602	M	Married	1	Manhattan
+9603	M	Single	4	Brooklyn
+9604	M	Married	1	Manhattan
+9606	F	Single	1	Queens
+9607	M	Married	1	Bronx
+9610	M	Single	2	Brooklyn
+9611	F	Single	5	Bronx
+9612	F	Married	1	Bronx
+9619	M	Married	3	Manhattan
+9620	M	Single	4	Queens
+9621	M	Married	5	Brooklyn
+9622	F	Single	3	Brooklyn
+9623	F	Single	2	Bronx
+9625	F	Married	2	Brooklyn
+9629	F	Married	1	Manhattan
+9630	F	Married	4	Brooklyn
+9631	M	Married	5	Manhattan
+9633	F	Married	1	Bronx
+9634	M	Married	3	Queens
+9638	F	Married	3	Manhattan
+9639	M	Married	1	Bronx
+9640	F	Married	2	Bronx
+9642	M	Married	4	Manhattan
+9644	F	Married	2	Manhattan
+9648	F	Single	1	Bronx
+9649	M	Married	4	Brooklyn
+9651	F	Single	5	Staten Island
+9652	F	Married	3	Staten Island
+9656	M	Married	2	Manhattan
+9658	F	Married	4	Bronx
+9660	F	Single	1	Brooklyn
+9662	M	Single	3	Brooklyn
+9665	M	Single	5	Queens
+9667	M	Married	3	Queens
+9668	F	Married	1	Bronx
+9671	M	Married	4	Bronx
+9673	M	Single	2	Bronx
+9674	F	Single	1	Bronx
+9678	F	Single	4	Queens
+9679	F	Single	1	Brooklyn
+9680	F	Single	5	Brooklyn
+9682	M	Married	4	Bronx
+9684	M	Married	4	Staten Island
+9685	F	Single	3	Queens
+9686	M	Single	1	Brooklyn
+9687	M	Single	1	Bronx
+9691	M	Married	3	Bronx
+9692	F	Single	3	Manhattan
+9694	M	Single	1	Bronx
+9697	F	Married	2	Queens
+9703	M	Single	1	Manhattan
+9709	M	Married	2	Brooklyn
+9710	M	Single	3	Brooklyn
+9715	F	Single	4	Bronx
+9717	M	Married	4	Brooklyn
+9719	F	Single	5	Manhattan
+9725	M	Married	3	Queens
+9726	M	Married	3	Brooklyn
+9728	M	Married	1	Manhattan
+9734	F	Married	4	Bronx
+9736	M	Single	3	Bronx
+9743	F	Married	4	Queens
+9744	M	Single	3	Brooklyn
+9745	M	Single	4	Bronx
+9746	F	Single	2	Bronx
+9747	M	Single	5	Bronx
+9748	F	Single	1	Manhattan
+9752	F	Married	1	Bronx
+9753	F	Single	4	Manhattan
+9754	F	Married	2	Queens
+9758	F	Married	5	Bronx
+9759	F	Married	4	Bronx
+9760	F	Single	2	Bronx
+9761	F	Married	3	Manhattan
+9766	F	Married	1	Queens
+9767	M	Married	3	Bronx
+9770	M	Single	4	Bronx
+9771	M	Single	3	Brooklyn
+9773	M	Married	1	Bronx
+9775	F	Single	2	Brooklyn
+9776	F	Single	2	Bronx
+9777	M	Married	1	Queens
+9778	M	Single	1	Queens
+9779	M	Single	1	Brooklyn
+9781	F	Single	1	Manhattan
+9782	F	Single	2	Bronx
+9784	F	Single	3	Queens
+9785	M	Single	3	Bronx
+9786	F	Married	3	Manhattan
+9787	M	Married	1	Bronx
+9788	F	Married	1	Bronx
+9790	F	Married	4	Brooklyn
+9791	F	Single	1	Bronx
+9793	F	Married	4	Bronx
+9794	F	Single	3	Staten Island
+9795	M	Single	2	Manhattan
+9797	F	Married	5	Manhattan
+9800	M	Married	3	Bronx
+9801	F	Single	2	Manhattan
+9806	M	Single	4	Brooklyn
+9807	F	Single	1	Brooklyn
+9808	M	Single	4	Brooklyn
+9810	M	Single	3	Manhattan
+9811	F	Single	1	Queens
+9812	F	Married	2	Bronx
+9813	F	Married	4	Bronx
+9814	M	Single	1	Bronx
+9815	M	Married	5	Manhattan
+9816	F	Single	3	Bronx
+9819	M	Married	2	Manhattan
+9820	F	Single	3	Queens
+9822	M	Married	4	Brooklyn
+9823	F	Married	1	Bronx
+9824	M	Single	4	Brooklyn
+9825	F	Single	2	Bronx
+9826	M	Single	4	Bronx
+9829	M	Single	3	Queens
+9830	F	Married	4	Brooklyn
+9831	F	Married	3	Bronx
+9833	M	Single	1	Brooklyn
+9835	F	Married	1	Brooklyn
+9837	M	Married	5	Bronx
+9842	F	Married	4	Queens
+9844	F	Married	4	Brooklyn
+9846	F	Married	4	Manhattan
+9848	M	Single	2	Brooklyn
+9850	M	Married	2	Bronx
+9851	M	Single	1	Manhattan
+9852	M	Single	3	Manhattan
+9854	M	Single	5	Brooklyn
+9855	F	Single	4	Brooklyn
+9859	M	Married	3	Queens
+9860	F	Single	1	Manhattan
+9863	M	Single	1	Bronx
+9866	M	Single	1	Manhattan
+9867	F	Single	5	Bronx
+9868	F	Married	1	Manhattan
+9869	M	Married	3	Manhattan
+9870	M	Single	1	Staten Island
+9871	F	Married	4	Bronx
+9873	M	Single	2	Bronx
+9880	F	Married	3	Brooklyn
+9881	M	Married	1	Manhattan
+9883	M	Single	2	Brooklyn
+9884	F	Single	3	Manhattan
+9885	M	Married	4	Bronx
+9887	M	Married	5	Queens
+9891	M	Married	1	Queens
+9892	M	Married	5	Bronx
+9895	M	Single	3	Queens
+9896	M	Married	1	Queens
+9897	M	Married	1	Manhattan
+9898	F	Married	2	Bronx
+9900	M	Single	5	Bronx
+9901	F	Married	4	Queens
+9903	M	Single	4	Brooklyn
+9904	M	Married	1	Brooklyn
+9906	F	Single	4	Brooklyn
+9908	M	Married	2	Brooklyn
+9909	M	Single	4	Manhattan
+9919	F	Single	2	Brooklyn
+9920	M	Married	2	Bronx
+9924	F	Married	1	Bronx
+9928	F	Single	5	Manhattan
+9929	M	Married	3	Bronx
+9930	M	Single	2	Brooklyn
+9931	F	Married	3	Brooklyn
+9932	F	Single	4	Brooklyn
+9933	F	Married	3	Staten Island
+9937	M	Married	2	Bronx
+9939	M	Married	2	Staten Island
+9941	M	Single	2	Queens
+9942	M	Married	1	Queens
+9943	M	Single	1	Bronx
+9944	M	Single	3	Bronx
+9945	M	Married	1	Brooklyn
+9949	M	Single	3	Manhattan
+9951	M	Married	4	Manhattan
+9953	F	Single	1	Queens
+9954	F	Married	3	Queens
+9956	F	Single	4	Bronx
+9962	M	Single	1	Brooklyn
+9966	M	Married	4	Brooklyn
+9967	F	Single	3	Queens
+9971	F	Married	3	Queens
+9972	M	Married	1	Bronx
+9973	M	Single	3	Bronx
+9974	M	Married	3	Bronx
+9976	F	Married	4	Bronx
+9977	F	Single	4	Manhattan
+9978	F	Single	4	Brooklyn
+9979	M	Single	4	Brooklyn
+9984	M	Single	1	Queens
+9985	M	Married	3	Brooklyn
+9987	F	Married	2	Staten Island
+9989	M	Married	3	Queens
+9990	F	Single	3	Brooklyn
+9992	M	Single	2	Manhattan
+9993	M	Single	1	Brooklyn
+9995	F	Married	2	Brooklyn
+9997	F	Married	2	Bronx
+9998	M	Single	1	Brooklyn
+9999	M	Single	1	Bronx
+10000	F	Single	5	Queens
+10001	F	Married	1	Brooklyn
+10002	M	Married	3	Manhattan
+10003	F	Single	1	Manhattan
+10004	F	Married	2	Bronx
+10008	F	Single	1	Brooklyn
+10009	F	Single	4	Manhattan
+10012	F	Married	3	Manhattan
+10015	F	Married	1	Bronx
+10016	M	Married	4	Brooklyn
+10019	F	Single	2	Manhattan
+10020	F	Married	2	Manhattan
+10021	F	Married	1	Manhattan
+10022	M	Married	2	Brooklyn
+10023	F	Single	4	Staten Island
+10024	M	Married	1	Brooklyn
+10025	M	Married	1	Brooklyn
+10026	F	Single	3	Bronx
+10028	F	Married	4	Staten Island
+10029	F	Married	3	Brooklyn
+10031	F	Married	3	Manhattan
+10032	F	Married	4	Brooklyn
+10033	F	Single	2	Manhattan
+10034	F	Married	2	Bronx
+10039	M	Married	4	Manhattan
+10043	F	Married	2	Staten Island
+10047	M	Single	2	Brooklyn
+10048	F	Single	2	Queens
+10049	F	Married	3	Bronx
+10050	M	Married	2	Brooklyn
+10054	F	Single	4	Bronx
+10055	M	Married	3	Bronx
+10058	F	Single	5	Bronx
+10059	M	Married	1	Bronx
+10060	F	Single	2	Staten Island
+10061	M	Married	3	Brooklyn
+10063	F	Single	1	Staten Island
+10064	M	Married	4	Manhattan
+10065	F	Single	1	Brooklyn
+10067	F	Single	1	Brooklyn
+10068	F	Married	2	Queens
+10070	F	Married	2	Bronx
+10071	M	Single	2	Brooklyn
+10073	F	Single	2	Queens
+10075	F	Single	4	Bronx
+10076	M	Married	5	Staten Island
+10079	F	Single	1	Manhattan
+10080	M	Married	5	Brooklyn
+10081	M	Single	3	Bronx
+10083	F	Single	2	Brooklyn
+10091	M	Married	2	Bronx
+10093	M	Married	2	Staten Island
+10095	F	Single	1	Queens
+10098	M	Married	1	Bronx
+10099	M	Married	2	Manhattan
+10101	F	Married	1	Bronx
+10102	M	Married	1	Bronx
+10104	F	Married	4	Bronx
+10106	M	Married	5	Bronx
+10113	F	Single	4	Queens
+10114	F	Married	3	Queens
+10116	M	Married	3	Bronx
+10118	F	Single	1	Bronx
+10119	F	Married	2	Brooklyn
+10120	F	Married	1	Brooklyn
+10121	M	Married	1	Brooklyn
+10126	F	Single	3	Bronx
+10128	M	Single	4	Bronx
+10131	F	Married	5	Bronx
+10133	F	Married	5	Manhattan
+10134	F	Married	3	Manhattan
+10137	F	Single	2	Brooklyn
+10138	M	Married	4	Brooklyn
+10142	F	Married	3	Manhattan
+10145	F	Married	1	Bronx
+10147	M	Married	5	Brooklyn
+10150	M	Single	3	Bronx
+10152	M	Single	5	Bronx
+10153	M	Single	1	Bronx
+10154	F	Married	2	Brooklyn
+10160	M	Single	1	Queens
+10161	M	Single	1	Brooklyn
+10166	F	Married	1	Manhattan
+10167	M	Married	2	Bronx
+10168	F	Single	3	Bronx
+10171	M	Single	4	Brooklyn
+10173	F	Married	1	Manhattan
+10174	M	Single	5	Bronx
+10176	M	Married	3	Bronx
+10177	M	Married	4	Brooklyn
+10178	M	Married	2	Brooklyn
+10181	F	Married	1	Queens
+10186	M	Single	2	Bronx
+10189	F	Single	2	Brooklyn
+10190	M	Married	5	Bronx
+10191	F	Single	4	Manhattan
+10192	M	Married	3	Bronx
+10205	M	Single	3	Brooklyn
+10208	M	Single	4	Brooklyn
+10209	F	Single	1	Brooklyn
+10210	M	Single	3	Brooklyn
+10213	M	Single	2	Brooklyn
+10214	F	Married	3	Brooklyn
+10220	F	Married	4	Brooklyn
+10225	F	Single	2	Queens
+10226	F	Single	3	Queens
+10229	F	Married	1	Brooklyn
+10230	F	Single	1	Queens
+10231	M	Single	2	Brooklyn
+10233	M	Married	2	Manhattan
+10240	F	Single	3	Manhattan
+10241	F	Married	5	Queens
+10242	F	Married	4	Queens
+10243	M	Married	4	Bronx
+10249	F	Single	4	Bronx
+10250	M	Married	2	Bronx
+10251	F	Married	3	Manhattan
+10253	F	Married	3	Manhattan
+10255	M	Single	1	Staten Island
+10257	F	Married	1	Bronx
+10258	M	Married	4	Bronx
+10260	M	Single	3	Manhattan
+10262	F	Married	5	Bronx
+10263	F	Single	3	Brooklyn
+10266	F	Single	3	Bronx
+10268	F	Single	2	Bronx
+10271	F	Single	1	Brooklyn
+10273	F	Single	3	Bronx
+10274	M	Single	4	Brooklyn
+10277	M	Married	4	Manhattan
+10278	F	Married	1	Brooklyn
+10280	F	Married	5	Bronx
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
