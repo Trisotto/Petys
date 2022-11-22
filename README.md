@@ -1,4 +1,4 @@
-# [Petys Dashboard](https://trisotto.github.io/Petys/PetysDashboard.html)
+# Petys
 
 A small business analysis of *Petys*, fictitious store, sales using Power BI.
 
@@ -13,6 +13,7 @@ You need the following:
 
 After opening the PBIX file, please change the path to the dataset in the "DatasetFilePath" parameter in the Power Query Editor.
 
-## Comments
+## Links
 
-The interactive dashboard is available on the link in the title or by clicking [here](https://trisotto.github.io/Petys/PetysDashboard.html).
+### [Petys Interactive Dashboard](https://trisotto.github.io/Petys/PetysDashboard.html)
+### [Github Repository](https://github.com/Trisotto/Petys)
