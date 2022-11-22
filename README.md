@@ -12,3 +12,7 @@ You need the following:
 ## Settings
 
 After opening the PBIX file, please change the path to the dataset in the "DatasetFilePath" parameter in the Power Query Editor.
+
+## Comments
+
+The interactive dashboard is available on the link in the title or by clicking [here](https://trisotto.github.io/Petys/PetysDashboard.html).
