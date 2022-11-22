@@ -1,4 +1,4 @@
-# Petys
+# [Petys Dashboard](https://trisotto.github.io/Petys/PetysDashboard.html)
 
 A small business analysis of *Petys*, fictitious store, sales using Power BI.
 
