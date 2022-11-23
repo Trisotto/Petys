@@ -1,6 +1,6 @@
 # Petys
 
-A small business analysis of *Petys*, fictitious store, sales using Power BI.
+A small business analysis of *Petys*, fictitious store, sales using Power BI for the development and publication of an interactive dashboard with relevant indicators about the business, in a clear and fast way.
 
 ## Prerequisites
 
