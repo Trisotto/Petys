@@ -1,6 +1,6 @@
 # Petys
 
-A small business analysis of *Petys*, fictitious store, sales using Power BI for the development and publication of an interactive dashboard with relevant indicators about the business, in a clear and fast way.
+A small business analysis of Petys, a New York City fictitious store, sales using Power BI, DAX, Excel and Figma to develop and publish an interactive dashboard with relevant indicators about the business, in a clear and fast way.
 
 ## Prerequisites
 
